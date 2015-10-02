@@ -1,0 +1,43 @@
+#!/bin/bash
+
+echo Setting up YUM repos
+chmod 777 /etc/yum.repos.d/fedora.repo
+chmod 777 /etc/yum.repos.d/fedora-updates.repo
+cp /home/liu_TDDD17/fedora.repo /etc/yum.repos.d/
+cp /home/liu_TDDD17/fedora-updates.repo /etc/yum.repos.d/
+
+# echo Creating directories
+# mkdir /home/liu_TDDD17/targets
+# mkdir /home/liu_TDDD17/certs
+# mkdir /home/liu_TDDD17/output
+# mkdir /home/liu_TDDD17/output/cert
+
+echo Installing tools
+yum -y install gcc
+yum -y install gcc-c++
+yum -y install make
+yum -y install numpy # scipy python-matplotlib ipython python-pandas sympy python-nose
+yum -y install jwhois
+# yum -y install geoip
+
+tar -xf /home/liu_TDDD17/scamper-cvs-20141101.tar.gz
+/home/liu_TDDD17/scamper-cvs-20141101/configure
+make
+make install
+
+
+# wget --no-check-certificate https://pypi.python.org/packages/source/m/multiprocessing/multiprocessing-2.6.2.1.tar.gz#md5=5cc484396c040102116ccc2355379c72
+# tar -xf multiprocessing-2.6.2.1.tar.gz 
+# python multiprocessing-2.6.2.1/setup.py install
+
+# echo Installing python 2.7
+# wget https://www.python.org/ftp/python/2.7/Python-2.7.tgz
+# tar -xf Python-2.7.tgz 
+# ./Python-2.7/configure
+# make
+# make install
+
+echo Done.
+
+
+

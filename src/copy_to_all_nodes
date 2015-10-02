@@ -1,0 +1,95 @@
+#!/bin/bash
+
+NODE=planetlab1.cs.uit.no
+TARGET=liu_TDDD17@$NODE:/home/liu_TDDD17/
+
+TARGETLIST=(ple1.ait.ac.th
+planetlab-2.research.netlab.hut.fi
+planetlab-4.imperial.ac.uk
+pl1.bell-labs.fr
+planetlab2.pop-mg.rnp.br
+iraplab1.iralab.uni-karlsruhe.de
+gschembra3.diit.unict.it
+merkur.planetlab.haw-hamburg.de
+ple2.tu.koszalin.pl
+utet.ii.uam.es
+ple2.ait.ac.th
+planetlab-um10.di.uminho.pt
+planetlab1.unineuchatel.ch
+planetlab5.ie.cuhk.edu.hk
+planetlab4.hiit.fi
+netapp6.cs.kookmin.ac.kr
+anateus.ipv6.lip6.fr
+ops.ii.uam.es
+netapp7.cs.kookmin.ac.kr
+inriarennes2.irisa.fr
+planetlabeu-1.tssg.org
+iraplab2.iralab.uni-karlsruhe.de
+empusa.ipv6.lip6.fr
+aguila1.lsi.upc.edu
+planetlab2.cesnet.cz
+onelab3.info.ucl.ac.be
+mars.planetlab.haw-hamburg.de
+planetlab2.cs.uit.no
+planetlab2-saopaulo.lan.redclara.net
+planetlab1.upm.ro
+planetlab2.comp.nus.edu.sg
+cs-planetlab3.cs.surrey.sfu.ca
+planet-lab2.itba.edu.ar
+pl1.eecs.utk.edu
+onelab1.info.ucl.ac.be
+node1.planetlab.mathcs.emory.edu
+ebb.colgate.edu
+pl1.sos.info.hiroshima-cu.ac.jp
+planetlab6.goto.info.waseda.ac.jp
+planetlab-n2.wand.net.nz
+pl1.6test.edu.cn
+planetlab4.goto.info.waseda.ac.jp
+pl1.cs.montana.edu
+pl1.eng.monash.edu.au
+planetlab2.ecs.vuw.ac.nz
+planetlab3.comp.nus.edu.sg
+pl1.pku.edu.cn
+pl-dccd-02.cua.uam.mx
+planet-lab-node2.netgroup.uniroma2.it
+planetlab2.ustc.edu.cn
+planetlab2.cti.espol.edu.ec
+ple2.ipv6.lip6.fr
+aguila2.lsi.upc.edu
+ple2.dmcs.p.lodz.pl)
+
+SOURCE=/home/josgu898/tddd17_project/src
+ID=/home/josgu898/.ssh/id_planetlab
+
+for i in "${TARGETLIST[@]}"
+do 
+	NODE=$i
+	TARGET=liu_TDDD17@$NODE:/home/liu_TDDD17/
+
+	echo Copying files to  $NODE
+	scp -i $ID $SOURCE/fedora.repo $TARGET
+	scp -i $ID $SOURCE/fedora-updates.repo $TARGET
+	scp -i $ID $SOURCE/setup_node $TARGET
+	scp -i $ID $SOURCE/scamper-cvs-20141101.tar.gz $TARGET
+	scp -i $ID $SOURCE/tracer.py $TARGET
+	scp -i $ID $SOURCE/targets/top-ip.txt $TARGET/targets
+	scp -i $ID $SOURCE/targets/no-ssl.txt $TARGET/targets
+	scp -i $ID $SOURCE/targets/topsites.txt $TARGET/targets
+
+	echo " "
+done
+
+# echo Copying files to $TARGET
+
+
+# scp -i $ID $SOURCE/node_setup $TARGET
+# scp -i $ID $SOURCE/tracer.py $TARGET
+# scp -i $ID $SOURCE/targets/top-ip.txt $TARGET/targets
+# scp -i $ID $SOURCE/scamper-cvs-20141101.tar.gz $TARGET
+
+
+# ssh -i $ID -l liu_TDDD17 $NODE 'tar -xf /home/liu_TDDD17/scamper-cvs-20141101.tar.gz'
+# ssh -i $ID -l liu_TDDD17 $NODE '/home/liu_TDDD17/scamper-cvs-20141101/configure'
+
+
+

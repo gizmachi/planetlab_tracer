@@ -1,0 +1,90 @@
+planet-lab2.itba.edu.ar					Argentina	
+pl1.eng.monash.edu.au					Australia	
+pl1.cs.montana.edu						Australia
+onelab3.info.ucl.ac.be					Belgium	
+onelab1.info.ucl.ac.be					Belgium	
+planetlab2.pop-mg.rnp.br				Brazil	
+cs-planetlab3.cs.surrey.sfu.ca			Canada	
+pl1.6test.edu.cn						China	
+pl1.pku.edu.cn							China	
+planetlab2.ustc.edu.cn					China	
+planetlab2.cesnet.cz					Czech Republic	
+planetlab2.cti.espol.edu.ec				Ecuador	
+planetlab-2.research.netlab.hut.fi		Finland	
+planetlab4.hiit.fi						Finland	
+pl1.bell-labs.fr						France	
+inriarennes2.irisa.fr					France	
+ple2.ipv6.lip6.fr						France	
+anateus.ipv6.lip6.fr					France
+empusa.ipv6.lip6.fr						France	
+iraplab2.iralab.uni-karlsruhe.de		Germany	
+mars.planetlab.haw-hamburg.de			Germany	
+iraplab1.iralab.uni-karlsruhe.de		Germany	
+merkur.planetlab.haw-hamburg.de			Germany	
+planetlab5.ie.cuhk.edu.hk				Hong Kong	
+planetlabeu-1.tssg.org					Ireland	
+gschembra3.diit.unict.it				Italy	
+planet-lab-node2.netgroup.uniroma2.it 	Italy	
+pl1.sos.info.hiroshima-cu.ac.jp			Japan	
+planetlab6.goto.info.waseda.ac.jp		Japan	
+planetlab4.goto.info.waseda.ac.jp		Japan	
+netapp6.cs.kookmin.ac.kr				Korea, Republic of	
+netapp7.cs.kookmin.ac.kr				Korea, Republic of	
+pl-dccd-02.cua.uam.mx					Mexico	
+aguila1.lsi.upc.edu						Netherlands
+aguila2.lsi.upc.edu						Netherlands
+planetlab-n2.wand.net.nz				New Zealand	
+planetlab2.ecs.vuw.ac.nz				New Zealand	
+ple2.tu.koszalin.pl						Poland	
+ple2.dmcs.p.lodz.pl						Poland	
+planetlab-um10.di.uminho.pt				Portugal	
+planetlab1.upm.ro						Romania	
+planetlab2.comp.nus.edu.sg				Singapore	
+planetlab3.comp.nus.edu.sg				Singapore	
+utet.ii.uam.es							Spain	
+ops.ii.uam.es							Spain	
+planetlab1.unineuchatel.ch				Switzerland	
+ple1.ait.ac.th							Thailand	
+ple2.ait.ac.th							Thailand	
+planetlab-4.imperial.ac.uk				United Kingdom	
+pl1.eecs.utk.edu						United States	
+node1.planetlab.mathcs.emory.edu		United States	
+ebb.colgate.edu							United States	
+planetlab2-saopaulo.lan.redclara.net	Uruguay
+
+
+Argentina:		1
+Australia:		2
+Belgium:		2
+Brazil:			1
+Canada:			1
+China:			3
+Czech Republic:	1
+Ecuador:		1
+Finland:		2
+France:			5
+Germany:		4
+Hong Kong:		1
+Ireland:		1
+Italy:			2
+Japan:			3
+South Korea:	2
+Mexico:			1
+Netherlands:	2
+New Zeeland:	2
+Poland:			2
+Portugal:		1
+Romania:		1
+Singapore:		2
+Spain:			2
+Swizerland:		1
+Tailand:		2
+United Kingdom:	1
+United States:	3
+Uruguay:		1
+
+Europe:			26
+North America:	3
+South America:	7
+Autralia:		4
+Asia:			13

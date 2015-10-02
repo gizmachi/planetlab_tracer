@@ -1,0 +1,117 @@
+#!/bin/bash
+
+NODE=planetlab1.cs.uit.no
+TARGET=liu_TDDD17@$NODE:/home/liu_TDDD17/
+
+TARGETLIST=(
+planetlab2.s3.kth.se
+ple1.hpca.ual.es
+lim-planetlab-1.univ-reunion.fr
+planet-lab-node1.netgroup.uniroma2.it
+planetlab1.utt.fr
+planetlab1.xeno.cl.cam.ac.uk
+planetlab3.xeno.cl.cam.ac.uk
+lim-planetlab-2.univ-reunion.fr
+planetlab2.xeno.cl.cam.ac.uk
+planetlab2.di.unito.it
+planetlab2.ics.forth.gr
+onelab2.info.ucl.ac.be
+planetlab-4.cs.ucy.ac.cy
+planetlab1.u-strasbg.fr
+planetlab1.ifi.uio.no
+planetlab1.urv.cat
+planetlab-1.research.netlab.hut.fi
+planetlab-2.tagus.ist.utl.pt
+prata.mimuw.edu.pl
+host3.planetlab.informatik.tu-darmstadt.de
+# planetlab02.tkn.tu-berlin.de
+planetlab2.dit.upm.es
+planetlab3.di.unito.it
+planetlab2.um.es
+planetlab-13.e5.ijs.si
+planetlab02.dis.unina.it
+# planetlab1.informatik.uni-erlangen.de
+planetlab2.cs.uoi.gr
+planetlab-1.fhi-fokus.de
+plato.di.uoa.gr
+planetlab1.mta.ac.il
+planetlab-coffee.ait.ie
+planetlab-12.e5.ijs.si
+planetlab3.hiit.fi
+planetlab01.dis.unina.it
+planetlab2.u-strasbg.fr
+chronos.disy.inf.uni-konstanz.de
+planetlab3.cs.st-andrews.ac.uk
+plutarch.di.uoa.gr
+planetlab4.cs.st-andrews.ac.uk
+planetlab2.csg.uzh.ch
+planetlab2.upc.es
+planetlab-2.ida.liu.se
+planetlab3.upc.es
+planetlab1.upc.es
+ple2.hpca.ual.es
+planetlab1.um.es
+planetlab01.tkn.tu-berlin.de
+pl1.uni-rostock.de
+ple2.det.uvigo.es
+planetlab1.extern.kuleuven.be
+planetlab2.urv.cat
+planetlab3.cslab.ece.ntua.gr
+planetlab2.cs.uit.no
+planetlab2.informatik.uni-kl.de
+planetlab2.informatik.uni-erlangen.de
+dannan.disy.inf.uni-konstanz.de
+planetlab1.fct.ualg.pt
+ple1.det.uvigo.es
+planetlab1.virtues.fi
+plab4.ple.silweb.pl
+planetlab2.utt.fr
+planetlab1.di.unito.it
+planetlab-um00.di.uminho.pt
+plewifi.ipv6.lip6.fr
+ple3.ipv6.lip6.fr
+planetvs2.informatik.uni-stuttgart.de
+planetlab1.mini.pw.edu.pl
+planetlab-1.ida.liu.se
+plab2.ple.silweb.pl
+planetlab2.extern.kuleuven.be
+planetlab1.cs.vu.nl
+planetlab-tea.ait.ie
+ple6.ipv6.lip6.fr
+planetlab1.cs.uit.no
+)
+
+SOURCE=/home/josef/planetlab_webtrace
+ID=/home/josef/.ssh/id_planetlab
+
+for i in "${TARGETLIST[@]}"
+do 
+	NODE=$i
+	TARGET=liu_TDDD17@$NODE:/home/liu_TDDD17/
+
+	# echo Creating directories on $NODE
+	# ssh -i $ID -l liu_TDDD17 $NODE 'mkdir /home/liu_TDDD17/targets'
+	# ssh -i $ID -l liu_TDDD17 $NODE 'mkdir /home/liu_TDDD17/output'
+	# ssh -i $ID -l liu_TDDD17 $NODE 'mkdir /home/liu_TDDD17/output/cert'
+
+	# echo Copying files to  $NODE
+	# scp -i $ID $SOURCE/planetlab/fedora.repo $TARGET
+	# scp -i $ID $SOURCE/planetlab/fedora-updates.repo $TARGET
+	# scp -i $ID $SOURCE/planetlab/setup_node $TARGET
+	# scp -i $ID $SOURCE/src/scamper-cvs-20141101.tar.gz $TARGET
+	# scp -i $ID $SOURCE/src/tracer.py $TARGET
+	# scp -i $ID $SOURCE/src/targets/topsites.txt $TARGET/targets
+
+# 	echo " "
+done
+
+
+echo Running Setup
+for i in "${TARGETLIST[@]}"
+do 
+	NODE=$i
+	gnome-terminal -e "ssh liu_TDDD17@$NODE"
+
+done
+
+

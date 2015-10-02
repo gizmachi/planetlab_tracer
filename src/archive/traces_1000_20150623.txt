@@ -1,0 +1,2000 @@
+1|google.com|216.58.209.110|HTTP|None|None|None|True
+1|google.com|216.58.209.110|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|406928A8AE60B3019ABCF41D3C09DFD2
+2|facebook.com|173.252.120.6|HTTP|None|None|None|True
+2|facebook.com|173.252.120.6|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|id-ecPublicKey|256|DigiCert High Assurance CA-3|358252AB83A5DDF01F6B80E2CB5BAC5A
+3|youtube.com|216.58.209.110|HTTP|None|None|None|True
+3|youtube.com|216.58.209.110|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|406928A8AE60B3019ABCF41D3C09DFD2
+4|yahoo.com|98.139.183.24|HTTP|None|None|None|True
+4|yahoo.com|98.139.183.24|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|E2F746654AF2ECD23E67DB28DA59B3C3
+5|baidu.com|123.125.114.144|HTTP|None|None|None|True
+5|baidu.com|123.125.114.144|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 International Server CA - G3|68677DE35734635BA21C44277442BBDE
+6|wikipedia.org|91.198.174.192|HTTP|None|None|None|True
+6|wikipedia.org|91.198.174.192|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - SHA256 - G2|F170B1559FD36AF200010F6200A02B43
+7|amazon.com|176.32.98.166|HTTP|None|None|None|True
+7|amazon.com|176.32.98.166|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|AE2C4A0A9638BD6F1E822914FE5F7D30
+8|twitter.com|199.16.156.102|HTTP|None|None|None|True
+8|twitter.com|199.16.156.102|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 EV SSL CA - G3|BD278FE3A8BA9881FE5A3E424D88D084
+9|taobao.com|110.75.115.70|HTTP|None|None|None|True
+9|taobao.com|110.75.115.70|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|6DF412440B32EEAA31632BEA53A0CDB1
+10|qq.com|125.39.240.113|HTTP|None|None|None|True
+10|qq.com|125.39.240.113|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA|34D4FDC35CD6275241B6B31B755C6980
+11|google.co.in|173.194.40.255|HTTP|None|None|None|True
+11|google.co.in|173.194.40.255|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+12|live.com|65.55.206.154|HTTP|None|None|None|False
+12|live.com|65.55.206.154|HTTPS|None|None|None|False|None|None|None|None|None|None
+13|linkedin.com|199.101.163.129|HTTP|None|None|None|True
+13|linkedin.com|199.101.163.129|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|895BA2BFDCE473DA4684D5456D819752
+14|sina.com.cn|202.108.33.60|HTTP|None|None|None|False
+14|sina.com.cn|202.108.33.60|HTTPS|None|None|None|False|None|None|None|None|None|None
+15|weibo.com|114.134.80.162|HTTP|None|None|None|False
+15|weibo.com|114.134.80.162|HTTPS|None|None|None|False|None|None|None|None|None|None
+16|yahoo.co.jp|182.22.59.229|HTTP|None|None|None|False
+16|yahoo.co.jp|182.22.59.229|HTTPS|None|None|None|False|None|None|None|None|None|None
+17|tmall.com|110.75.114.89|HTTP|None|None|None|False
+17|tmall.com|110.75.114.89|HTTPS|None|None|None|False|None|None|None|None|None|None
+18|google.co.jp|216.58.209.99|HTTP|None|None|None|True
+18|google.co.jp|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+19|ebay.com|66.135.216.190|HTTP|None|None|None|False
+19|ebay.com|66.135.216.190|HTTPS|None|None|None|False|None|None|None|None|None|None
+20|blogspot.com|216.58.209.105|HTTP|None|None|None|True
+20|blogspot.com|216.58.209.105|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|2C6A1BDD40D86D39AB68A89705D440F9
+21|t.co|199.16.156.75|HTTP|None|None|None|True
+21|t.co|199.16.156.75|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|2EC189B90C1079C2EDAAEB25342F5234
+22|google.de|216.58.209.99|HTTP|None|None|None|True
+22|google.de|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+23|yandex.ru|5.255.255.55|HTTP|None|None|None|True
+23|yandex.ru|5.255.255.55|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|CLASS 2 KEYNECTIS CA|51EFDC035E50DA33DE4F77B94158B15C
+24|hao123.com|123.125.115.150|HTTP|None|None|None|False
+24|hao123.com|123.125.115.150|HTTPS|None|None|None|False|None|None|None|None|None|None
+25|bing.com|204.79.197.200|HTTP|None|None|None|True
+25|bing.com|204.79.197.200|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Microsoft IT SSL SHA2|60867D2861F1EA71EA77A233671AE520
+26|vk.com|87.240.143.241|HTTP|None|None|None|True
+26|vk.com|87.240.143.241|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|5A41D75592D43FB0FBB9F7BF0B379EAA
+27|reddit.com|198.41.209.141|HTTP|None|None|None|True
+27|reddit.com|198.41.209.141|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Gandi Standard SSL CA|2FF9433753EA1AE779D63CE7A7303409
+28|google.co.uk|173.194.40.248|HTTP|None|None|None|False
+28|google.co.uk|173.194.40.248|HTTPS|None|None|None|False|None|None|None|None|None|None
+29|msn.com|23.101.196.141|HTTP|None|None|None|False
+29|msn.com|23.101.196.141|HTTPS|None|None|None|False|None|None|None|None|None|None
+30|amazon.co.jp|54.240.252.0|HTTP|None|None|None|True
+30|amazon.co.jp|54.240.252.0|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|B7B77EAB541F4B7CF6E34ECC4E81FA38
+31|google.com.br|173.194.40.247|HTTP|None|None|None|True
+31|google.com.br|173.194.40.247|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+32|instagram.com|107.23.4.118|HTTP|None|None|None|True
+32|instagram.com|107.23.4.118|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|DigiCert High Assurance CA-3|66D28515DF328A7D345F01270B9867E2
+33|google.fr|216.58.209.99|HTTP|None|None|None|True
+33|google.fr|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+34|tumblr.com|66.6.43.30|HTTP|None|None|None|True
+34|tumblr.com|66.6.43.30|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G3|665A67377F77DED081718A23CFC65393
+35|wordpress.com|192.0.78.9|HTTP|None|None|None|True
+35|wordpress.com|192.0.78.9|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|8632151B9634F613137D17C7BA37E640
+36|sohu.com|123.125.116.19|HTTP|None|None|None|True
+36|sohu.com|123.125.116.19|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|A084FB3855E9266A76E9C1F89A7691FB
+37|imgur.com|23.235.43.193|HTTP|None|None|None|True
+37|imgur.com|23.235.43.193|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|DigiCert High Assurance CA-3|12F6DF1C76568F4D8DBDA7A9A5D551B1
+38|pinterest.com|23.235.37.84|HTTP|None|None|None|True
+38|pinterest.com|23.235.37.84|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|7352C612301726C45C19666BAF4FDBFE
+39|paypal.com|66.211.169.66|HTTP|None|None|None|True
+39|paypal.com|66.211.169.66|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|D4E4E93320BDBB4DA823DE44EA850B7B
+40|aliexpress.com|205.204.96.1|HTTP|None|None|None|False
+40|aliexpress.com|205.204.96.1|HTTPS|None|None|None|False|None|None|None|None|None|None
+41|xvideos.com|141.0.174.36|HTTP|None|None|None|False
+41|xvideos.com|141.0.174.36|HTTPS|None|None|None|False|None|None|None|None|None|None
+42|ask.com|66.235.120.127|HTTP|None|None|None|False
+42|ask.com|66.235.120.127|HTTPS|None|None|None|False|None|None|None|None|None|None
+43|apple.com|17.178.96.59|HTTP|None|None|None|False
+43|apple.com|17.178.96.59|HTTPS|None|None|None|False|None|None|None|None|None|None
+44|microsoft.com|134.170.188.221|HTTP|None|None|None|True
+44|microsoft.com|134.170.188.221|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Microsoft IT SSL SHA2|F6603613A3FE34458EA598D15AC3D1A3
+45|onclickads.net|78.140.191.110|HTTP|None|None|None|True
+45|onclickads.net|78.140.191.110|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|RapidSSL SHA256 CA - G3|D5EDE6D3C9042F0E51D740BFFBC53297
+46|mail.ru|217.69.139.202|HTTP|None|None|None|True
+46|mail.ru|217.69.139.202|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G2|1FD82C95BE66DFBF432793816DD06A65
+47|google.ru|216.58.209.99|HTTP|None|None|None|True
+47|google.ru|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+48|gmail.com|216.58.209.101|HTTP|None|None|None|True
+48|gmail.com|216.58.209.101|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|40CE879FD5E287B7DABDD7B4CB2CCAC
+49|google.it|173.194.40.255|HTTP|None|None|None|True
+49|google.it|173.194.40.255|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+50|imdb.com|72.21.210.29|HTTP|None|None|None|False
+50|imdb.com|72.21.210.29|HTTPS|None|None|None|False|None|None|None|None|None|None
+51|alibaba.com|198.11.132.23|HTTP|None|None|None|False
+51|alibaba.com|198.11.132.23|HTTPS|None|None|None|False|None|None|None|None|None|None
+52|fc2.com|52.8.147.192|HTTP|None|None|None|False
+52|fc2.com|52.8.147.192|HTTPS|None|None|None|False|None|None|None|None|None|None
+53|adcash.com|104.154.36.143|HTTP|None|None|None|True
+53|adcash.com|104.154.36.143|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|RapidSSL CA|5AC278F54D7493A14A5C6022A5F2B72C
+54|google.es|173.194.40.255|HTTP|None|None|None|True
+54|google.es|173.194.40.255|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+55|amazon.de|178.236.7.219|HTTP|None|None|None|True
+55|amazon.de|178.236.7.219|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|193ADDA637D9C9A0417EA280A2AF0ADB
+56|360.cn|106.120.167.66|HTTP|None|None|None|False
+56|360.cn|106.120.167.66|HTTPS|None|None|None|False|None|None|None|None|None|None
+57|stackoverflow.com|198.252.206.16|HTTP|None|None|None|False
+57|stackoverflow.com|198.252.206.16|HTTPS|None|None|None|False|None|None|None|None|None|None
+58|netflix.com|54.243.253.96|HTTP|None|None|None|True
+58|netflix.com|54.243.253.96|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 Secure Server CA - G4|737F1CA49AD459E866D9A87DE81231C3
+59|googleadservices.com|216.58.209.98|HTTP|None|None|None|True
+59|googleadservices.com|216.58.209.98|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|EDC897A29274DE8B375149FD7D3A1B9
+60|diply.com|191.238.18.91|HTTP|None|None|None|False
+60|diply.com|191.238.18.91|HTTPS|None|None|None|False|None|None|None|None|None|None
+61|craigslist.org|208.82.238.129|HTTP|None|None|None|True
+61|craigslist.org|208.82.238.129|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Network Solutions Certificate Authority|D4348DA7DDB8A33212FF2C26BACAC130
+62|google.ca|173.194.40.248|HTTP|None|None|None|True
+62|google.ca|173.194.40.248|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+63|go.com|199.181.131.249|HTTP|None|None|None|True
+63|go.com|199.181.131.249|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Entrust Certification Authority - L1C|91DC0A1DEABBDE7DADA82C05A4911589
+64|xhamster.com|88.208.24.35|HTTP|None|None|None|True
+64|xhamster.com|88.208.24.35|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Domain Validation Secure Server CA|9203D4D5CAF36DE5F47FE698C1EE59A0
+65|naver.com|202.179.177.21|HTTP|None|None|None|False
+65|naver.com|202.179.177.21|HTTPS|None|None|None|False|None|None|None|None|None|None
+66|google.com.hk|173.194.71.94|HTTP|None|None|None|True
+66|google.com.hk|173.194.71.94|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+67|tianya.cn|124.225.65.154|HTTP|None|None|None|False
+67|tianya.cn|124.225.65.154|HTTPS|None|None|None|False|None|None|None|None|None|None
+68|163.com|123.58.180.7|HTTP|None|None|None|True
+68|163.com|123.58.180.7|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G2|1CAE5FAAD1544434CF16EC54ECCC8620
+69|gmw.cn|111.202.12.1|HTTP|None|None|None|False
+69|gmw.cn|111.202.12.1|HTTPS|None|None|None|False|None|None|None|None|None|None
+70|bbc.co.uk|212.58.246.104|HTTP|None|None|None|True
+70|bbc.co.uk|212.58.246.104|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - SHA256 - G2|6711A848DD29A3BB1C1485F200E369B
+71|kickass.to|95.215.61.203|HTTP|None|None|None|True
+71|kickass.to|95.215.61.203|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Domain Validation Secure Server CA|B1DF72D8FF436CE7DE0AAFC746C6CADF
+72|google.com.tr|173.194.40.248|HTTP|None|None|None|True
+72|google.com.tr|173.194.40.248|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+73|amazon.co.uk|178.236.6.251|HTTP|None|None|None|True
+73|amazon.co.uk|178.236.6.251|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|BCA762AA95C5B0541C883B4D7D944553
+74|pornhub.com|31.192.117.132|HTTP|None|None|None|True
+74|pornhub.com|31.192.117.132|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|DigiCert High Assurance CA-3|39036DA686988F7CFE53ADFE4F0C1D49
+75|rakuten.co.jp|133.237.48.124|HTTP|None|None|None|False
+75|rakuten.co.jp|133.237.48.124|HTTPS|None|None|None|False|None|None|None|None|None|None
+76|adobe.com|192.150.16.117|HTTP|None|None|None|True
+76|adobe.com|192.150.16.117|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 International Server CA - G3|70F3E13A03B8996B77CC81F470634B94
+77|ebay.de|66.135.211.132|HTTP|None|None|None|True
+77|ebay.de|66.135.211.132|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 Secure Server CA - G4|D1721CD6CBF883117F68C37984A79BD7
+78|ok.ru|217.20.147.94|HTTP|None|None|None|True
+78|ok.ru|217.20.147.94|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G3|2CC52BAF9DB5D6E950ACB9F4C2BD29CD
+79|google.com.mx|173.194.40.239|HTTP|None|None|None|True
+79|google.com.mx|173.194.40.239|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+80|amazon.cn|203.81.17.130|HTTP|None|None|None|True
+80|amazon.cn|203.81.17.130|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|13DB024EE0B0BD6643CD322B2363A4E0
+81|dropbox.com|108.160.172.200|HTTP|None|None|None|True
+81|dropbox.com|108.160.172.200|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|153DC90EB0BC2B52886FFFAD63BA740C
+82|cnn.com|157.166.226.25|HTTP|None|None|None|False
+82|cnn.com|157.166.226.25|HTTPS|None|None|None|False|None|None|None|None|None|None
+83|nicovideo.jp|202.248.110.243|HTTP|None|None|None|False
+83|nicovideo.jp|202.248.110.243|HTTPS|None|None|None|False|None|None|None|None|None|None
+84|google.pl|173.194.40.248|HTTP|None|None|None|True
+84|google.pl|173.194.40.248|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+85|dailymotion.com|195.8.215.137|HTTP|None|None|None|True
+85|dailymotion.com|195.8.215.137|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|DigiCert High Assurance CA-3|57BBC4610A13CA6A449DF76A65085CCC
+86|google.com.au|173.194.40.239|HTTP|None|None|None|True
+86|google.com.au|173.194.40.239|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+87|espn.go.com|68.71.212.186|HTTP|None|None|None|True
+87|espn.go.com|68.71.212.186|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Entrust Certification Authority - L1C|E1929B7C1AF64633583BD35D4BEDAFA1
+88|soso.com|220.181.124.154|HTTP|None|None|None|False
+88|soso.com|220.181.124.154|HTTPS|None|None|None|False|None|None|None|None|None|None
+89|cntv.cn|202.108.8.82|HTTP|None|None|None|False
+89|cntv.cn|202.108.8.82|HTTPS|None|None|None|False|None|None|None|None|None|None
+90|googleusercontent.com|None|HTTP|None|None|None|None
+90|googleusercontent.com|None|HTTPS|None|None|None|None|None|None|None|None|None|None
+91|jd.com|211.152.123.224|HTTP|None|None|None|False
+91|jd.com|211.152.123.224|HTTPS|None|None|None|False|None|None|None|None|None|None
+92|github.com|192.30.252.129|HTTP|None|None|None|True
+92|github.com|192.30.252.129|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Extended Validation Server CA|FA67E3C367790D8B9452AB2101326334
+93|outbrain.com|74.217.148.112|HTTP|None|None|None|True
+93|outbrain.com|74.217.148.112|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|thawte SSL CA - G2|D0F6FE95ED72474B5C6898FC598AD7C
+94|directrev.com|54.231.12.172|HTTP|None|None|None|False
+94|directrev.com|54.231.12.172|HTTPS|None|None|None|False|None|None|None|None|None|None
+95|youku.com|101.227.10.19|HTTP|None|None|None|False
+95|youku.com|101.227.10.19|HTTPS|None|None|None|False|None|None|None|None|None|None
+96|alipay.com|110.76.19.33|HTTP|None|None|None|False
+96|alipay.com|110.76.19.33|HTTPS|None|None|None|False|None|None|None|None|None|None
+97|people.com.cn|180.210.234.32|HTTP|None|None|None|True
+97|people.com.cn|180.210.234.32|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Domain Validation Secure Server CA|68172192AA61480B4338DBB2385B234D
+98|pixnet.net|103.23.108.107|HTTP|None|None|None|False
+98|pixnet.net|103.23.108.107|HTTPS|None|None|None|False|None|None|None|None|None|None
+99|flipkart.com|163.53.77.55|HTTP|None|None|None|True
+99|flipkart.com|163.53.77.55|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Entrust Certification Authority - L1M|AA13E6B1828CFAE712749E5EECC34CB0
+100|google.co.kr|216.58.209.99|HTTP|None|None|None|True
+100|google.co.kr|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+101|google.co.id|173.194.40.255|HTTP|None|None|None|True
+101|google.co.id|173.194.40.255|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+102|chinadaily.com.cn|124.127.52.130|HTTP|None|None|None|False
+102|chinadaily.com.cn|124.127.52.130|HTTPS|None|None|None|False|None|None|None|None|None|None
+103|nytimes.com|170.149.172.130|HTTP|None|None|None|True
+103|nytimes.com|170.149.172.130|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|RapidSSL CA|EDFF0A6AD51EB9DA626D78CD0F8AAF73
+104|blogger.com|216.58.209.105|HTTP|None|None|None|True
+104|blogger.com|216.58.209.105|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|2C6A1BDD40D86D39AB68A89705D440F9
+105|buzzfeed.com|54.241.35.79|HTTP|None|None|None|False
+105|buzzfeed.com|54.241.35.79|HTTPS|None|None|None|False|None|None|None|None|None|None
+106|ebay.co.uk|66.211.181.235|HTTP|None|None|None|True
+106|ebay.co.uk|66.211.181.235|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 Secure Server CA - G4|D1721CD6CBF883117F68C37984A79BD7
+107|uol.com.br|200.221.2.45|HTTP|None|None|None|False
+107|uol.com.br|200.221.2.45|HTTPS|None|None|None|False|None|None|None|None|None|None
+108|wikia.com|185.31.17.194|HTTP|None|None|None|True
+108|wikia.com|185.31.17.194|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - SHA256 - G2|66010AA8486590A7FCD657B7CD9396CF
+109|huffingtonpost.com|64.12.79.57|HTTP|None|None|None|False
+109|huffingtonpost.com|64.12.79.57|HTTPS|None|None|None|False|None|None|None|None|None|None
+110|livedoor.com|125.6.149.67|HTTP|None|None|None|False
+110|livedoor.com|125.6.149.67|HTTPS|None|None|None|False|None|None|None|None|None|None
+111|booking.com|5.57.16.220|HTTP|None|None|None|True
+111|booking.com|5.57.16.220|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|6F406E5B6DD84038C2363EDB90483540
+112|bycontext.com|46.105.156.82|HTTP|None|None|None|True
+112|bycontext.com|46.105.156.82|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|A8EE1403C41CCA688FB15BE7846C3E45
+113|indiatimes.com|223.165.27.13|HTTP|None|None|None|False
+113|indiatimes.com|223.165.27.13|HTTPS|None|None|None|False|None|None|None|None|None|None
+114|amazon.in|54.239.34.40|HTTP|None|None|None|True
+114|amazon.in|54.239.34.40|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|57E8C348D91C2A80062CF890183D397F
+115|google.com.tw|173.194.40.247|HTTP|None|None|None|True
+115|google.com.tw|173.194.40.247|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+116|china.com|223.223.182.210|HTTP|None|None|None|False
+116|china.com|223.223.182.210|HTTPS|None|None|None|False|None|None|None|None|None|None
+117|sogou.com|106.120.151.62|HTTP|None|None|None|True
+117|sogou.com|106.120.151.62|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G2|CFB394641CA54806BAF3CC19918501E7
+118|tudou.com|123.126.98.150|HTTP|None|None|None|False
+118|tudou.com|123.126.98.150|HTTPS|None|None|None|False|None|None|None|None|None|None
+119|chase.com|159.53.116.62|HTTP|None|None|None|True
+119|chase.com|159.53.116.62|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 EV SSL SGC CA - G2|C885E2341EC3FAF81804D7D098D8114C
+120|amazonaws.com|72.21.206.80|HTTP|None|None|None|False
+120|amazonaws.com|72.21.206.80|HTTPS|None|None|None|False|None|None|None|None|None|None
+121|blogspot.in|216.58.209.105|HTTP|None|None|None|True
+121|blogspot.in|216.58.209.105|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|2C6A1BDD40D86D39AB68A89705D440F9
+122|google.com.eg|173.194.40.248|HTTP|None|None|None|True
+122|google.com.eg|173.194.40.248|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+123|xnxx.com|141.0.174.36|HTTP|None|None|None|False
+123|xnxx.com|141.0.174.36|HTTPS|None|None|None|False|None|None|None|None|None|None
+124|dailymail.co.uk|195.234.240.212|HTTP|None|None|None|False
+124|dailymail.co.uk|195.234.240.212|HTTPS|None|None|None|False|None|None|None|None|None|None
+125|xinhuanet.com|202.108.119.193|HTTP|None|None|None|False
+125|xinhuanet.com|202.108.119.193|HTTPS|None|None|None|False|None|None|None|None|None|None
+126|flickr.com|69.147.76.173|HTTP|None|None|None|True
+126|flickr.com|69.147.76.173|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|A8070EA847C4C1CE41FC0506330CF205
+127|ettoday.net|219.85.79.131|HTTP|None|None|None|True
+127|ettoday.net|219.85.79.131|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|TWCA Secure SSL Certification Authority|3B147FCA924568B207033F060F329E9D
+128|coccoc.com|123.30.175.29|HTTP|None|None|None|True
+128|coccoc.com|123.30.175.29|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|RapidSSL SHA256 CA - G3|2DEC48A43B7FDF4428B0EA227696A504
+129|globo.com|186.192.90.5|HTTP|None|None|None|False
+129|globo.com|186.192.90.5|HTTPS|None|None|None|False|None|None|None|None|None|None
+130|douban.com|211.147.4.49|HTTP|None|None|None|True
+130|douban.com|211.147.4.49|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G2|A92CFBC4520DA90BC102782464224D57
+131|google.nl|216.58.209.99|HTTP|None|None|None|True
+131|google.nl|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+132|wordpress.org|66.155.40.249|HTTP|None|None|None|True
+132|wordpress.org|66.155.40.249|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|58C7BB751E27B13C7C7559E47DEAF5CB
+133|bankofamerica.com|171.161.148.150|HTTP|None|None|None|True
+133|bankofamerica.com|171.161.148.150|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 EV SSL CA - G2|E0E0744F5A94CE7435E1A5E0E7C9480
+134|yelp.com|198.51.132.180|HTTP|None|None|None|True
+134|yelp.com|198.51.132.180|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|5F56B1DF3D503FAF8F46C164D766E4BC
+135|popads.net|184.154.76.140|HTTP|None|None|None|True
+135|popads.net|184.154.76.140|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Domain Validation Secure Server CA|BEA51CA4F24193445212CDF2D9B80CCF
+136|pconline.com.cn|219.136.245.40|HTTP|None|None|None|False
+136|pconline.com.cn|219.136.245.40|HTTPS|None|None|None|False|None|None|None|None|None|None
+137|about.com|207.241.148.80|HTTP|None|None|None|False
+137|about.com|207.241.148.80|HTTPS|None|None|None|False|None|None|None|None|None|None
+138|google.com.ar|216.58.209.99|HTTP|None|None|None|True
+138|google.com.ar|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+139|daum.net|61.111.62.173|HTTP|None|None|None|False
+139|daum.net|61.111.62.173|HTTPS|None|None|None|False|None|None|None|None|None|None
+140|ameblo.jp|180.233.142.129|HTTP|None|None|None|False
+140|ameblo.jp|180.233.142.129|HTTPS|None|None|None|False|None|None|None|None|None|None
+141|youradexchange.com|130.211.183.139|HTTP|None|None|None|True
+141|youradexchange.com|130.211.183.139|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|RapidSSL SHA256 CA - G3|E341245A8321D58E6D5CD2C1B05CD6CC
+142|godaddy.com|208.109.4.218|HTTP|None|None|None|True
+142|godaddy.com|208.109.4.218|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|D811C650F128799A3DD69C10BEEDD9C3
+143|salesforce.com|96.43.144.26|HTTP|None|None|None|True
+143|salesforce.com|96.43.144.26|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 International Server CA - G3|34BEF4E25FA6A935E170A2C9FB8AFDB0
+144|dmm.co.jp|203.209.152.60|HTTP|None|None|None|False
+144|dmm.co.jp|203.209.152.60|HTTPS|None|None|None|False|None|None|None|None|None|None
+145|slideshare.net|108.174.2.138|HTTP|None|None|None|False
+145|slideshare.net|108.174.2.138|HTTPS|None|None|None|False|None|None|None|None|None|None
+146|cnet.com|64.30.224.118|HTTP|None|None|None|False
+146|cnet.com|64.30.224.118|HTTPS|None|None|None|False|None|None|None|None|None|None
+147|themeforest.net|23.253.198.38|HTTP|None|None|None|True
+147|themeforest.net|23.253.198.38|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|RapidSSL CA|15BB5C8A6CEE97EA2BD91B34BD1AD5F
+148|bongacams.com|64.210.142.13|HTTP|None|None|None|True
+148|bongacams.com|64.210.142.13|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Organization Validation Secure Server CA|549886F9C6F11C335CD75B826D2E820A
+149|twitch.tv|192.16.71.176|HTTP|None|None|None|True
+149|twitch.tv|192.16.71.176|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|25E77FE422CB4DAD516EC4661A996912
+150|etsy.com|38.106.64.123|HTTP|None|None|None|True
+150|etsy.com|38.106.64.123|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|RapidSSL SHA256 CA - G3|8CC97506A064D0145D8DC1DA964647AB
+151|loading-delivery1.com|141.0.173.94|HTTP|None|None|None|False
+151|loading-delivery1.com|141.0.173.94|HTTPS|None|None|None|False|None|None|None|None|None|None
+152|redtube.com|62.212.83.1|HTTP|None|None|None|True
+152|redtube.com|62.212.83.1|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|BFD568FFC6F2BAFF436A7192739D529B
+153|deviantart.com|199.15.160.100|HTTP|None|None|None|True
+153|deviantart.com|199.15.160.100|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|22C29D76454A1E5A54B0697715D17EE7
+154|google.com.pk|173.194.40.247|HTTP|None|None|None|True
+154|google.com.pk|173.194.40.247|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+155|amazon.fr|178.236.6.242|HTTP|None|None|None|True
+155|amazon.fr|178.236.6.242|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|CE2D2267CA42409E129B05586F50A5DC
+156|quora.com|54.84.216.68|HTTP|None|None|None|True
+156|quora.com|54.84.216.68|HTTPS|None|None|None|True| 21 (unable to verify the first certificate)|sha256WithRSAEncryption|rsaEncryption|2048|RapidSSL SHA256 CA - G3|744ED908C7C6BFF0393F93E93F8A306D
+157|warmportrait.com|None|HTTP|None|None|None|None
+157|warmportrait.com|None|HTTPS|None|None|None|None|None|None|None|None|None|None
+158|google.com.sa|216.58.209.99|HTTP|None|None|None|True
+158|google.com.sa|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+159|theguardian.com|77.91.251.10|HTTP|None|None|None|False
+159|theguardian.com|77.91.251.10|HTTPS|None|None|None|False|None|None|None|None|None|None
+160|weather.com|96.8.84.132|HTTP|None|None|None|False
+160|weather.com|96.8.84.132|HTTPS|None|None|None|False|None|None|None|None|None|None
+161|bbc.com|212.58.244.20|HTTP|None|None|None|True
+161|bbc.com|212.58.244.20|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - SHA256 - G2|6711A848DD29A3BB1C1485F200E369B
+162|stamplive.com|78.140.181.183|HTTP|None|None|None|False
+162|stamplive.com|78.140.181.183|HTTPS|None|None|None|False|None|None|None|None|None|None
+163|youporn.com|31.192.116.24|HTTP|None|None|None|True
+163|youporn.com|31.192.116.24|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|DigiCert High Assurance CA-3|3486C129FCA56FD8E9CDDFF1337C9212
+164|adf.ly|104.20.1.4|HTTP|None|None|None|True
+164|adf.ly|104.20.1.4|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|109A1B0D3B2637F483A9ACCDFFBEB78E
+165|ilividnewtab.com|94.31.0.55|HTTP|None|None|None|False
+165|ilividnewtab.com|94.31.0.55|HTTPS|None|None|None|False|None|None|None|None|None|None
+166|forbes.com|63.240.4.179|HTTP|None|None|None|True
+166|forbes.com|63.240.4.179|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G3|A8228BF8D9BCBCCBA62037136359895D
+167|naver.jp|119.235.235.34|HTTP|None|None|None|False
+167|naver.jp|119.235.235.34|HTTPS|None|None|None|False|None|None|None|None|None|None
+168|stackexchange.com|104.16.12.13|HTTP|None|None|None|False
+168|stackexchange.com|104.16.12.13|HTTPS|None|None|None|False|None|None|None|None|None|None
+169|vimeo.com|104.156.85.217|HTTP|None|None|None|False
+169|vimeo.com|104.156.85.217|HTTPS|None|None|None|False|None|None|None|None|None|None
+170|indeed.com|31.222.135.38|HTTP|None|None|None|False
+170|indeed.com|31.222.135.38|HTTPS|None|None|None|False|None|None|None|None|None|None
+171|life.com.tw|141.101.112.19|HTTP|None|None|None|True
+171|life.com.tw|141.101.112.19|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|6509FB2A5A03F892E0389B0C59B81B48
+172|walmart.com|161.170.248.20|HTTP|None|None|None|True
+172|walmart.com|161.170.248.20|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 Secure Server CA - G4|970B60FAEAF6EB001C5BBCE8CC31CC04
+173|snapdeal.com|122.248.250.132|HTTP|None|None|None|False
+173|snapdeal.com|122.248.250.132|HTTPS|None|None|None|False|None|None|None|None|None|None
+174|aol.com|64.12.79.57|HTTP|None|None|None|False
+174|aol.com|64.12.79.57|HTTPS|None|None|None|False|None|None|None|None|None|None
+175|soundcloud.com|93.184.220.127|HTTP|None|None|None|True
+175|soundcloud.com|93.184.220.127|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GlobalSign Domain Validation CA - SHA256 - G2|483B029B4B04EA62315C00CEB756AD69
+176|microsoftonline.com|65.55.39.10|HTTP|None|None|None|False
+176|microsoftonline.com|65.55.39.10|HTTPS|None|None|None|False|None|None|None|None|None|None
+177|google.co.th|216.58.209.99|HTTP|None|None|None|True
+177|google.co.th|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+178|bp.blogspot.com|None|HTTP|None|None|None|None
+178|bp.blogspot.com|None|HTTPS|None|None|None|None|None|None|None|None|None|None
+179|reference.com|66.235.120.211|HTTP|None|None|None|False
+179|reference.com|66.235.120.211|HTTPS|None|None|None|False|None|None|None|None|None|None
+180|wellsfargo.com|159.45.66.143|HTTP|None|None|None|True
+180|wellsfargo.com|159.45.66.143|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|F75C90458E9CFCDF72F8771EBAC1285F
+181|espncricinfo.com|80.168.92.141|HTTP|None|None|None|False
+181|espncricinfo.com|80.168.92.141|HTTPS|None|None|None|False|None|None|None|None|None|None
+182|google.co.za|173.194.40.239|HTTP|None|None|None|True
+182|google.co.za|173.194.40.239|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+183|zillow.com|192.211.12.20|HTTP|None|None|None|True
+183|zillow.com|192.211.12.20|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|A85B971AFBDE561A379483066BAB70C3
+184|google.gr|173.194.40.255|HTTP|None|None|None|True
+184|google.gr|173.194.40.255|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+185|feedly.com|198.41.247.156|HTTP|None|None|None|True
+185|feedly.com|198.41.247.156|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|RapidSSL SHA256 CA - G3|4FBF934B955E00441112AF3B6913888D
+186|amazon.it|178.236.7.146|HTTP|None|None|None|True
+186|amazon.it|178.236.7.146|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|A2B6208F214FBBA136C17A22C159252B
+187|w3schools.com|66.29.212.110|HTTP|None|None|None|False
+187|w3schools.com|66.29.212.110|HTTPS|None|None|None|False|None|None|None|None|None|None
+188|wikihow.com|173.203.142.5|HTTP|None|None|None|False
+188|wikihow.com|173.203.142.5|HTTPS|None|None|None|False|None|None|None|None|None|None
+189|mozilla.org|63.245.215.20|HTTP|None|None|None|True
+189|mozilla.org|63.245.215.20|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|DigiCert High Assurance EV CA-1|89F5603F4737605F7A8678DAF564F631
+190|office365.com|23.99.229.108|HTTP|None|None|None|True
+190|office365.com|23.99.229.108|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Microsoft IT SSL SHA2|6D355A88177287C37C197C8D42E0E3E6
+191|leboncoin.fr|193.164.197.17|HTTP|None|None|None|False
+191|leboncoin.fr|193.164.197.17|HTTPS|None|None|None|False|None|None|None|None|None|None
+192|mystart.com|216.201.82.87|HTTP|None|None|None|True
+192|mystart.com|216.201.82.87|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|964897DED75255BE9919DFD309497A5B
+193|thepiratebay.se|141.101.118.195|HTTP|None|None|None|True
+193|thepiratebay.se|141.101.118.195|HTTPS|None|None|None|True|None|None|None|None|None|None
+194|mailchimp.com|205.201.132.123|HTTP|None|None|None|True
+194|mailchimp.com|205.201.132.123|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Thawte DV SSL CA|19F04654107286CE4371E3B0B17DE000
+195|tripadvisor.com|199.102.233.33|HTTP|None|None|None|True
+195|tripadvisor.com|199.102.233.33|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|thawte SSL CA - G2|F66B26FDA882D72AB477ACCC00293DBB
+196|theladbible.com|198.41.214.6|HTTP|None|None|None|True
+196|theladbible.com|198.41.214.6|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|177AB86AC8DD69F41B85BB529D6E124F
+197|livejournal.com|208.93.0.150|HTTP|None|None|None|True
+197|livejournal.com|208.93.0.150|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|AA304122BFE3D8BCCCBAB9C9D4A0500F
+198|allegro.pl|5.134.210.134|HTTP|None|None|None|False
+198|allegro.pl|5.134.210.134|HTTPS|None|None|None|False|None|None|None|None|None|None
+199|china.com.cn|202.130.245.42|HTTP|None|None|None|False
+199|china.com.cn|202.130.245.42|HTTPS|None|None|None|False|None|None|None|None|None|None
+200|google.com.ua|216.58.209.99|HTTP|None|None|None|True
+200|google.com.ua|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+201|businessinsider.com|64.27.101.155|HTTP|None|None|None|True
+201|businessinsider.com|64.27.101.155|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|82AAF475351DAC78A22A67009E2180AA
+202|popcash.net|198.41.207.216|HTTP|None|None|None|True
+202|popcash.net|198.41.207.216|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|33E3B7197A5827894408FB48F9378D69
+203|livejasmin.com|109.71.160.200|HTTP|None|None|None|False
+203|livejasmin.com|109.71.160.200|HTTPS|None|None|None|False|None|None|None|None|None|None
+204|zol.com.cn|210.73.211.50|HTTP|None|None|None|False
+204|zol.com.cn|210.73.211.50|HTTPS|None|None|None|False|None|None|None|None|None|None
+205|vice.com|107.21.115.188|HTTP|None|None|None|True
+205|vice.com|107.21.115.188|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|RapidSSL SHA256 CA - G3|4BA2054E34216E033DE3F5960AB0CA03
+206|wikimedia.org|91.198.174.192|HTTP|None|None|None|True
+206|wikimedia.org|91.198.174.192|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - SHA256 - G2|F170B1559FD36AF200010F6200A02B43
+207|ifeng.com|210.51.19.61|HTTP|None|None|None|False
+207|ifeng.com|210.51.19.61|HTTPS|None|None|None|False|None|None|None|None|None|None
+208|ikea.com|69.58.186.114|HTTP|None|None|None|False
+208|ikea.com|69.58.186.114|HTTPS|None|None|None|False|None|None|None|None|None|None
+209|onet.pl|213.180.141.140|HTTP|None|None|None|True
+209|onet.pl|213.180.141.140|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G2|3CBC870CC1E9F3AF5D2C2516E06594B
+210|force.com|204.74.99.100|HTTP|None|None|None|False
+210|force.com|204.74.99.100|HTTPS|None|None|None|False|None|None|None|None|None|None
+211|google.com.my|173.194.40.248|HTTP|None|None|None|True
+211|google.com.my|173.194.40.248|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+212|kakaku.com|210.129.151.129|HTTP|None|None|None|False
+212|kakaku.com|210.129.151.129|HTTPS|None|None|None|False|None|None|None|None|None|None
+213|pixiv.net|210.129.120.27|HTTP|None|None|None|True
+213|pixiv.net|210.129.120.27|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|78DC3C8001407821452176A9005208FC
+214|files.wordpress.com|76.74.254.122|HTTP|None|None|None|True
+214|files.wordpress.com|76.74.254.122|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|147E16F449778FB0185E25F25CE17F19
+215|washingtonpost.com|204.74.99.100|HTTP|None|None|None|False
+215|washingtonpost.com|204.74.99.100|HTTPS|None|None|None|False|None|None|None|None|None|None
+216|mediafire.com|205.196.120.12|HTTP|None|None|None|True
+216|mediafire.com|205.196.120.12|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|thawte SSL CA - G2|5AC527947A3C894225991DF3F5E23E30
+217|gamer.com.tw|60.199.217.26|HTTP|None|None|None|True
+217|gamer.com.tw|60.199.217.26|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|COMODO High-Assurance Secure Server CA|ABE44343516CC708D872655CDCB54682
+218|google.be|216.58.209.99|HTTP|None|None|None|True
+218|google.be|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+219|secureserver.net|208.109.4.222|HTTP|None|None|None|True
+219|secureserver.net|208.109.4.222|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Starfield Secure Certificate Authority - G2|C8785E6677A4EF1364BE439E50048FC9
+220|smzdm.com|118.26.163.65|HTTP|None|None|None|True
+220|smzdm.com|118.26.163.65|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|F5D990DDB148F3CD6098CE9B1DCC7A9E
+221|nih.gov|137.187.25.43|HTTP|None|None|None|False
+221|nih.gov|137.187.25.43|HTTPS|None|None|None|False|None|None|None|None|None|None
+222|taboola.com|166.78.85.179|HTTP|None|None|None|True
+222|taboola.com|166.78.85.179|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G2|433F1F7F9598D00BBAF8AB0CA8DF16AD
+223|9gag.com|176.34.112.194|HTTP|None|None|None|True
+223|9gag.com|176.34.112.194|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Starfield Secure Certificate Authority - G2|1C0A410AF44613FD3FF9A4EB460A3F62
+224|trklnks.com|69.89.74.66|HTTP|None|None|None|True
+224|trklnks.com|69.89.74.66|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|4096|Go Daddy Secure Certificate Authority - G2|DF8386344D582F50CF1AF72E82FA4BBE
+225|sourceforge.net|216.34.181.60|HTTP|None|None|None|True
+225|sourceforge.net|216.34.181.60|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G3|CDE59C5F82561353B1D3FE1728CA977A
+226|google.com.co|173.194.40.255|HTTP|None|None|None|True
+226|google.com.co|173.194.40.255|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+227|foxnews.com|104.85.166.58|HTTP|None|None|None|True
+227|foxnews.com|104.85.166.58|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Cybertrust Public SureServer SV CA|8D4C4812D5D48B9EE1E926A87A3DEEAA
+228|blogspot.com.br|216.58.209.105|HTTP|None|None|None|True
+228|blogspot.com.br|216.58.209.105|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|2C6A1BDD40D86D39AB68A89705D440F9
+229|archive.org|207.241.224.2|HTTP|None|None|None|True
+229|archive.org|207.241.224.2|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|29E0AC4F3CAE1CA11A2518A191752CEB
+230|xuite.net|210.61.56.39|HTTP|None|None|None|True
+230|xuite.net|210.61.56.39|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|None|B93BDE59F0B371479DC836732B322C6B
+231|tubecup.com|162.159.254.21|HTTP|None|None|None|True
+231|tubecup.com|162.159.254.21|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|7DE24F45E18700AE7C0CE4BF1B94C010
+232|web.de|82.165.229.31|HTTP|None|None|None|True
+232|web.de|82.165.229.31|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|TeleSec ServerPass DE-2|94EC43579A2FB6ABD63663306F363457
+233|intuit.com|206.108.40.108|HTTP|None|None|None|True
+233|intuit.com|206.108.40.108|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|9850C56A5755D94AE2B9AB999374113E
+234|google.co.ve|173.194.40.255|HTTP|None|None|None|True
+234|google.co.ve|173.194.40.255|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+235|bestbuy.com|88.221.14.83|HTTP|None|None|None|True
+235|bestbuy.com|88.221.14.83|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Cybertrust Public SureServer SV CA|8D4C4812D5D48B9EE1E926A87A3DEEAA
+236|blogfa.com|38.74.1.42|HTTP|None|None|None|True
+236|blogfa.com|38.74.1.42|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Starfield Secure Certification Authority|E2C6AC8AF1282352F709309902F54A1E
+237|comcast.net|69.252.80.75|HTTP|None|None|None|False
+237|comcast.net|69.252.80.75|HTTPS|None|None|None|False|None|None|None|None|None|None
+238|zhihu.com|54.223.149.99|HTTP|None|None|None|False
+238|zhihu.com|54.223.149.99|HTTPS|None|None|None|False|None|None|None|None|None|None
+239|google.com.sg|216.58.209.99|HTTP|None|None|None|True
+239|google.com.sg|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+240|ups.com|153.2.224.50|HTTP|None|None|None|True
+240|ups.com|153.2.224.50|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 EV SSL CA - G2|1035171CEF0CEA80D087C88F9D24F376
+241|doublepimp.com|69.89.69.99|HTTP|None|None|None|True
+241|doublepimp.com|69.89.69.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|4096|Go Daddy Secure Certification Authority|3C16D83558ED78EF85E40EAB1897772
+242|pclady.com.cn|219.136.245.40|HTTP|None|None|None|False
+242|pclady.com.cn|219.136.245.40|HTTPS|None|None|None|False|None|None|None|None|None|None
+243|abs-cbnnews.com|104.16.29.177|HTTP|None|None|None|True
+243|abs-cbnnews.com|104.16.29.177|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|5CBFFBE6FDEB839B8E26EDE0DFDEE878
+244|bitauto.com|59.151.102.95|HTTP|None|None|None|False
+244|bitauto.com|59.151.102.95|HTTPS|None|None|None|False|None|None|None|None|None|None
+245|google.cn|173.194.71.160|HTTP|None|None|None|False
+245|google.cn|173.194.71.160|HTTPS|None|None|None|False|None|None|None|None|None|None
+246|usps.com|56.0.134.100|HTTP|None|None|None|True
+246|usps.com|56.0.134.100|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Organization Validation Secure Server CA|C2E9563D2B44534C6C7CFF7E01DD245F
+247|avito.ru|164.40.178.137|HTTP|None|None|None|True
+247|avito.ru|164.40.178.137|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GeoTrust DV SSL CA|B468C9EAA949835424CC7802BE6D042B
+248|likes.com|141.101.115.34|HTTP|None|None|None|True
+248|likes.com|141.101.115.34|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|7984008FE348F128035B873C461A06FD
+249|americanexpress.com|104.66.226.30|HTTP|None|None|None|True
+249|americanexpress.com|104.66.226.30|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G4|FA1519973675D45F3E641FE5507CBB79
+250|gmx.net|213.165.65.60|HTTP|None|None|None|True
+250|gmx.net|213.165.65.60|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|thawte SSL CA - G2|120932F857FD790BC287C47B152CA399
+251|goo.ne.jp|153.254.147.65|HTTP|None|None|None|False
+251|goo.ne.jp|153.254.147.65|HTTPS|None|None|None|False|None|None|None|None|None|None
+252|google.com.ng|216.58.209.99|HTTP|None|None|None|True
+252|google.com.ng|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+253|google.ro|173.194.40.247|HTTP|None|None|None|True
+253|google.ro|173.194.40.247|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+254|wix.com|199.83.134.92|HTTP|None|None|None|True
+254|wix.com|199.83.134.92|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - SHA256 - G2|1C1DFA098F1BB3171F5854A9FBAA1850
+255|target.com|184.51.148.96|HTTP|None|None|None|True
+255|target.com|184.51.148.96|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Cybertrust Public SureServer SV CA|8D4C4812D5D48B9EE1E926A87A3DEEAA
+256|office.com|134.170.170.86|HTTP|None|None|None|True
+256|office.com|134.170.170.86|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Microsoft IT SSL SHA2|B49640E048AC6ED5568A5C53CA03FA67
+257|gfycat.com|198.41.209.28|HTTP|None|None|None|True
+257|gfycat.com|198.41.209.28|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|8B80B4D42A3480A22D59C4878CC076B1
+258|doorblog.jp|None|HTTP|None|None|None|None
+258|doorblog.jp|None|HTTPS|None|None|None|None|None|None|None|None|None|None
+259|addthis.com|208.49.103.220|HTTP|None|None|None|True
+259|addthis.com|208.49.103.220|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|43C064486772350A71F6BD260BADAABD
+260|google.at|216.58.209.99|HTTP|None|None|None|True
+260|google.at|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+261|akamaihd.net|None|HTTP|None|None|None|None
+261|akamaihd.net|None|HTTPS|None|None|None|None|None|None|None|None|None|None
+262|shutterstock.com|162.212.41.11|HTTP|None|None|None|True
+262|shutterstock.com|162.212.41.11|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|4096|DigiCert SHA2 High Assurance Server CA|A164BD08F0B045BC8F428DF81B9CC588
+263|steamcommunity.com|88.221.39.235|HTTP|None|None|None|True
+263|steamcommunity.com|88.221.39.235|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|DigiCert High Assurance EV CA-1|E0395B831335263F00278C1D5CA3CE
+264|ndtv.com|124.153.92.187|HTTP|None|None|None|False
+264|ndtv.com|124.153.92.187|HTTPS|None|None|None|False|None|None|None|None|None|None
+265|skype.com|91.190.218.46|HTTP|None|None|None|False
+265|skype.com|91.190.218.46|HTTPS|None|None|None|False|None|None|None|None|None|None
+266|weebly.com|74.115.50.109|HTTP|None|None|None|True
+266|weebly.com|74.115.50.109|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust EV SSL CA - G4|9CDE0DFA265AFC8ADE92B8BCD84B6AC8
+267|badoo.com|159.253.176.33|HTTP|None|None|None|True
+267|badoo.com|159.253.176.33|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Extended Validation Server CA|D7F72563C8108683F477D6B05FAB003A
+268|theadgateway.com|130.211.120.130|HTTP|None|None|None|True
+268|theadgateway.com|130.211.120.130|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|RapidSSL SHA256 CA - G3|9A6B2F2A3817406E615A3A31D97F271
+269|homedepot.com|207.11.34.219|HTTP|None|None|None|False
+269|homedepot.com|207.11.34.219|HTTPS|None|None|None|False|None|None|None|None|None|None
+270|stumbleupon.com|199.30.80.32|HTTP|None|None|None|True
+270|stumbleupon.com|199.30.80.32|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GeoTrust Extended Validation SSL CA - G2|DFC2E2D2F00BDB827B3967445EA99F64
+271|avg.com|93.184.211.28|HTTP|None|None|None|False
+271|avg.com|93.184.211.28|HTTPS|None|None|None|False|None|None|None|None|None|None
+272|softonic.com|46.28.209.20|HTTP|None|None|None|False
+272|softonic.com|46.28.209.20|HTTPS|None|None|None|False|None|None|None|None|None|None
+273|pandora.com|208.85.40.50|HTTP|None|None|None|True
+273|pandora.com|208.85.40.50|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|419AA8AB5C9FFCF2A01408B64BAD3E44
+274|ign.com|54.209.10.68|HTTP|None|None|None|False
+274|ign.com|54.209.10.68|HTTPS|None|None|None|False|None|None|None|None|None|None
+275|amazon.es|178.236.7.217|HTTP|None|None|None|True
+275|amazon.es|178.236.7.217|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|20D1CF5DBD598B620646D88E507006D5
+276|orange.fr|81.52.142.217|HTTP|None|None|None|False
+276|orange.fr|81.52.142.217|HTTPS|None|None|None|False|None|None|None|None|None|None
+277|telegraph.co.uk|80.150.2.219|HTTP|None|None|None|True
+277|telegraph.co.uk|80.150.2.219|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Cybertrust Public SureServer SV CA|8D4C4812D5D48B9EE1E926A87A3DEEAA
+278|mashable.com|88.221.113.26|HTTP|None|None|None|True
+278|mashable.com|88.221.113.26|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Cybertrust Public SureServer SV CA|8D4C4812D5D48B9EE1E926A87A3DEEAA
+279|hootsuite.com|54.163.247.81|HTTP|None|None|None|True
+279|hootsuite.com|54.163.247.81|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certification Authority|F7E7ECB205DC45D9D87A193BCF77825B
+280|groupon.com|104.64.172.169|HTTP|None|None|None|True
+280|groupon.com|104.64.172.169|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G4|390900B49A1AB14F41A5A7BA40062306
+281|dmm.com|203.209.152.98|HTTP|None|None|None|False
+281|dmm.com|203.209.152.98|HTTPS|None|None|None|False|None|None|None|None|None|None
+282|quikr.com|104.84.152.35|HTTP|None|None|None|True
+282|quikr.com|104.84.152.35|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Cybertrust Public SureServer SV CA|8D4C4812D5D48B9EE1E926A87A3DEEAA
+283|mercadolivre.com.br|216.33.196.59|HTTP|None|None|None|False
+283|mercadolivre.com.br|216.33.196.59|HTTPS|None|None|None|False|None|None|None|None|None|None
+284|bild.de|213.61.13.70|HTTP|None|None|None|False
+284|bild.de|213.61.13.70|HTTPS|None|None|None|False|None|None|None|None|None|None
+285|ppomppu.co.kr|110.45.151.210|HTTP|None|None|None|True
+285|ppomppu.co.kr|110.45.151.210|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|EssentialSSL CA|C422F068E54AF07FCD8751B82949EB7B
+286|goodreads.com|176.32.102.208|HTTP|None|None|None|True
+286|goodreads.com|176.32.102.208|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|264E9DEEDC2870262336F3FA1883F32B
+287|haosou.com|106.120.160.134|HTTP|None|None|None|False
+287|haosou.com|106.120.160.134|HTTPS|None|None|None|False|None|None|None|None|None|None
+288|adplxmd.com|205.186.187.178|HTTP|None|None|None|True
+288|adplxmd.com|205.186.187.178|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|4096|Go Daddy Secure Certificate Authority - G2|DC7BE5C9686E56C6642C99456CC5E99A
+289|wordreference.com|96.45.82.56|HTTP|None|None|None|False
+289|wordreference.com|96.45.82.56|HTTPS|None|None|None|False|None|None|None|None|None|None
+290|youm7.com|104.16.19.116|HTTP|None|None|None|True
+290|youm7.com|104.16.19.116|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|1BBF9B0F0025BC6A9EFC74F3810AA366
+291|google.pt|216.58.209.99|HTTP|None|None|None|True
+291|google.pt|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+292|google.se|216.58.209.99|HTTP|None|None|None|True
+292|google.se|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+293|hdfcbank.com|104.16.14.40|HTTP|None|None|None|True
+293|hdfcbank.com|104.16.14.40|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|5EC5041F2E16B4B3D580225B07770E79
+294|github.io|23.235.37.133|HTTP|None|None|None|True
+294|github.io|23.235.37.133|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|92625F3DFFFE144F8B461C957E17F819
+295|spiegel.de|62.138.116.3|HTTP|None|None|None|True
+295|spiegel.de|62.138.116.3|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G3|5DAD365FB775DBD43042843FBE3EEF55
+296|bet365.com|5.226.176.16|HTTP|None|None|None|True
+296|bet365.com|5.226.176.16|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Thawte SSL CA|6F64E00B64C2E3499C442C6C51842E7
+297|bilibili.com|110.76.40.240|HTTP|None|None|None|False
+297|bilibili.com|110.76.40.240|HTTPS|None|None|None|False|None|None|None|None|None|None
+298|icicibank.com|203.27.235.25|HTTP|None|None|None|False
+298|icicibank.com|203.27.235.25|HTTPS|None|None|None|False|None|None|None|None|None|None
+299|media.tumblr.com|54.230.96.168|HTTP|None|None|None|False
+299|media.tumblr.com|54.230.96.168|HTTPS|None|None|None|False|None|None|None|None|None|None
+300|wsj.com|205.203.132.1|HTTP|None|None|None|True
+300|wsj.com|205.203.132.1|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|9B4AD285320BEF1DDB4F314764E95FE
+301|ask.fm|66.235.122.37|HTTP|None|None|None|True
+301|ask.fm|66.235.122.37|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G3|46C2CC0030142D4CE715E946FAFB6F37
+302|bomb01.com|198.41.190.71|HTTP|None|None|None|True
+302|bomb01.com|198.41.190.71|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|584071F4A0DD0F2AE9A3D62D35A78BF5
+303|kaskus.co.id|103.6.117.2|HTTP|None|None|None|True
+303|kaskus.co.id|103.6.117.2|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|5FB8E6B33AC3706EE63E374FA0BC3BF4
+304|pchome.net|118.67.112.60|HTTP|None|None|None|False
+304|pchome.net|118.67.112.60|HTTPS|None|None|None|False|None|None|None|None|None|None
+305|engadget.com|64.12.89.186|HTTP|None|None|None|False
+305|engadget.com|64.12.89.186|HTTPS|None|None|None|False|None|None|None|None|None|None
+306|caijing.com.cn|118.26.205.30|HTTP|None|None|None|False
+306|caijing.com.cn|118.26.205.30|HTTPS|None|None|None|False|None|None|None|None|None|None
+307|steampowered.com|88.221.39.235|HTTP|None|None|None|True
+307|steampowered.com|88.221.39.235|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|DigiCert High Assurance EV CA-1|E0395B831335263F00278C1D5CA3CE
+308|hulu.com|193.159.160.131|HTTP|None|None|None|True
+308|hulu.com|193.159.160.131|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Cybertrust Public SureServer SV CA|8D4C4812D5D48B9EE1E926A87A3DEEAA
+309|wow.com|207.200.111.132|HTTP|None|None|None|False
+309|wow.com|207.200.111.132|HTTPS|None|None|None|False|None|None|None|None|None|None
+310|webmd.com|208.93.170.15|HTTP|None|None|None|False
+310|webmd.com|208.93.170.15|HTTPS|None|None|None|False|None|None|None|None|None|None
+311|google.com.pe|173.194.40.248|HTTP|None|None|None|True
+311|google.com.pe|173.194.40.248|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+312|t-online.de|62.153.159.92|HTTP|None|None|None|True
+312|t-online.de|62.153.159.92|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 International Server CA - G3|8621E6D24FC8FC5F931D4F37523A74D0
+313|google.com.ph|173.194.40.247|HTTP|None|None|None|True
+313|google.com.ph|173.194.40.247|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+314|spotify.com|194.132.198.228|HTTP|None|None|None|True
+314|spotify.com|194.132.198.228|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|E98813921210FFE48FFA3A101FCD2496
+315|jabong.com|23.62.114.87|HTTP|None|None|None|True
+315|jabong.com|23.62.114.87|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA|F7904F970674DF9FFF809E5872A27E35
+316|webssearches.com|69.28.57.22|HTTP|None|None|None|False
+316|webssearches.com|69.28.57.22|HTTPS|None|None|None|False|None|None|None|None|None|None
+317|trello.com|192.230.64.4|HTTP|None|None|None|True
+317|trello.com|192.230.64.4|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Domain Validation Secure Server CA|8DBC50E172AEA0F83E5BC911909C0299
+318|rediff.com|104.84.152.161|HTTP|None|None|None|True
+318|rediff.com|104.84.152.161|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Cybertrust Public SureServer SV CA|8D4C4812D5D48B9EE1E926A87A3DEEAA
+319|whatsapp.com|184.173.147.39|HTTP|None|None|None|True
+319|whatsapp.com|184.173.147.39|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|BD9178A05A640DD3C1CDA29AFB858136
+320|hurriyet.com.tr|83.66.162.3|HTTP|None|None|None|True
+320|hurriyet.com.tr|83.66.162.3|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|E82F7A9F77D3051F938BA6AF7624647D
+321|uptodown.com|104.84.152.48|HTTP|None|None|None|True
+321|uptodown.com|104.84.152.48|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Cybertrust Public SureServer SV CA|8D4C4812D5D48B9EE1E926A87A3DEEAA
+322|slickdeals.net|199.182.48.98|HTTP|None|None|None|True
+322|slickdeals.net|199.182.48.98|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|6EB132F9A74017C9F0D367353B1E4454
+323|gome.com.cn|59.151.103.12|HTTP|None|None|None|True
+323|gome.com.cn|59.151.103.12|HTTPS|None|None|None|True| 21 (unable to verify the first certificate)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 International Server CA - G3|8C2E7B9DCFF837ED68A19D063BC7D3E6
+324|usatoday.com|159.54.238.69|HTTP|None|None|None|False
+324|usatoday.com|159.54.238.69|HTTPS|None|None|None|False|None|None|None|None|None|None
+325|seznam.cz|77.75.76.3|HTTP|None|None|None|True
+325|seznam.cz|77.75.76.3|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|thawte EV SSL CA - G2|C66C5333984526D24F5FD92B8672CB91
+326|hp.com|15.240.60.238|HTTP|None|None|None|True
+326|hp.com|15.240.60.238|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|4D693C3A97AA71E73136873D9305FE28
+327|google.ch|216.58.209.99|HTTP|None|None|None|True
+327|google.ch|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+328|ijreview.com|104.16.5.43|HTTP|None|None|None|True
+328|ijreview.com|104.16.5.43|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|7A27AE3A66CF8406427DD92A11C8C4C2
+329|rambler.ru|81.19.70.3|HTTP|None|None|None|True
+329|rambler.ru|81.19.70.3|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|RapidSSL CA|80A8B30EBB1944FC9EC3DCC1DFEF5A61
+330|google.ae|173.194.40.255|HTTP|None|None|None|True
+330|google.ae|173.194.40.255|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+331|tube8.com|31.192.112.104|HTTP|None|None|None|False
+331|tube8.com|31.192.112.104|HTTPS|None|None|None|False|None|None|None|None|None|None
+332|udn.com|210.243.166.56|HTTP|None|None|None|False
+332|udn.com|210.243.166.56|HTTPS|None|None|None|False|None|None|None|None|None|None
+333|fedex.com|204.135.8.155|HTTP|None|None|None|True
+333|fedex.com|204.135.8.155|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 EV SSL CA - G2|B33DAF1E3FAE20D0BE2D13434B2752E7
+334|samsung.com|211.45.27.231|HTTP|None|None|None|False
+334|samsung.com|211.45.27.231|HTTPS|None|None|None|False|None|None|None|None|None|None
+335|mobile01.com|202.39.235.20|HTTP|None|None|None|False
+335|mobile01.com|202.39.235.20|HTTPS|None|None|None|False|None|None|None|None|None|None
+336|chinatimes.com|210.68.80.7|HTTP|None|None|None|False
+336|chinatimes.com|210.68.80.7|HTTPS|None|None|None|False|None|None|None|None|None|None
+337|zendesk.com|192.161.154.1|HTTP|None|None|None|True
+337|zendesk.com|192.161.154.1|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|4096|COMODO RSA Organization Validation Secure Server CA|A8D6668A66B8CB5ABF5B42BE84115652
+338|cbssports.com|64.30.234.73|HTTP|None|None|None|True
+338|cbssports.com|64.30.234.73|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|4096|DigiCert High Assurance CA-3|27A35F8BEEDB3D30AE23A2F0F79DAC79
+339|lifehacker.com|23.235.37.64|HTTP|None|None|None|True
+339|lifehacker.com|23.235.37.64|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|BD39564909E7A0E115907956376C6EA8
+340|wp.pl|212.77.100.101|HTTP|None|None|None|False
+340|wp.pl|212.77.100.101|HTTPS|None|None|None|False|None|None|None|None|None|None
+341|bloomberg.com|69.191.251.238|HTTP|None|None|None|True
+341|bloomberg.com|69.191.251.238|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 EV SSL CA - G3|82B14F23C5ED505A3117AF72C773CE52
+342|gameforge.com|79.110.86.231|HTTP|None|None|None|True
+342|gameforge.com|79.110.86.231|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|RapidSSL CA|E37B928070BBA15783FA867069B82559
+343|fiverr.com|192.33.31.62|HTTP|None|None|None|True
+343|fiverr.com|192.33.31.62|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - SHA256 - G2|833A23803ED1DB84BFF6A758FB13743
+344|teepr.com|104.20.10.225|HTTP|None|None|None|True
+344|teepr.com|104.20.10.225|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|COMODO Domain Validation Secure Server CA 2|78DAD613563909FC6D22214D50D38A00
+345|rutracker.org|195.82.146.214|HTTP|None|None|None|False
+345|rutracker.org|195.82.146.214|HTTPS|None|None|None|False|None|None|None|None|None|None
+346|mama.cn|119.145.147.181|HTTP|None|None|None|False
+346|mama.cn|119.145.147.181|HTTPS|None|None|None|False|None|None|None|None|None|None
+347|bleacherreport.com|23.23.80.193|HTTP|None|None|None|True
+347|bleacherreport.com|23.23.80.193|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|EA219C6073F4D5311C97EA2C2FA3FAF3
+348|answers.com|67.196.156.65|HTTP|None|None|None|True
+348|answers.com|67.196.156.65|HTTPS|None|None|None|True| 21 (unable to verify the first certificate)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|C389E56FD9F7658FEAE1E6C586E24003
+349|pcbaby.com.cn|219.136.245.40|HTTP|None|None|None|False
+349|pcbaby.com.cn|219.136.245.40|HTTPS|None|None|None|False|None|None|None|None|None|None
+350|speedtest.net|216.146.46.11|HTTP|None|None|None|False
+350|speedtest.net|216.146.46.11|HTTPS|None|None|None|False|None|None|None|None|None|None
+351|youth.cn|123.103.56.246|HTTP|None|None|None|False
+351|youth.cn|123.103.56.246|HTTPS|None|None|None|False|None|None|None|None|None|None
+352|disqus.com|23.235.33.134|HTTP|None|None|None|True
+352|disqus.com|23.235.33.134|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|F15649DB4BDBA65D9297436FDAE4EF2D
+353|truemediapipe.com|78.140.191.247|HTTP|None|None|None|False
+353|truemediapipe.com|78.140.191.247|HTTPS|None|None|None|False|None|None|None|None|None|None
+354|dell.com|143.166.147.101|HTTP|None|None|None|False
+354|dell.com|143.166.147.101|HTTPS|None|None|None|False|None|None|None|None|None|None
+355|capitalone.com|208.80.48.175|HTTP|None|None|None|True
+355|capitalone.com|208.80.48.175|HTTPS|None|None|None|True| 21 (unable to verify the first certificate)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 EV SSL CA - G3|C59552D1871859FA73042914D23B0A64
+356|hupu.com|122.192.65.45|HTTP|None|None|None|False
+356|hupu.com|122.192.65.45|HTTPS|None|None|None|False|None|None|None|None|None|None
+357|extratorrent.cc|104.24.104.37|HTTP|None|None|None|True
+357|extratorrent.cc|104.24.104.37|HTTPS|None|None|None|True|None|None|None|None|None|None
+358|google.no|216.58.209.99|HTTP|None|None|None|True
+358|google.no|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+359|accuweather.com|207.242.93.24|HTTP|None|None|None|False
+359|accuweather.com|207.242.93.24|HTTPS|None|None|None|False|None|None|None|None|None|None
+360|amazon.ca|72.21.215.233|HTTP|None|None|None|True
+360|amazon.ca|72.21.215.233|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|554E4C58457863ED6825A636A10A790
+361|evernote.com|204.154.94.73|HTTP|None|None|None|True
+361|evernote.com|204.154.94.73|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 Secure Server CA - G4|EC432CADB6ACEAFD9712FD5DF3C509FA
+362|mydomainadvisor.com|173.45.161.113|HTTP|None|None|None|False
+362|mydomainadvisor.com|173.45.161.113|HTTPS|None|None|None|False|None|None|None|None|None|None
+363|ebay.in|66.135.211.132|HTTP|None|None|None|True
+363|ebay.in|66.135.211.132|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 Secure Server CA - G4|D1721CD6CBF883117F68C37984A79BD7
+364|cloudfront.net|None|HTTP|None|None|None|None
+364|cloudfront.net|None|HTTPS|None|None|None|None|None|None|None|None|None|None
+365|torrentz.eu|185.87.146.4|HTTP|None|None|None|True
+365|torrentz.eu|185.87.146.4|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Domain Validation Secure Server CA|7E305896EC55CB42957DAEF758C5A7CF
+366|39.net|121.14.241.75|HTTP|None|None|None|False
+366|39.net|121.14.241.75|HTTPS|None|None|None|False|None|None|None|None|None|None
+367|kompas.com|202.61.113.35|HTTP|None|None|None|False
+367|kompas.com|202.61.113.35|HTTPS|None|None|None|False|None|None|None|None|None|None
+368|ltn.com.tw|218.211.33.75|HTTP|None|None|None|False
+368|ltn.com.tw|218.211.33.75|HTTPS|None|None|None|False|None|None|None|None|None|None
+369|photobucket.com|209.17.68.100|HTTP|None|None|None|False
+369|photobucket.com|209.17.68.100|HTTPS|None|None|None|False|None|None|None|None|None|None
+370|newegg.com|216.52.208.187|HTTP|None|None|None|False
+370|newegg.com|216.52.208.187|HTTPS|None|None|None|False|None|None|None|None|None|None
+371|vipcpms.com|209.200.44.228|HTTP|None|None|None|True
+371|vipcpms.com|209.200.44.228|HTTPS|None|None|None|True| 21 (unable to verify the first certificate)|sha1WithRSAEncryption|rsaEncryption|2048|RapidSSL CA|A506977B272095F5D1C22DF8DECBDF4B
+372|iqiyi.com|101.227.22.158|HTTP|None|None|None|True
+372|iqiyi.com|101.227.22.158|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|6228AD1084CD8DD4AA17EB56B3007921
+373|gsmarena.com|148.251.77.209|HTTP|None|None|None|False
+373|gsmarena.com|148.251.77.209|HTTPS|None|None|None|False|None|None|None|None|None|None
+374|moz.com|185.11.124.2|HTTP|None|None|None|True
+374|moz.com|185.11.124.2|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 Secure Server CA - G4|38758CCF7D42E1CB38B0258D113DD16C
+375|trackingclick.net|162.255.119.48|HTTP|None|None|None|False
+375|trackingclick.net|162.255.119.48|HTTPS|None|None|None|False|None|None|None|None|None|None
+376|gizmodo.com|23.235.37.129|HTTP|None|None|None|True
+376|gizmodo.com|23.235.37.129|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|D906A366B80D4FC1782BA017F51B2462
+377|meetup.com|190.93.246.104|HTTP|None|None|None|True
+377|meetup.com|190.93.246.104|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|7CC00EC037E65B03EF58CB2F86F94E61
+378|techcrunch.com|192.0.79.32|HTTP|None|None|None|True
+378|techcrunch.com|192.0.79.32|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|8632151B9634F613137D17C7BA37E640
+379|google.cz|216.58.209.99|HTTP|None|None|None|True
+379|google.cz|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+380|google.com.bd|216.58.209.99|HTTP|None|None|None|True
+380|google.com.bd|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+381|varzesh3.com|94.182.163.3|HTTP|None|None|None|False
+381|varzesh3.com|94.182.163.3|HTTPS|None|None|None|False|None|None|None|None|None|None
+382|kickstarter.com|54.192.99.170|HTTP|None|None|None|True
+382|kickstarter.com|54.192.99.170|HTTPS|None|None|None|True|None|None|None|None|None|None
+383|detik.com|203.190.242.69|HTTP|None|None|None|True
+383|detik.com|203.190.242.69|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Thawte SSL CA|2C5D3E5C09148F00B57AEB1A3851BA10
+384|2ch.net|104.16.7.175|HTTP|None|None|None|True
+384|2ch.net|104.16.7.175|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|FD600BFC38EABCD7A451070E881E1396
+385|irs.gov|166.123.218.220|HTTP|None|None|None|False
+385|irs.gov|166.123.218.220|HTTPS|None|None|None|False|None|None|None|None|None|None
+386|thefreedictionary.com|91.204.210.226|HTTP|None|None|None|True
+386|thefreedictionary.com|91.204.210.226|HTTPS|None|None|None|True| 21 (unable to verify the first certificate)|sha384WithRSAEncryption|rsaEncryption|1024|FarlexCA2|38BE2C9C6800BFFA397A2595F15900C6
+387|webtretho.com|123.30.128.195|HTTP|None|None|None|False
+387|webtretho.com|123.30.128.195|HTTPS|None|None|None|False|None|None|None|None|None|None
+388|tistory.com|180.70.93.117|HTTP|None|None|None|True
+388|tistory.com|180.70.93.117|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 EV SSL CA - G3|BE927003CEA4CD3A0D59E97977578949
+389|google.co.hu|216.58.209.99|HTTP|None|None|None|True
+389|google.co.hu|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+390|libero.it|37.9.239.32|HTTP|None|None|None|False
+390|libero.it|37.9.239.32|HTTPS|None|None|None|False|None|None|None|None|None|None
+391|infusionsoft.com|23.253.11.103|HTTP|None|None|None|True
+391|infusionsoft.com|23.253.11.103|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|BB163910FCCB3B50AA590F1553C310E1
+392|autohome.com.cn|223.202.33.196|HTTP|None|None|None|False
+392|autohome.com.cn|223.202.33.196|HTTPS|None|None|None|False|None|None|None|None|None|None
+393|reimageplus.com|192.237.225.117|HTTP|None|None|None|True
+393|reimageplus.com|192.237.225.117|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|BA21DC6A847CC12DBB36A6FC0791533E
+394|staticwebdom.com|50.63.202.32|HTTP|None|None|None|True
+394|staticwebdom.com|50.63.202.32|HTTPS|None|None|None|True|None|None|None|None|None|None
+395|codecanyon.net|23.253.198.33|HTTP|None|None|None|True
+395|codecanyon.net|23.253.198.33|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|RapidSSL CA|61E026AB251955107ADB082CA1E925FC
+396|milliyet.com.tr|85.111.27.87|HTTP|None|None|None|False
+396|milliyet.com.tr|85.111.27.87|HTTPS|None|None|None|False|None|None|None|None|None|None
+397|sahibinden.com|85.111.30.111|HTTP|None|None|None|True
+397|sahibinden.com|85.111.30.111|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 Secure Server CA - G4|C4D77ECF9D7812A7848A4F5AC4368C53
+398|ce.cn|116.213.200.36|HTTP|None|None|None|False
+398|ce.cn|116.213.200.36|HTTPS|None|None|None|False|None|None|None|None|None|None
+399|reuters.com|206.132.6.134|HTTP|None|None|None|False
+399|reuters.com|206.132.6.134|HTTPS|None|None|None|False|None|None|None|None|None|None
+400|onlinesbi.com|210.210.18.53|HTTP|None|None|None|True
+400|onlinesbi.com|210.210.18.53|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Extended Validation SSL SGC CA|E7C757DE0DA77862B1DB5F1C19BBE449
+401|google.co.il|216.58.209.99|HTTP|None|None|None|True
+401|google.co.il|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+402|twimg.com|210.163.219.24|HTTP|None|None|None|False
+402|twimg.com|210.163.219.24|HTTPS|None|None|None|False|None|None|None|None|None|None
+403|justdial.com|103.20.126.126|HTTP|None|None|None|False
+403|justdial.com|103.20.126.126|HTTPS|None|None|None|False|None|None|None|None|None|None
+404|eksisozluk.com|188.132.185.3|HTTP|None|None|None|True
+404|eksisozluk.com|188.132.185.3|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|AlphaSSL CA - SHA256 - G2|97F73980E735E85F6DEAA7F28C5EC3B1
+405|bitly.com|69.58.188.34|HTTP|None|None|None|True
+405|bitly.com|69.58.188.34|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|641EF7B1C129B2FB9C6E8C024DBC240D
+406|4shared.com|208.88.224.136|HTTP|None|None|None|True
+406|4shared.com|208.88.224.136|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|EECC5BEFEEA168F48B58C42D2940384F
+407|ameba.jp|180.233.137.163|HTTP|None|None|None|True
+407|ameba.jp|180.233.137.163|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Cybertrust Japan Public CA G3|F574C12517CA1EE719F4F91C772373D2
+408|scribd.com|23.235.43.175|HTTP|None|None|None|True
+408|scribd.com|23.235.43.175|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|C763A6711B8AC73CEF5E087773CFA680
+409|verizonwireless.com|137.188.80.90|HTTP|None|None|None|True
+409|verizonwireless.com|137.188.80.90|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 International Server CA - G3|C0E10293BAE9435A72C0759036D5830B
+410|google.cl|216.58.209.99|HTTP|None|None|None|True
+410|google.cl|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+411|googleapis.com|173.194.71.147|HTTP|None|None|None|True
+411|googleapis.com|173.194.71.147|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|405222EF94FB24A9DEA1A2BCC4F9B134
+412|hudong.com|119.254.117.70|HTTP|None|None|None|False
+412|hudong.com|119.254.117.70|HTTPS|None|None|None|False|None|None|None|None|None|None
+413|xcar.com.cn|118.67.112.71|HTTP|None|None|None|False
+413|xcar.com.cn|118.67.112.71|HTTPS|None|None|None|False|None|None|None|None|None|None
+414|eastmoney.com|222.73.55.185|HTTP|None|None|None|False
+414|eastmoney.com|222.73.55.185|HTTPS|None|None|None|False|None|None|None|None|None|None
+415|oracle.com|137.254.120.50|HTTP|None|None|None|True
+415|oracle.com|137.254.120.50|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 International Server CA - G3|3D9BDCF5882688770F86DA6F0C52D9E8
+416|babytree.com|103.25.22.168|HTTP|None|None|None|True
+416|babytree.com|103.25.22.168|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 Secure Server CA - G4|C27B59BEA3538949157699D31789C84C
+417|xda-developers.com|207.244.73.44|HTTP|None|None|None|True
+417|xda-developers.com|207.244.73.44|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|RapidSSL CA|5BF611BC3558E2C6ADA2247514B926AA
+418|liputan6.com|54.254.173.116|HTTP|None|None|None|True
+418|liputan6.com|54.254.173.116|HTTPS|None|None|None|True| 21 (unable to verify the first certificate)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Domain Validation Secure Server CA|113096788B93AEB1956030E03F42AC86
+419|google.ie|216.58.209.99|HTTP|None|None|None|True
+419|google.ie|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+420|paytm.com|54.255.220.188|HTTP|None|None|None|True
+420|paytm.com|54.255.220.188|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G3|1E7E11DC6547B8A5E0EF8568D6428DDE
+421|surveymonkey.com|75.98.93.51|HTTP|None|None|None|True
+421|surveymonkey.com|75.98.93.51|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Extended Validation SSL CA|DC98D376386D4E33DB655B9C6BC7F71B
+422|att.com|144.160.36.42|HTTP|None|None|None|True
+422|att.com|144.160.36.42|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 Secure Server CA - G4|8497FA424D6677E340A3DD745835E4F1
+423|mlb.com|209.102.213.14|HTTP|None|None|None|False
+423|mlb.com|209.102.213.14|HTTPS|None|None|None|False|None|None|None|None|None|None
+424|battle.net|24.105.29.30|HTTP|None|None|None|True
+424|battle.net|24.105.29.30|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|DigiCert High Assurance CA-3|A1C6E0BC53B8C34EA6968F9F37CEBA7E
+425|privatehomeclips.com|198.41.191.98|HTTP|None|None|None|True
+425|privatehomeclips.com|198.41.191.98|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|D3B5B6515580DA67EE6D5C17E50C25E6
+426|ptt01.cc|104.20.13.236|HTTP|None|None|None|True
+426|ptt01.cc|104.20.13.236|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|COMODO Domain Validation Secure Server CA 2|A4502B059C98C7CCC9849B7256C8639B
+427|time.com|192.0.79.33|HTTP|None|None|None|True
+427|time.com|192.0.79.33|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|8632151B9634F613137D17C7BA37E640
+428|ebay.com.au|66.135.211.132|HTTP|None|None|None|True
+428|ebay.com.au|66.135.211.132|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 Secure Server CA - G4|D1721CD6CBF883117F68C37984A79BD7
+429|sabah.com.tr|194.36.160.192|HTTP|None|None|None|False
+429|sabah.com.tr|194.36.160.192|HTTPS|None|None|None|False|None|None|None|None|None|None
+430|liveinternet.ru|88.212.196.114|HTTP|None|None|None|True
+430|liveinternet.ru|88.212.196.114|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|thawte DV SSL CA - G2|BDE653F7167EE7C104F40CF5FF1094D1
+431|lady8844.com|115.238.144.18|HTTP|None|None|None|False
+431|lady8844.com|115.238.144.18|HTTPS|None|None|None|False|None|None|None|None|None|None
+432|ero-advertising.com|185.70.212.137|HTTP|None|None|None|False
+432|ero-advertising.com|185.70.212.137|HTTPS|None|None|None|False|None|None|None|None|None|None
+433|expedia.com|204.74.99.101|HTTP|None|None|None|False
+433|expedia.com|204.74.99.101|HTTPS|None|None|None|False|None|None|None|None|None|None
+434|uploaded.net|81.171.123.200|HTTP|None|None|None|True
+434|uploaded.net|81.171.123.200|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|4096|RapidSSL SHA256 CA - G3|B196DF076211C5B7FEDC58BBCD075AB7
+435|ck101.com|23.252.115.242|HTTP|None|None|None|False
+435|ck101.com|23.252.115.242|HTTPS|None|None|None|False|None|None|None|None|None|None
+436|macys.com|88.221.113.98|HTTP|None|None|None|True
+436|macys.com|88.221.113.98|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Cybertrust Public SureServer SV CA|8D4C4812D5D48B9EE1E926A87A3DEEAA
+437|taleo.net|68.233.76.13|HTTP|None|None|None|True
+437|taleo.net|68.233.76.13|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|5D7D7CB9104BDF95F0D858472106F4F7
+438|tlbb8.com|141.8.225.72|HTTP|None|None|None|False
+438|tlbb8.com|141.8.225.72|HTTPS|None|None|None|False|None|None|None|None|None|None
+439|yandex.ua|77.88.55.55|HTTP|None|None|None|False
+439|yandex.ua|77.88.55.55|HTTPS|None|None|None|False|None|None|None|None|None|None
+440|free.fr|212.27.48.10|HTTP|None|None|None|True
+440|free.fr|212.27.48.10|HTTPS|None|None|None|True| 21 (unable to verify the first certificate)|sha1WithRSAEncryption|rsaEncryption|2048|RapidSSL CA|69D895767F9F6D34A6907C8FA1BBA86B
+441|bhaskar.com|80.150.2.218|HTTP|None|None|None|True
+441|bhaskar.com|80.150.2.218|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Cybertrust Public SureServer SV CA|8D4C4812D5D48B9EE1E926A87A3DEEAA
+442|lazada.co.id|119.81.86.136|HTTP|None|None|None|True
+442|lazada.co.id|119.81.86.136|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G3|9083401B8DE7E698E77ABAE2169BBCD7
+443|csdn.net|114.112.73.194|HTTP|None|None|None|False
+443|csdn.net|114.112.73.194|HTTPS|None|None|None|False|None|None|None|None|None|None
+444|32d1d3b9c.se|80.252.188.229|HTTP|None|None|None|False
+444|32d1d3b9c.se|80.252.188.229|HTTPS|None|None|None|False|None|None|None|None|None|None
+445|ebay.it|66.211.181.235|HTTP|None|None|None|True
+445|ebay.it|66.211.181.235|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 Secure Server CA - G4|D1721CD6CBF883117F68C37984A79BD7
+446|blog.jp|125.6.146.13|HTTP|None|None|None|True
+446|blog.jp|125.6.146.13|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust DV SSL CA - G4|949C7B7A695EEFC7F5E767B0F50499BC
+447|olx.in|119.81.80.108|HTTP|None|None|None|True
+447|olx.in|119.81.80.108|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|RapidSSL CA|EE1674F920E2F6459B2DAA8374DC2517
+448|list-manage.com|205.201.132.96|HTTP|None|None|None|True
+448|list-manage.com|205.201.132.96|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|thawte SSL CA - G2|DD2822D6B7E01EA61499D45624DBC851
+449|fbcdn.net|173.252.120.6|HTTP|None|None|None|True
+449|fbcdn.net|173.252.120.6|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|id-ecPublicKey|256|DigiCert High Assurance CA-3|358252AB83A5DDF01F6B80E2CB5BAC5A
+450|nyaa.se|69.165.95.242|HTTP|None|None|None|False
+450|nyaa.se|69.165.95.242|HTTPS|None|None|None|False|None|None|None|None|None|None
+451|blogspot.com.es|216.58.209.105|HTTP|None|None|None|True
+451|blogspot.com.es|216.58.209.105|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|2C6A1BDD40D86D39AB68A89705D440F9
+452|xywy.com|119.28.48.239|HTTP|None|None|None|False
+452|xywy.com|119.28.48.239|HTTPS|None|None|None|False|None|None|None|None|None|None
+453|theverge.com|216.146.46.10|HTTP|None|None|None|False
+453|theverge.com|216.146.46.10|HTTPS|None|None|None|False|None|None|None|None|None|None
+454|citibank.com|192.193.219.58|HTTP|None|None|None|True
+454|citibank.com|192.193.219.58|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 EV SSL SGC CA - G2|D4C2A132A3B15A59B628A045B3F21BBE
+455|ink361.com|54.88.227.210|HTTP|None|None|None|True
+455|ink361.com|54.88.227.210|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Starfield Secure Certificate Authority - G2|FC272688A5E44880E672A470DB899377
+456|rt.com|62.213.85.4|HTTP|None|None|None|True
+456|rt.com|62.213.85.4|HTTPS|None|None|None|True| 10 (certificate has expired)|sha1WithRSAEncryption|rsaEncryption|2048|COMODO High-Assurance Secure Server CA|B8DA21FF57FBCB1DD3AEB60B05939E1C
+457|flirchi.com|89.184.84.3|HTTP|None|None|None|True
+457|flirchi.com|89.184.84.3|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|RapidSSL SHA256 CA - G3|524A3649698928B2D8C791FF1D4941CC
+458|exoclick.com|178.33.165.129|HTTP|None|None|None|True
+458|exoclick.com|178.33.165.129|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|6C4BCA47744D279DA55546887EF93AE3
+459|nba.com|157.166.248.245|HTTP|None|None|None|True
+459|nba.com|157.166.248.245|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Trusted Secure Certificate Authority|F378BF13BE6AA33B9CC265588E75AA56
+460|repubblica.it|213.92.16.101|HTTP|None|None|None|False
+460|repubblica.it|213.92.16.101|HTTPS|None|None|None|False|None|None|None|None|None|None
+461|naukri.com|54.251.103.25|HTTP|None|None|None|False
+461|naukri.com|54.251.103.25|HTTPS|None|None|None|False|None|None|None|None|None|None
+462|google.com.vn|216.58.209.99|HTTP|None|None|None|True
+462|google.com.vn|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+463|okcupid.com|198.41.209.132|HTTP|None|None|None|True
+463|okcupid.com|198.41.209.132|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|168F0DB3FC62EE141E207C9044D7B989
+464|mega.co.nz|154.53.224.146|HTTP|None|None|None|True
+464|mega.co.nz|154.53.224.146|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Extended Validation Secure Server CA|42DBF5CE54AF32AA0FC1A437E6ED8772
+465|chaturbate.com|64.38.230.2|HTTP|None|None|None|True
+465|chaturbate.com|64.38.230.2|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G3|67DF4665B4FE5D6CFFF4A0238A435992
+466|warofclicks.com|137.117.240.249|HTTP|None|None|None|True
+466|warofclicks.com|137.117.240.249|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|FF0E71FE1321E081A34070C9F27FBADA
+467|gmarket.co.kr|211.233.9.149|HTTP|None|None|None|True
+467|gmarket.co.kr|211.233.9.149|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Extended Validation SSL SGC CA|24757D61A658EC630F8A8C2574AF7732
+468|elpais.com|91.216.63.240|HTTP|None|None|None|False
+468|elpais.com|91.216.63.240|HTTPS|None|None|None|False|None|None|None|None|None|None
+469|retailmenot.com|204.74.99.100|HTTP|None|None|None|False
+469|retailmenot.com|204.74.99.100|HTTPS|None|None|None|False|None|None|None|None|None|None
+470|livedoor.biz|None|HTTP|None|None|None|None
+470|livedoor.biz|None|HTTPS|None|None|None|None|None|None|None|None|None|None
+471|trulia.com|198.176.43.55|HTTP|None|None|None|False
+471|trulia.com|198.176.43.55|HTTPS|None|None|None|False|None|None|None|None|None|None
+472|goal.com|185.42.236.11|HTTP|None|None|None|True
+472|goal.com|185.42.236.11|HTTPS|None|None|None|True| 21 (unable to verify the first certificate)|sha1WithRSAEncryption|rsaEncryption|2048|RapidSSL CA|A3CB82230018387FA71BABAB0E720A7E
+473|albawabhnews.com|104.20.13.206|HTTP|None|None|None|True
+473|albawabhnews.com|104.20.13.206|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|COMODO Domain Validation Secure Server CA 2|71FAB121E9E33F06AB271898AA5CFC97
+474|wonderlandads.com|88.85.82.167|HTTP|None|None|None|True
+474|wonderlandads.com|88.85.82.167|HTTPS|None|None|None|True| 10 (certificate has expired)|sha1WithRSAEncryption|rsaEncryption|2048|RapidSSL CA|E18AF7C803D7F4E45214BE0E46B6544
+475|b5m.com|58.220.17.122|HTTP|None|None|None|False
+475|b5m.com|58.220.17.122|HTTPS|None|None|None|False|None|None|None|None|None|None
+476|gap.com|198.153.202.150|HTTP|None|None|None|False
+476|gap.com|198.153.202.150|HTTPS|None|None|None|False|None|None|None|None|None|None
+477|icloud.com|17.142.164.49|HTTP|None|None|None|True
+477|icloud.com|17.142.164.49|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Extended Validation SSL SGC CA|349D8CAA58C86D57B410C17014B573A8
+478|mi.com|120.134.33.10|HTTP|None|None|None|False
+478|mi.com|120.134.33.10|HTTPS|None|None|None|False|None|None|None|None|None|None
+479|ganji.com|124.250.6.151|HTTP|None|None|None|False
+479|ganji.com|124.250.6.151|HTTPS|None|None|None|False|None|None|None|None|None|None
+480|rbc.ru|80.68.251.97|HTTP|None|None|None|False
+480|rbc.ru|80.68.251.97|HTTPS|None|None|None|False|None|None|None|None|None|None
+481|mobile.de|91.211.75.124|HTTP|None|None|None|True
+481|mobile.de|91.211.75.124|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 EV SSL CA - G3|79DB83A5353CB25A3157E22BA9D62018
+482|kayak.com|208.94.137.69|HTTP|None|None|None|True
+482|kayak.com|208.94.137.69|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Domain Validation Secure Server CA|B6919B983631FC138F895288A0F644CB
+483|glassdoor.com|190.93.245.224|HTTP|None|None|None|True
+483|glassdoor.com|190.93.245.224|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G3|E1465D709D5411DEEF390CB4A1E70D30
+484|xe.com|88.221.38.112|HTTP|None|None|None|True
+484|xe.com|88.221.38.112|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|thawte EV SSL CA - G3|FA8B691EC4AF3B6A39C8FD3A511B10D9
+485|npr.org|216.35.221.76|HTTP|None|None|None|False
+485|npr.org|216.35.221.76|HTTPS|None|None|None|False|None|None|None|None|None|None
+486|bestadbid.com|88.85.82.181|HTTP|None|None|None|True
+486|bestadbid.com|88.85.82.181|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|RapidSSL CA|7CC08167FD13365FD354102DE8F1B164
+487|6pm.com|54.83.37.163|HTTP|None|None|None|True
+487|6pm.com|54.83.37.163|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|7022399147164D31C20ECC35B19EEC82
+488|hostgator.com|216.12.194.67|HTTP|None|None|None|True
+488|hostgator.com|216.12.194.67|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Organization Validation Secure Server CA|36731DC36F8BD986DFFB994A348AD37
+489|kouclo.com|114.113.232.18|HTTP|None|None|None|False
+489|kouclo.com|114.113.232.18|HTTPS|None|None|None|False|None|None|None|None|None|None
+490|buzzfil.net|104.18.61.17|HTTP|None|None|None|True
+490|buzzfil.net|104.18.61.17|HTTPS|None|None|None|True|None|None|None|None|None|None
+491|starsports.com|180.179.206.74|HTTP|None|None|None|False
+491|starsports.com|180.179.206.74|HTTPS|None|None|None|False|None|None|None|None|None|None
+492|blogimg.jp|None|HTTP|None|None|None|None
+492|blogimg.jp|None|HTTPS|None|None|None|None|None|None|None|None|None|None
+493|asana.com|54.235.251.211|HTTP|None|None|None|True
+493|asana.com|54.235.251.211|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|40062DA9979E5489D4F2602D0E5171F3
+494|58.com|211.151.111.30|HTTP|None|None|None|False
+494|58.com|211.151.111.30|HTTPS|None|None|None|False|None|None|None|None|None|None
+495|hotels.com|216.251.127.130|HTTP|None|None|None|True
+495|hotels.com|216.251.127.130|HTTPS|None|None|None|True| 20 (unable to get local issuer certificate)|sha1WithRSAEncryption|rsaEncryption|1024|Expedia Internal 1C|E0572900682042C63B54FE29E0F59FD2
+496|marca.com|193.110.128.199|HTTP|None|None|None|False
+496|marca.com|193.110.128.199|HTTPS|None|None|None|False|None|None|None|None|None|None
+497|abril.com.br|189.91.161.228|HTTP|None|None|None|False
+497|abril.com.br|189.91.161.228|HTTPS|None|None|None|False|None|None|None|None|None|None
+498|google.dz|216.58.209.99|HTTP|None|None|None|True
+498|google.dz|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+499|styletv.com.cn|115.159.15.37|HTTP|None|None|None|False
+499|styletv.com.cn|115.159.15.37|HTTPS|None|None|None|False|None|None|None|None|None|None
+500|ad132m.com|54.235.159.97|HTTP|None|None|None|False
+500|ad132m.com|54.235.159.97|HTTPS|None|None|None|False|None|None|None|None|None|None
+501|eyny.com|75.126.182.36|HTTP|None|None|None|False
+501|eyny.com|75.126.182.36|HTTPS|None|None|None|False|None|None|None|None|None|None
+502|php.net|72.52.91.14|HTTP|None|None|None|True
+502|php.net|72.52.91.14|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|4096|PositiveSSL CA 2|55505ECEA012F5CBA2920096431A9801
+503|constantcontact.com|205.207.104.83|HTTP|None|None|None|True
+503|constantcontact.com|205.207.104.83|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - SHA256 - G2|6C4BC40F28494E566E50B820384B56EE
+504|google.fi|216.58.209.99|HTTP|None|None|None|True
+504|google.fi|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+505|doubleclick.com|216.58.209.110|HTTP|None|None|None|True
+505|doubleclick.com|216.58.209.110|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|406928A8AE60B3019ABCF41D3C09DFD2
+506|woot.com|107.21.7.221|HTTP|None|None|None|True
+506|woot.com|107.21.7.221|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Trustwave Organization Validation SHA256 CA, Level 1|26D9095D817093ADF3FD5AE5F6D09577
+507|agoda.com|103.6.182.20|HTTP|None|None|None|False
+507|agoda.com|103.6.182.20|HTTPS|None|None|None|False|None|None|None|None|None|None
+508|odesk.com|104.16.6.18|HTTP|None|None|None|True
+508|odesk.com|104.16.6.18|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|DigiCert High Assurance CA-3|47D78FCA8D5432DDCE06DCDA40A4A0B1
+509|chinaz.com|125.90.88.68|HTTP|None|None|None|False
+509|chinaz.com|125.90.88.68|HTTPS|None|None|None|False|None|None|None|None|None|None
+510|impress.co.jp|203.183.234.2|HTTP|None|None|None|False
+510|impress.co.jp|203.183.234.2|HTTPS|None|None|None|False|None|None|None|None|None|None
+511|zippyshare.com|37.187.134.184|HTTP|None|None|None|True
+511|zippyshare.com|37.187.134.184|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|AlphaSSL CA - SHA256 - G2|F7D89052E7B6D88C4EAE71DFE953FBFC
+512|issuu.com|174.129.235.52|HTTP|None|None|None|True
+512|issuu.com|174.129.235.52|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|E887D6C6A158BCB0D0BA00CE00DAE0F
+513|timeanddate.com|209.68.24.127|HTTP|None|None|None|True
+513|timeanddate.com|209.68.24.127|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G2|988DCD567D7ACE51CC6A26387FAB7E4D
+514|enet.com.cn|123.196.118.10|HTTP|None|None|None|False
+514|enet.com.cn|123.196.118.10|HTTPS|None|None|None|False|None|None|None|None|None|None
+515|nordstrom.com|69.58.186.114|HTTP|None|None|None|False
+515|nordstrom.com|69.58.186.114|HTTPS|None|None|None|False|None|None|None|None|None|None
+516|wetransfer.com|46.137.79.34|HTTP|None|None|None|True
+516|wetransfer.com|46.137.79.34|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|DECCDCE7123DF53FE025DCB0473FCA35
+517|gawker.com|104.156.81.129|HTTP|None|None|None|True
+517|gawker.com|104.156.81.129|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|D906A366B80D4FC1782BA017F51B2462
+518|mystartsearch.com|69.28.57.26|HTTP|None|None|None|False
+518|mystartsearch.com|69.28.57.26|HTTPS|None|None|None|False|None|None|None|None|None|None
+519|asos.com|185.26.230.129|HTTP|None|None|None|False
+519|asos.com|185.26.230.129|HTTPS|None|None|None|False|None|None|None|None|None|None
+520|urdupoint.com|162.159.241.213|HTTP|None|None|None|True
+520|urdupoint.com|162.159.241.213|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|BB520B5E96641262AB364B35E5D4045D
+521|sex.com|206.125.164.82|HTTP|None|None|None|False
+521|sex.com|206.125.164.82|HTTPS|None|None|None|False|None|None|None|None|None|None
+522|google.sk|216.58.209.99|HTTP|None|None|None|True
+522|google.sk|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+523|corriere.it|185.53.36.101|HTTP|None|None|None|False
+523|corriere.it|185.53.36.101|HTTPS|None|None|None|False|None|None|None|None|None|None
+524|cnzz.com|42.156.162.55|HTTP|None|None|None|False
+524|cnzz.com|42.156.162.55|HTTPS|None|None|None|False|None|None|None|None|None|None
+525|kijiji.ca|91.195.49.131|HTTP|None|None|None|True
+525|kijiji.ca|91.195.49.131|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 Secure Server CA - G4|ECCA46395FE77B84C33D632889040125
+526|urbandictionary.com|54.231.48.138|HTTP|None|None|None|False
+526|urbandictionary.com|54.231.48.138|HTTPS|None|None|None|False|None|None|None|None|None|None
+527|azlyrics.com|85.17.159.246|HTTP|None|None|None|False
+527|azlyrics.com|85.17.159.246|HTTPS|None|None|None|False|None|None|None|None|None|None
+528|hm.com|134.213.2.238|HTTP|None|None|None|False
+528|hm.com|134.213.2.238|HTTPS|None|None|None|False|None|None|None|None|None|None
+529|lowes.com|206.112.186.66|HTTP|None|None|None|True
+529|lowes.com|206.112.186.66|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Entrust Certification Authority - L1C|9485FD77A0B2F6F9B3530AADC31A7C20
+530|beeg.com|213.174.130.56|HTTP|None|None|None|True
+530|beeg.com|213.174.130.56|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Domain Validation Secure Server CA|3FC798D3577D9E70A2CD3F1B2791628F
+531|playstation.com|209.200.152.198|HTTP|None|None|None|True
+531|playstation.com|209.200.152.198|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 Secure Server CA - G4|B0440CC0E8291FFA0D8E2D290CD8204B
+532|sberbank.ru|194.54.14.159|HTTP|None|None|None|True
+532|sberbank.ru|194.54.14.159|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G3|10081741A81BE8305232113C98E6A239
+533|slack.com|107.23.141.170|HTTP|None|None|None|True
+533|slack.com|107.23.141.170|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G3|CB15CDA9492CD3D1AC2157D912F2086D
+534|realtor.com|206.131.180.21|HTTP|None|None|None|True
+534|realtor.com|206.131.180.21|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Entrust Certification Authority - L1K|FFC292FE4BAD1AD2CF40532F03CE16B6
+535|shopclues.com|180.179.168.163|HTTP|None|None|None|False
+535|shopclues.com|180.179.168.163|HTTPS|None|None|None|False|None|None|None|None|None|None
+536|ci123.com|221.231.140.253|HTTP|None|None|None|False
+536|ci123.com|221.231.140.253|HTTPS|None|None|None|False|None|None|None|None|None|None
+537|elmundo.es|193.110.128.199|HTTP|None|None|None|False
+537|elmundo.es|193.110.128.199|HTTPS|None|None|None|False|None|None|None|None|None|None
+538|clien.net|183.111.27.12|HTTP|None|None|None|True
+538|clien.net|183.111.27.12|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|RapidSSL CA|D1F1CC713E5BFEA8741CFBFCEB4D4C79
+539|gamefaqs.com|64.30.228.84|HTTP|None|None|None|False
+539|gamefaqs.com|64.30.228.84|HTTPS|None|None|None|False|None|None|None|None|None|None
+540|tmz.com|52.4.132.85|HTTP|None|None|None|True
+540|tmz.com|52.4.132.85|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|AE4CB0D26BBA3247AA6867B1FD006EA5
+541|sabq.org|104.16.23.216|HTTP|None|None|None|True
+541|sabq.org|104.16.23.216|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|31DC9B25A2CB0575FEE5282B02F56F5F
+542|independent.co.uk|54.76.183.250|HTTP|None|None|None|True
+542|independent.co.uk|54.76.183.250|HTTPS|None|None|None|True| 21 (unable to verify the first certificate)|sha1WithRSAEncryption|rsaEncryption|2048|COMODO High-Assurance Secure Server CA|5283EEC99A1A0BED8B710DE0FDE2D925
+543|airbnb.com|107.21.209.149|HTTP|None|None|None|True
+543|airbnb.com|107.21.209.149|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|DigiCert Secure Server CA|A597A2820DF2299862F63E88E2ED4B65
+544|ucoz.ru|217.199.217.120|HTTP|None|None|None|False
+544|ucoz.ru|217.199.217.120|HTTPS|None|None|None|False|None|None|None|None|None|None
+545|ehow.com|23.227.2.46|HTTP|None|None|None|True
+545|ehow.com|23.227.2.46|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|EssentialSSL CA|DE9C001968ABF0613E50AC0FC862346A
+546|mercadolibre.com.ar|216.33.197.78|HTTP|None|None|None|True
+546|mercadolibre.com.ar|216.33.197.78|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 Secure Server CA - G4|35FD5B89F3FC86F377FE1FB6F71D91B5
+547|eastday.com|61.129.65.18|HTTP|None|None|None|False
+547|eastday.com|61.129.65.18|HTTPS|None|None|None|False|None|None|None|None|None|None
+548|statcounter.com|104.20.3.47|HTTP|None|None|None|True
+548|statcounter.com|104.20.3.47|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|52AE7129C5D5FFA0876FECD4EEF37095
+549|streamcloud.eu|93.115.81.41|HTTP|None|None|None|False
+549|streamcloud.eu|93.115.81.41|HTTPS|None|None|None|False|None|None|None|None|None|None
+550|tabelog.com|210.129.130.1|HTTP|None|None|None|False
+550|tabelog.com|210.129.130.1|HTTPS|None|None|None|False|None|None|None|None|None|None
+551|zoho.com|74.201.113.118|HTTP|None|None|None|True
+551|zoho.com|74.201.113.118|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Organization Validation Secure Server CA|1750D6E081A8AB769D8D3962EBE9102E
+552|houzz.com|64.235.52.176|HTTP|None|None|None|True
+552|houzz.com|64.235.52.176|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|46639D4D440113596222F10DD6D126F
+553|savefrom.net|146.185.29.13|HTTP|None|None|None|True
+553|savefrom.net|146.185.29.13|HTTPS|None|None|None|True| 21 (unable to verify the first certificate)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Organization Validation Secure Server CA|597305EC7640E81D11F83759D07523B5
+554|wunderground.com|38.102.136.104|HTTP|None|None|None|True
+554|wunderground.com|38.102.136.104|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - SHA256 - G2|4CC2C3B542775C67FA5056FD181C5DC3
+555|appledaily.com.tw|139.175.236.112|HTTP|None|None|None|True
+555|appledaily.com.tw|139.175.236.112|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Cybertrust Public SureServer SV CA|8D4C4812D5D48B9EE1E926A87A3DEEAA
+556|nike.com|66.54.56.30|HTTP|None|None|None|True
+556|nike.com|66.54.56.30|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|thawte SHA256 SSL CA|204FD6195507FE92D455A86309F74BD1
+557|ad120m.com|54.235.159.97|HTTP|None|None|None|False
+557|ad120m.com|54.235.159.97|HTTPS|None|None|None|False|None|None|None|None|None|None
+558|drseks.com|103.224.182.242|HTTP|None|None|None|False
+558|drseks.com|103.224.182.242|HTTPS|None|None|None|False|None|None|None|None|None|None
+559|onedio.com|54.246.158.12|HTTP|None|None|None|True
+559|onedio.com|54.246.158.12|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|E738FB6A95659D6EE157046CEB2ABA51
+560|domaintools.com|199.30.228.112|HTTP|None|None|None|True
+560|domaintools.com|199.30.228.112|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|RapidSSL CA|FDC744B8725A8C3F6E875ABCEE625125
+561|4dsply.com|69.89.74.80|HTTP|None|None|None|True
+561|4dsply.com|69.89.74.80|HTTPS|None|None|None|True| 18 (self signed certificate)|sha1WithRSAEncryption|rsaEncryption|4096|invalid.ssl.host.com|A6E685F1B276F1751324033D8202707D
+562|irctc.co.in|103.252.142.21|HTTP|None|None|None|True
+562|irctc.co.in|103.252.142.21|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GeoTrust Extended Validation SSL CA - G2|F5A588D5CE36B3138429D8999482B525
+563|eventbrite.com|184.72.225.123|HTTP|None|None|None|True
+563|eventbrite.com|184.72.225.123|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|19F47CE5705DAE268F0E8CE4AA1212C1
+564|cricbuzz.com|119.81.209.86|HTTP|None|None|None|False
+564|cricbuzz.com|119.81.209.86|HTTPS|None|None|None|False|None|None|None|None|None|None
+565|fanli.com|116.213.214.4|HTTP|None|None|None|False
+565|fanli.com|116.213.214.4|HTTPS|None|None|None|False|None|None|None|None|None|None
+566|elance.com|141.101.115.236|HTTP|None|None|None|True
+566|elance.com|141.101.115.236|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|21ACE5D0CEF848CE97CE1B453DF2AF51
+567|statsmobi.com|72.26.123.173|HTTP|None|None|None|True
+567|statsmobi.com|72.26.123.173|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|EssentialSSL CA|BDACE531AF476409B5C982A62C40DA85
+568|google.dk|216.58.209.99|HTTP|None|None|None|True
+568|google.dk|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+569|shopify.com|107.20.160.121|HTTP|None|None|None|True
+569|shopify.com|107.20.160.121|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|6FD067335E0B40CF787DD0D74B3F9487
+570|adsrvmedia.net|184.168.221.50|HTTP|None|None|None|True
+570|adsrvmedia.net|184.168.221.50|HTTPS|None|None|None|True|None|None|None|None|None|None
+571|aweber.com|204.194.222.28|HTTP|None|None|None|True
+571|aweber.com|204.194.222.28|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G3|EF1CF0AA987233E44939591C4C3D66F1
+572|donga.com|210.115.150.1|HTTP|None|None|None|False
+572|donga.com|210.115.150.1|HTTPS|None|None|None|False|None|None|None|None|None|None
+573|latimes.com|163.192.187.17|HTTP|None|None|None|False
+573|latimes.com|163.192.187.17|HTTPS|None|None|None|False|None|None|None|None|None|None
+574|duckduckgo.com|176.34.131.233|HTTP|None|None|None|True
+574|duckduckgo.com|176.34.131.233|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|F4B5397FB55F94C80B10615E7B1FABDE
+575|it168.com|223.202.33.211|HTTP|None|None|None|False
+575|it168.com|223.202.33.211|HTTPS|None|None|None|False|None|None|None|None|None|None
+576|olx.pl|5.134.209.108|HTTP|None|None|None|True
+576|olx.pl|5.134.209.108|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|thawte Extended Validation SSL CA|A1E177E8A8D93442474604686668E7D9
+577|blog.me|125.209.214.79|HTTP|None|None|None|False
+577|blog.me|125.209.214.79|HTTPS|None|None|None|False|None|None|None|None|None|None
+578|hatena.ne.jp|59.106.194.19|HTTP|None|None|None|True
+578|hatena.ne.jp|59.106.194.19|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Cybertrust Japan Public CA G3|E0A3A1B1BA7D416FDB20929158F9BD15
+579|11st.co.kr|113.217.247.100|HTTP|None|None|None|False
+579|11st.co.kr|113.217.247.100|HTTPS|None|None|None|False|None|None|None|None|None|None
+580|nbcnews.com|50.204.7.40|HTTP|None|None|None|True
+580|nbcnews.com|50.204.7.40|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Trusted Secure Certificate Authority|9290AC928598B56E9AD751F41E73C6D
+581|aparat.com|46.224.3.183|HTTP|None|None|None|False
+581|aparat.com|46.224.3.183|HTTPS|None|None|None|False|None|None|None|None|None|None
+582|blogspot.jp|216.58.209.105|HTTP|None|None|None|True
+582|blogspot.jp|216.58.209.105|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|2C6A1BDD40D86D39AB68A89705D440F9
+583|kinopoisk.ru|87.250.251.105|HTTP|None|None|None|True
+583|kinopoisk.ru|87.250.251.105|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|RapidSSL CA|9E6CA9E4B4B3177C01FCB6A4A8DD0109
+584|taringa.net|198.50.161.192|HTTP|None|None|None|True
+584|taringa.net|198.50.161.192|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Thawte DV SSL CA|C5B210E0976ABF8A96AD52D8273B2363
+585|vnexpress.net|111.65.248.132|HTTP|None|None|None|False
+585|vnexpress.net|111.65.248.132|HTTPS|None|None|None|False|None|None|None|None|None|None
+586|goo.gl|216.58.209.110|HTTP|None|None|None|True
+586|goo.gl|216.58.209.110|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|406928A8AE60B3019ABCF41D3C09DFD2
+587|youtube-mp3.org|5.135.148.201|HTTP|None|None|None|False
+587|youtube-mp3.org|5.135.148.201|HTTPS|None|None|None|False|None|None|None|None|None|None
+588|hdzog.com|198.41.190.129|HTTP|None|None|None|True
+588|hdzog.com|198.41.190.129|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|B52EA0C95250606746129714195AE49D
+589|ca.gov|134.186.61.39|HTTP|None|None|None|True
+589|ca.gov|134.186.61.39|HTTPS|None|None|None|True|None|None|None|None|None|None
+590|squarespace.com|198.185.159.146|HTTP|None|None|None|True
+590|squarespace.com|198.185.159.146|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|4F86D2A22B2BC46D6FD732EC902EFCC9
+591|stockstar.com|202.109.106.1|HTTP|None|None|None|False
+591|stockstar.com|202.109.106.1|HTTPS|None|None|None|False|None|None|None|None|None|None
+592|subscene.com|162.159.249.9|HTTP|None|None|None|True
+592|subscene.com|162.159.249.9|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|80323535C768AD2788058B9CFE46DAE7
+593|mixi.jp|52.68.197.178|HTTP|None|None|None|True
+593|mixi.jp|52.68.197.178|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Cybertrust Japan Public CA G3|443FE61F80B24B94970F2522FD749D7A
+594|box.com|74.112.184.90|HTTP|None|None|None|True
+594|box.com|74.112.184.90|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G4|DABA4A0F7FFF735BBAC3C9F169D8686B
+595|slate.com|50.17.182.136|HTTP|None|None|None|False
+595|slate.com|50.17.182.136|HTTPS|None|None|None|False|None|None|None|None|None|None
+596|subito.it|212.31.252.70|HTTP|None|None|None|True
+596|subito.it|212.31.252.70|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Thawte SSL CA|8EDBDEE5B5EE8F97E0D8652896395F67
+597|moneycontrol.com|124.153.64.100|HTTP|None|None|None|True
+597|moneycontrol.com|124.153.64.100|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Thawte SSL CA|B4DBB8930740F042898FA61588A5061F
+598|southwest.com|208.94.152.100|HTTP|None|None|None|True
+598|southwest.com|208.94.152.100|HTTPS|None|None|None|True| 21 (unable to verify the first certificate)|sha1WithRSAEncryption|rsaEncryption|2048|COMODO High-Assurance Secure Server CA|CCC408074A1B704F2C8491EAF464618B
+599|jqw.com|117.25.128.27|HTTP|None|None|None|False
+599|jqw.com|117.25.128.27|HTTPS|None|None|None|False|None|None|None|None|None|None
+600|ancestry.com|66.43.22.183|HTTP|None|None|None|True
+600|ancestry.com|66.43.22.183|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|thawte SSL CA - G2|8B0351388BF6A5AF7AA6CA81AB809474
+601|in.com|123.108.40.13|HTTP|None|None|None|False
+601|in.com|123.108.40.13|HTTPS|None|None|None|False|None|None|None|None|None|None
+602|kohls.com|2.19.80.45|HTTP|None|None|None|True
+602|kohls.com|2.19.80.45|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Cybertrust Public SureServer SV CA|BC418DB0141C1BC3578089B1B0EDB333
+603|instructables.com|74.50.63.27|HTTP|None|None|None|True
+603|instructables.com|74.50.63.27|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|357176AA2614B302838A9911F239F2E9
+604|vcommission.com|108.179.205.44|HTTP|None|None|None|True
+604|vcommission.com|108.179.205.44|HTTPS|None|None|None|True| 18 (self signed certificate)|sha1WithRSAEncryption|rsaEncryption|2048|vco.vcomguru.com|91A58539E4C88C6BB2FC7D1051F30473
+605|youboy.com|121.201.1.112|HTTP|None|None|None|False
+605|youboy.com|121.201.1.112|HTTPS|None|None|None|False|None|None|None|None|None|None
+606|siteadvisor.com|161.69.13.140|HTTP|None|None|None|True
+606|siteadvisor.com|161.69.13.140|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|McAfee OV SSL CA|20539F2C1FF678617F63E922173B886B
+607|intoday.in|220.226.193.63|HTTP|None|None|None|False
+607|intoday.in|220.226.193.63|HTTPS|None|None|None|False|None|None|None|None|None|None
+608|lenta.ru|81.19.76.10|HTTP|None|None|None|False
+608|lenta.ru|81.19.76.10|HTTPS|None|None|None|False|None|None|None|None|None|None
+609|pof.com|199.182.216.166|HTTP|None|None|None|True
+609|pof.com|199.182.216.166|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|458563483AB893025F88D9770360D5A
+610|java.com|23.46.122.31|HTTP|None|None|None|True
+610|java.com|23.46.122.31|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 EV SSL SGC CA - G2|6D0C3124234875F304C07E2E9AC6FC82
+611|fidelity.com|155.199.148.111|HTTP|None|None|None|True
+611|fidelity.com|155.199.148.111|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Entrust Certification Authority - L1E|F8F45B0815E1EEBA7AA0C8371E102978
+612|pinimg.com|107.21.116.100|HTTP|None|None|None|False
+612|pinimg.com|107.21.116.100|HTTPS|None|None|None|False|None|None|None|None|None|None
+613|facenama.com|79.127.127.5|HTTP|None|None|None|True
+613|facenama.com|79.127.127.5|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Domain Validation Secure Server CA|6F8BF76B22AC605768980CDAD3033059
+614|haber7.com|46.245.163.1|HTTP|None|None|None|False
+614|haber7.com|46.245.163.1|HTTPS|None|None|None|False|None|None|None|None|None|None
+615|nownews.com|61.220.58.36|HTTP|None|None|None|False
+615|nownews.com|61.220.58.36|HTTPS|None|None|None|False|None|None|None|None|None|None
+616|medium.com|107.21.240.180|HTTP|None|None|None|True
+616|medium.com|107.21.240.180|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|4D430C930B9DC17FB63DAB0ADD59777D
+617|udemy.com|190.93.243.22|HTTP|None|None|None|True
+617|udemy.com|190.93.243.22|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|73722D340C4C68FC0EAD818C3A1B20C9
+618|rottentomatoes.com|209.237.233.38|HTTP|None|None|None|True
+618|rottentomatoes.com|209.237.233.38|HTTPS|None|None|None|True| 21 (unable to verify the first certificate)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|A26EF4AB7BD9CBDC87C49DE7B3EFDF25
+619|sakura.ne.jp|210.224.168.100|HTTP|None|None|None|False
+619|sakura.ne.jp|210.224.168.100|HTTPS|None|None|None|False|None|None|None|None|None|None
+620|lenovo.com|64.26.251.145|HTTP|None|None|None|True
+620|lenovo.com|64.26.251.145|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 International Server CA - G3|51B1D4ACE9DD5041D9384F700E5FDC6E
+621|youdao.com|61.135.218.30|HTTP|None|None|None|True
+621|youdao.com|61.135.218.30|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G3|8A444CE1C44AA617F9021A2843C44CB2
+622|goodgamestudios.com|52.16.69.54|HTTP|None|None|None|True
+622|goodgamestudios.com|52.16.69.54|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Domain Validation CA - G2|97DCD6A172ACB60D7F373C9713DCC8B8
+623|hubspot.com|172.229.181.32|HTTP|None|None|None|True
+623|hubspot.com|172.229.181.32|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|D3C91E62A4A69016A392F50988C7EB3C
+624|jrj.com.cn|117.121.12.17|HTTP|None|None|None|False
+624|jrj.com.cn|117.121.12.17|HTTPS|None|None|None|False|None|None|None|None|None|None
+625|wwwpromoter.com|104.28.10.90|HTTP|None|None|None|True
+625|wwwpromoter.com|104.28.10.90|HTTPS|None|None|None|True|None|None|None|None|None|None
+626|zing.vn|120.138.69.70|HTTP|None|None|None|True
+626|zing.vn|120.138.69.70|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|DigiCert High Assurance CA-3|A23DFC163B545DD9CC7D96BF084084E1
+627|gazeta.pl|80.252.0.145|HTTP|None|None|None|False
+627|gazeta.pl|80.252.0.145|HTTPS|None|None|None|False|None|None|None|None|None|None
+628|ig.com.br|54.208.27.227|HTTP|None|None|None|False
+628|ig.com.br|54.208.27.227|HTTPS|None|None|None|False|None|None|None|None|None|None
+629|etao.com|140.205.142.18|HTTP|None|None|None|False
+629|etao.com|140.205.142.18|HTTPS|None|None|None|False|None|None|None|None|None|None
+630|jimdo.com|62.116.130.8|HTTP|None|None|None|False
+630|jimdo.com|62.116.130.8|HTTPS|None|None|None|False|None|None|None|None|None|None
+631|airtel.in|125.19.135.93|HTTP|None|None|None|True
+631|airtel.in|125.19.135.93|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 Secure Server CA - G4|4B0410373261C626A3389D7CBA118362
+632|shareba.com|141.101.112.34|HTTP|None|None|None|True
+632|shareba.com|141.101.112.34|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|ACFDE8C2BF807553496D51539CD955D9
+633|bodybuilding.com|206.207.84.93|HTTP|None|None|None|True
+633|bodybuilding.com|206.207.84.93|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|9CBF5BCBC988BAAD8402597074854355
+634|wired.com|107.23.243.205|HTTP|None|None|None|False
+634|wired.com|107.23.243.205|HTTPS|None|None|None|False|None|None|None|None|None|None
+635|wiktionary.org|91.198.174.192|HTTP|None|None|None|True
+635|wiktionary.org|91.198.174.192|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - SHA256 - G2|F170B1559FD36AF200010F6200A02B43
+636|neobux.com|167.114.191.215|HTTP|None|None|None|True
+636|neobux.com|167.114.191.215|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Trustwave Extended Validation SHA256 CA, Level 1|A9D78FA874CCEAB7E174C764EADA3EBD
+637|verizon.com|88.221.113.18|HTTP|None|None|None|True
+637|verizon.com|88.221.113.18|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Cybertrust Public SureServer SV CA|8D4C4812D5D48B9EE1E926A87A3DEEAA
+638|nifty.com|222.158.213.148|HTTP|None|None|None|True
+638|nifty.com|222.158.213.148|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Cybertrust Japan Public CA G2|2FDBA2CE52297D69D6918AF287D59D08
+639|overstock.com|173.241.154.10|HTTP|None|None|None|True
+639|overstock.com|173.241.154.10|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 EV SSL CA - G3|A3A3BECC5F8D1C0511070B5CAD1E5E07
+640|priceline.com|64.6.28.5|HTTP|None|None|None|False
+640|priceline.com|64.6.28.5|HTTPS|None|None|None|False|None|None|None|None|None|None
+641|kooora.com|192.230.66.165|HTTP|None|None|None|True
+641|kooora.com|192.230.66.165|HTTPS|None|None|None|True| 21 (unable to verify the first certificate)|sha1WithRSAEncryption|rsaEncryption|1024|incapsula.com|717C2ECDB65DC885C32562A384EEFAF9
+642|fh21.com.cn|220.194.62.57|HTTP|None|None|None|False
+642|fh21.com.cn|220.194.62.57|HTTPS|None|None|None|False|None|None|None|None|None|None
+643|lemonde.fr|93.184.220.20|HTTP|None|None|None|True
+643|lemonde.fr|93.184.220.20|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|2F6F1F3B2F239CC6CF916DBB2F99C738
+644|academia.edu|54.247.118.82|HTTP|None|None|None|True
+644|academia.edu|54.247.118.82|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Domain Validation Secure Server CA|A301A22C14C9E1E02F2F79E702DFB544
+645|xunlei.com|163.177.79.253|HTTP|None|None|None|False
+645|xunlei.com|163.177.79.253|HTTPS|None|None|None|False|None|None|None|None|None|None
+646|elwatannews.com|104.27.141.23|HTTP|None|None|None|True
+646|elwatannews.com|104.27.141.23|HTTPS|None|None|None|True|None|None|None|None|None|None
+647|behance.net|74.205.63.94|HTTP|None|None|None|True
+647|behance.net|74.205.63.94|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 Secure Server CA - G4|748EBE339943EBDD1650172AF1FBE025
+648|drudgereport.com|98.158.27.203|HTTP|None|None|None|False
+648|drudgereport.com|98.158.27.203|HTTPS|None|None|None|False|None|None|None|None|None|None
+649|youjizz.com|31.192.122.224|HTTP|None|None|None|True
+649|youjizz.com|31.192.122.224|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Domain Validation Secure Server CA|58589F5DB1E2D0AE033030750D4AEDE6
+650|putlocker.is|81.17.18.254|HTTP|None|None|None|False
+650|putlocker.is|81.17.18.254|HTTPS|None|None|None|False|None|None|None|None|None|None
+651|mirror.co.uk|54.228.196.66|HTTP|None|None|None|False
+651|mirror.co.uk|54.228.196.66|HTTPS|None|None|None|False|None|None|None|None|None|None
+652|japanpost.jp|203.202.223.140|HTTP|None|None|None|False
+652|japanpost.jp|203.202.223.140|HTTPS|None|None|None|False|None|None|None|None|None|None
+653|allrecipes.com|64.94.140.201|HTTP|None|None|None|False
+653|allrecipes.com|64.94.140.201|HTTPS|None|None|None|False|None|None|None|None|None|None
+654|entrepreneur.com|207.171.3.201|HTTP|None|None|None|False
+654|entrepreneur.com|207.171.3.201|HTTPS|None|None|None|False|None|None|None|None|None|None
+655|wikiwiki.jp|141.101.123.68|HTTP|None|None|None|True
+655|wikiwiki.jp|141.101.123.68|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|1E3A2EAA56E2D478946D14169723FEAC
+656|mackeeper.com|174.142.19.43|HTTP|None|None|None|True
+656|mackeeper.com|174.142.19.43|HTTPS|None|None|None|True| 18 (self signed certificate)|sha1WithRSAEncryption|rsaEncryption|1024|lb1.node|F687FE3A58059F2AF105C9311CA7ADCF
+657|semrush.com|46.229.165.9|HTTP|None|None|None|True
+657|semrush.com|46.229.165.9|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|RapidSSL CA|771BE097C79C6BB080D5726A7F8BDBB5
+658|digikala.com|91.98.28.98|HTTP|None|None|None|False
+658|digikala.com|91.98.28.98|HTTPS|None|None|None|False|None|None|None|None|None|None
+659|interia.pl|217.74.65.23|HTTP|None|None|None|True
+659|interia.pl|217.74.65.23|HTTPS|None|None|None|True| 21 (unable to verify the first certificate)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|5E4F675AEDC6A6D7717EEC93A496D26A
+660|soku.com|61.135.196.23|HTTP|None|None|None|False
+660|soku.com|61.135.196.23|HTTPS|None|None|None|False|None|None|None|None|None|None
+661|basecamp.com|204.62.114.180|HTTP|None|None|None|True
+661|basecamp.com|204.62.114.180|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|thawte EV SSL CA - G3|ADF1DB43DF8D5CC93CE792C8C82DC655
+662|ebay.fr|66.211.181.235|HTTP|None|None|None|True
+662|ebay.fr|66.211.181.235|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 Secure Server CA - G4|D1721CD6CBF883117F68C37984A79BD7
+663|rednet.cn|222.240.172.22|HTTP|None|None|None|False
+663|rednet.cn|222.240.172.22|HTTPS|None|None|None|False|None|None|None|None|None|None
+664|nydailynews.com|104.156.85.64|HTTP|None|None|None|True
+664|nydailynews.com|104.156.85.64|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|BD39564909E7A0E115907956376C6EA8
+665|onlylady.com|118.67.113.98|HTTP|None|None|None|False
+665|onlylady.com|118.67.113.98|HTTPS|None|None|None|False|None|None|None|None|None|None
+666|cracked.com|23.227.10.30|HTTP|None|None|None|False
+666|cracked.com|23.227.10.30|HTTPS|None|None|None|False|None|None|None|None|None|None
+667|slimspots.com|37.59.33.128|HTTP|None|None|None|True
+667|slimspots.com|37.59.33.128|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Domain Validation Secure Server CA|B0677D7E97ACA17168FE11FFA858EA41
+668|elfagr.org|104.27.160.160|HTTP|None|None|None|True
+668|elfagr.org|104.27.160.160|HTTPS|None|None|None|True|None|None|None|None|None|None
+669|17ok.com|119.254.11.66|HTTP|None|None|None|False
+669|17ok.com|119.254.11.66|HTTPS|None|None|None|False|None|None|None|None|None|None
+670|kinogo.net|104.24.121.89|HTTP|None|None|None|True
+670|kinogo.net|104.24.121.89|HTTPS|None|None|None|True|None|None|None|None|None|None
+671|ero-video.net|136.0.116.215|HTTP|None|None|None|True
+671|ero-video.net|136.0.116.215|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|BEFC9DBBFA291B4F601D5180DEE53665
+672|torcache.net|95.215.61.199|HTTP|None|None|None|False
+672|torcache.net|95.215.61.199|HTTPS|None|None|None|False|None|None|None|None|None|None
+673|livescore.com|46.51.195.125|HTTP|None|None|None|False
+673|livescore.com|46.51.195.125|HTTPS|None|None|None|False|None|None|None|None|None|None
+674|hespress.com|162.159.255.97|HTTP|None|None|None|True
+674|hespress.com|162.159.255.97|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|110EE5F53AB8660322BB57C2834EE13F
+675|ashleyrnadison.com|66.240.152.13|HTTP|None|None|None|False
+675|ashleyrnadison.com|66.240.152.13|HTTPS|None|None|None|False|None|None|None|None|None|None
+676|souq.com|72.52.8.197|HTTP|None|None|None|True
+676|souq.com|72.52.8.197|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|thawte Extended Validation SHA256 SSL CA|E10820AE6B152CABB7F0297D4AC16530
+677|chron.com|174.143.228.153|HTTP|None|None|None|True
+677|chron.com|174.143.228.153|HTTPS|None|None|None|True| 10 (certificate has expired)|sha1WithRSAEncryption|rsaEncryption|1024|236135-pweb2.hearstnp.com|248DB3C10D2DEE16D15E244AA9B9F67A
+678|dianping.com|180.153.132.38|HTTP|None|None|None|False
+678|dianping.com|180.153.132.38|HTTPS|None|None|None|False|None|None|None|None|None|None
+679|chip.de|216.146.46.11|HTTP|None|None|None|False
+679|chip.de|216.146.46.11|HTTPS|None|None|None|False|None|None|None|None|None|None
+680|pcpop.com|223.202.33.226|HTTP|None|None|None|False
+680|pcpop.com|223.202.33.226|HTTPS|None|None|None|False|None|None|None|None|None|None
+681|ad6media.fr|87.98.183.219|HTTP|None|None|None|True
+681|ad6media.fr|87.98.183.219|HTTPS|None|None|None|True|None|None|None|None|None|None
+682|kotaku.com|23.235.33.64|HTTP|None|None|None|True
+682|kotaku.com|23.235.33.64|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|BD39564909E7A0E115907956376C6EA8
+683|hstpnetwork.com|188.165.55.191|HTTP|None|None|None|True
+683|hstpnetwork.com|188.165.55.191|HTTPS|None|None|None|True| 21 (unable to verify the first certificate)|sha256WithRSAEncryption|rsaEncryption|2048|thawte SSL CA - G2|A5451A6F12EA0E363AE1F34497F07B43
+684|junbi-tracker.com|95.128.201.170|HTTP|None|None|None|False
+684|junbi-tracker.com|95.128.201.170|HTTPS|None|None|None|False|None|None|None|None|None|None
+685|vetogate.com|190.93.240.58|HTTP|None|None|None|True
+685|vetogate.com|190.93.240.58|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|1B89B0FA577CF93F0A1939C044FF3FBF
+686|rapidgator.net|195.211.221.116|HTTP|None|None|None|True
+686|rapidgator.net|195.211.221.116|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|RapidSSL SHA256 CA - G3|229F7E2DB4BD2E6A671C02686C581574
+687|discovercard.com|23.54.128.161|HTTP|None|None|None|True
+687|discovercard.com|23.54.128.161|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 EV SSL CA - G3|9894060A9119C713ADCC9BFFB484B054
+688|omiga-plus.com|50.22.218.160|HTTP|None|None|None|False
+688|omiga-plus.com|50.22.218.160|HTTPS|None|None|None|False|None|None|None|None|None|None
+689|myntra.com|180.179.147.11|HTTP|None|None|None|True
+689|myntra.com|180.179.147.11|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|120296304B8DE9F601AC7EC76105903
+690|asus.com|103.10.4.216|HTTP|None|None|None|False
+690|asus.com|103.10.4.216|HTTPS|None|None|None|False|None|None|None|None|None|None
+691|twoo.com|77.73.177.139|HTTP|None|None|None|True
+691|twoo.com|77.73.177.139|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|27D46429A54915EBC51C116D323D4B66
+692|ted.com|54.209.247.27|HTTP|None|None|None|True
+692|ted.com|54.209.247.27|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|RapidSSL SHA256 CA - G3|2ED144188C273C7F6BE6D0FE8BAAC3E8
+693|cnblogs.com|42.121.252.58|HTTP|None|None|None|False
+693|cnblogs.com|42.121.252.58|HTTPS|None|None|None|False|None|None|None|None|None|None
+694|change.org|104.16.5.13|HTTP|None|None|None|True
+694|change.org|104.16.5.13|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|D2B6AA3A5C3CFA55F6287C47FDE9D573
+695|myfitnesspal.com|50.19.239.39|HTTP|None|None|None|True
+695|myfitnesspal.com|50.19.239.39|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|D8F948813E5FD718F31A63CE6A0A96E7
+696|abcnews.go.com|68.71.222.53|HTTP|None|None|None|True
+696|abcnews.go.com|68.71.222.53|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Entrust Certification Authority - L1C|AF177D60A68460F762C1C2E58365FD6A
+697|blackboard.com|69.196.244.99|HTTP|None|None|None|True
+697|blackboard.com|69.196.244.99|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|A36DFE6241E8E58366CEE7FDD885435C
+698|prntscr.com|198.41.184.132|HTTP|None|None|None|True
+698|prntscr.com|198.41.184.132|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|8434582F22235B414BF8ADFEA9342064
+699|bluehost.com|74.220.195.50|HTTP|None|None|None|True
+699|bluehost.com|74.220.195.50|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Domain Validation Secure Server CA|34AFD9360C312ADBD4F370685BDB92E3
+700|pcgames.com.cn|219.136.245.40|HTTP|None|None|None|False
+700|pcgames.com.cn|219.136.245.40|HTTPS|None|None|None|False|None|None|None|None|None|None
+701|makemytrip.com|180.179.112.50|HTTP|None|None|None|True
+701|makemytrip.com|180.179.112.50|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|A4353809C37CB002DF8B0063300F29B2
+702|staples.com|170.37.25.140|HTTP|None|None|None|True
+702|staples.com|170.37.25.140|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|F3B2FF9A536DB13CAA97DAE537AD453E
+703|efix.com|198.41.191.204|HTTP|None|None|None|True
+703|efix.com|198.41.191.204|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|B73D7467A1BAE89F92C29A6F367A5061
+704|saramin.co.kr|182.162.86.29|HTTP|None|None|None|True
+704|saramin.co.kr|182.162.86.29|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|COMODO SSL CA|31C5049C79EF3CD6B2D44E4922B4B958
+705|workercn.cn|None|HTTP|None|None|None|None
+705|workercn.cn|None|HTTPS|None|None|None|None|None|None|None|None|None|None
+706|chinaso.com|223.203.201.72|HTTP|None|None|None|False
+706|chinaso.com|223.203.201.72|HTTPS|None|None|None|False|None|None|None|None|None|None
+707|epweike.com|121.40.97.32|HTTP|None|None|None|False
+707|epweike.com|121.40.97.32|HTTPS|None|None|None|False|None|None|None|None|None|None
+708|el-balad.com|141.101.118.70|HTTP|None|None|None|False
+708|el-balad.com|141.101.118.70|HTTPS|None|None|None|False|None|None|None|None|None|None
+709|voc.com.cn|175.6.4.158|HTTP|None|None|None|False
+709|voc.com.cn|175.6.4.158|HTTPS|None|None|None|False|None|None|None|None|None|None
+710|eonline.com|208.78.125.160|HTTP|None|None|None|False
+710|eonline.com|208.78.125.160|HTTPS|None|None|None|False|None|None|None|None|None|None
+711|sears.com|109.105.109.9|HTTP|None|None|None|True
+711|sears.com|109.105.109.9|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Cybertrust Public SureServer SV CA|8D4C4812D5D48B9EE1E926A87A3DEEAA
+712|liveleak.com|199.80.59.132|HTTP|None|None|None|False
+712|liveleak.com|199.80.59.132|HTTPS|None|None|None|False|None|None|None|None|None|None
+713|costco.com|170.167.8.1|HTTP|None|None|None|True
+713|costco.com|170.167.8.1|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Trusted Secure Certificate Authority|8AD3AE2A1C82798608DFD16A3370C254
+714|shareasale.com|209.207.213.228|HTTP|None|None|None|True
+714|shareasale.com|209.207.213.228|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|4096|Go Daddy Secure Certificate Authority - G2|42B07E25B82C7318F3AF3572C318E42D
+715|auction.co.kr|211.233.17.11|HTTP|None|None|None|False
+715|auction.co.kr|211.233.17.11|HTTPS|None|None|None|False|None|None|None|None|None|None
+716|douyutv.com|106.187.39.70|HTTP|None|None|None|False
+716|douyutv.com|106.187.39.70|HTTPS|None|None|None|False|None|None|None|None|None|None
+717|bhphotovideo.com|74.113.188.100|HTTP|None|None|None|True
+717|bhphotovideo.com|74.113.188.100|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Trusted Secure Certificate Authority|E22282CA48F134814B0540D90DF0D69C
+718|4chan.org|190.93.244.6|HTTP|None|None|None|False
+718|4chan.org|190.93.244.6|HTTPS|None|None|None|False|None|None|None|None|None|None
+719|e-hentai.org|37.48.93.53|HTTP|None|None|None|False
+719|e-hentai.org|37.48.93.53|HTTPS|None|None|None|False|None|None|None|None|None|None
+720|seesaa.net|59.106.98.139|HTTP|None|None|None|True
+720|seesaa.net|59.106.98.139|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GeoTrust DV SSL CA|8D6BBCF952A6F7A84AD929563C2749D2
+721|people.com|216.146.46.10|HTTP|None|None|None|False
+721|people.com|216.146.46.10|HTTPS|None|None|None|False|None|None|None|None|None|None
+722|terra.com.br|208.84.244.116|HTTP|None|None|None|True
+722|terra.com.br|208.84.244.116|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - SHA256 - G2|26F94EAEF18F99B89A113134A3DD65F9
+723|news.com.au|88.221.219.11|HTTP|None|None|None|True
+723|news.com.au|88.221.219.11|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Cybertrust Public SureServer SV CA|8D4C4812D5D48B9EE1E926A87A3DEEAA
+724|yoka.com|59.151.9.70|HTTP|None|None|None|False
+724|yoka.com|59.151.9.70|HTTPS|None|None|None|False|None|None|None|None|None|None
+725|freepik.com|178.33.44.27|HTTP|None|None|None|True
+725|freepik.com|178.33.44.27|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Domain Validation Secure Server CA|56642C4A8A3BACCE90478D6E061C8B0B
+726|so-net.ne.jp|210.139.248.1|HTTP|None|None|None|True
+726|so-net.ne.jp|210.139.248.1|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 EV SSL SGC CA - G2|FA7E1B63197E380E283C289241C263F3
+727|renren.com|220.181.181.222|HTTP|None|None|None|False
+727|renren.com|220.181.181.222|HTTPS|None|None|None|False|None|None|None|None|None|None
+728|battlefield.com|159.153.106.43|HTTP|None|None|None|True
+728|battlefield.com|159.153.106.43|HTTPS|None|None|None|True| 21 (unable to verify the first certificate)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|665D6B3DA6F0344E47262093BD1F964A
+729|ticketmaster.com|209.104.34.32|HTTP|None|None|None|False
+729|ticketmaster.com|209.104.34.32|HTTPS|None|None|None|False|None|None|None|None|None|None
+730|vi-view.com|50.97.32.135|HTTP|None|None|None|True
+730|vi-view.com|50.97.32.135|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|F1FA8E02507D6CA74299B4D2E46B57E8
+731|united.com|216.136.1.150|HTTP|None|None|None|True
+731|united.com|216.136.1.150|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G3|453D5E5135594E102C60FFB9120C3326
+732|vine.co|50.19.83.253|HTTP|None|None|None|True
+732|vine.co|50.19.83.253|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|DigiCert High Assurance CA-3|2C8A0878504E49AD340B41C084B9B410
+733|google.co.nz|216.58.209.99|HTTP|None|None|None|True
+733|google.co.nz|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+734|lefigaro.fr|212.95.67.222|HTTP|None|None|None|False
+734|lefigaro.fr|212.95.67.222|HTTPS|None|None|None|False|None|None|None|None|None|None
+735|ewt.cc|210.21.236.212|HTTP|None|None|None|True
+735|ewt.cc|210.21.236.212|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G2|61D8B3910AD6E20C8393BCA3C0ECE6AE
+736|m-w.com|38.69.47.251|HTTP|None|None|None|True
+736|m-w.com|38.69.47.251|HTTPS|None|None|None|True| 10 (certificate has expired)|sha1WithRSAEncryption|rsaEncryption|2048|Entrust Certification Authority - L1C|759053B45F183DF42A5C23E4E2B8153D
+737|custhelp.com|216.136.229.72|HTTP|None|None|None|False
+737|custhelp.com|216.136.229.72|HTTPS|None|None|None|False|None|None|None|None|None|None
+738|zulily.com|72.4.117.220|HTTP|None|None|None|True
+738|zulily.com|72.4.117.220|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|thawte EV SSL CA - G2|44E3BDC469A4FB84BFDF76A38BA599AE
+739|faithtap.com|198.41.186.57|HTTP|None|None|None|True
+739|faithtap.com|198.41.186.57|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|E8EBF8EC24094D5D3F402C1834F7B744
+740|r10.net|104.20.25.135|HTTP|None|None|None|True
+740|r10.net|104.20.25.135|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|78C14CCA5916B8EC31EEFFD7D7D845EC
+741|gutefrage.net|213.95.206.42|HTTP|None|None|None|True
+741|gutefrage.net|213.95.206.42|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Thawte SSL CA|4257CF17B1B60455C86195ACADA7BB84
+742|babycenter.com|208.17.90.54|HTTP|None|None|None|False
+742|babycenter.com|208.17.90.54|HTTPS|None|None|None|False|None|None|None|None|None|None
+743|torrentz.in|185.87.146.4|HTTP|None|None|None|True
+743|torrentz.in|185.87.146.4|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Domain Validation Secure Server CA|7E305896EC55CB42957DAEF758C5A7CF
+744|disney.go.com|68.71.212.116|HTTP|None|None|None|False
+744|disney.go.com|68.71.212.116|HTTPS|None|None|None|False|None|None|None|None|None|None
+745|billdesk.com|210.210.24.66|HTTP|None|None|None|True
+745|billdesk.com|210.210.24.66|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 Secure Server CA - G4|85241CBDDF1155CCEB3AFD906EEDCFFF
+746|zappos.com|54.80.7.219|HTTP|None|None|None|True
+746|zappos.com|54.80.7.219|HTTPS|None|None|None|True| 10 (certificate has expired)|sha1WithRSAEncryption|rsaEncryption|2048|DigiCert High Assurance EV CA-1|D65E389DA6B94830661E6AD6AD6A186B
+747|android.com|173.194.71.106|HTTP|None|None|None|True
+747|android.com|173.194.71.106|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|405222EF94FB24A9DEA1A2BCC4F9B134
+748|swagbucks.com|68.71.251.224|HTTP|None|None|None|True
+748|swagbucks.com|68.71.251.224|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certification Authority|4F1216B6EFA1E034B8292319B8DBABCB
+749|patch.com|50.56.4.27|HTTP|None|None|None|True
+749|patch.com|50.56.4.27|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|D9173181858F82874711278FF0C46CA6
+750|biglobe.ne.jp|49.129.31.76|HTTP|None|None|None|False
+750|biglobe.ne.jp|49.129.31.76|HTTPS|None|None|None|False|None|None|None|None|None|None
+751|milanuncios.com|91.229.239.23|HTTP|None|None|None|True
+751|milanuncios.com|91.229.239.23|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Domain Validation Secure Server CA|797E05AEF96814B645ADE28D9361EC41
+752|22find.com|108.168.166.58|HTTP|None|None|None|False
+752|22find.com|108.168.166.58|HTTPS|None|None|None|False|None|None|None|None|None|None
+753|bukalapak.com|182.253.238.102|HTTP|None|None|None|True
+753|bukalapak.com|182.253.238.102|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Domain Validation Secure Server CA|49906CAB171AE50CD75FB47623516771
+754|focus.de|62.138.108.130|HTTP|None|None|None|True
+754|focus.de|62.138.108.130|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|COMODO High-Assurance Secure Server CA|CDCB651FDA30154C39FD172F17F458CE
+755|kdnet.net|124.225.131.152|HTTP|None|None|None|False
+755|kdnet.net|124.225.131.152|HTTPS|None|None|None|False|None|None|None|None|None|None
+756|folha.uol.com.br|200.147.67.132|HTTP|None|None|None|False
+756|folha.uol.com.br|200.147.67.132|HTTPS|None|None|None|False|None|None|None|None|None|None
+757|315che.com|115.159.15.187|HTTP|None|None|None|False
+757|315che.com|115.159.15.187|HTTPS|None|None|None|False|None|None|None|None|None|None
+758|atwiki.jp|52.68.43.173|HTTP|None|None|None|False
+758|atwiki.jp|52.68.43.173|HTTPS|None|None|None|False|None|None|None|None|None|None
+759|cookpad.com|54.84.80.172|HTTP|None|None|None|True
+759|cookpad.com|54.84.80.172|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 EV SSL SGC CA - G2|A8D4E4772FC4912203BADA42D2649CDE
+760|io9.com|104.156.81.64|HTTP|None|None|None|True
+760|io9.com|104.156.81.64|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|BD39564909E7A0E115907956376C6EA8
+761|coursera.org|23.23.78.128|HTTP|None|None|None|True
+761|coursera.org|23.23.78.128|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|F10E382FFDB27DE720B1F53F21EB3952
+762|globososo.com|184.173.140.162|HTTP|None|None|None|True
+762|globososo.com|184.173.140.162|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Starfield Secure Certification Authority|8A8CA4CDAABD90B4156FBA1AE1584065
+763|primewire.ag|104.20.6.77|HTTP|None|None|None|True
+763|primewire.ag|104.20.6.77|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|4B831D875043A6469AAEBE203246B6C9
+764|westernjournalism.com|52.6.98.193|HTTP|None|None|None|False
+764|westernjournalism.com|52.6.98.193|HTTPS|None|None|None|False|None|None|None|None|None|None
+765|adp.com|170.146.234.214|HTTP|None|None|None|False
+765|adp.com|170.146.234.214|HTTPS|None|None|None|False|None|None|None|None|None|None
+766|tinyurl.com|199.184.145.191|HTTP|None|None|None|True
+766|tinyurl.com|199.184.145.191|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|628D42C1906827522A2AA2A964399EAE
+767|backpage.com|72.21.91.8|HTTP|None|None|None|True
+767|backpage.com|72.21.91.8|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|2F6F1F3B2F239CC6CF916DBB2F99C738
+768|yhd.com|180.153.252.43|HTTP|None|None|None|False
+768|yhd.com|180.153.252.43|HTTPS|None|None|None|False|None|None|None|None|None|None
+769|mint.com|23.23.161.106|HTTP|None|None|None|True
+769|mint.com|23.23.161.106|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certification Authority|BD46B7AA41F852AC50E9C9592C2821BC
+770|cnbc.com|207.223.6.20|HTTP|None|None|None|True
+770|cnbc.com|207.223.6.20|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Trusted Secure Certificate Authority|F6A218B5E2A5E916846AE1177D1B1F49
+771|gyazo.com|146.148.124.135|HTTP|None|None|None|True
+771|gyazo.com|146.148.124.135|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|RapidSSL SHA256 CA - G3|973B2C0538C99F1339EDC322C4F4434D
+772|comcast.com|69.252.80.75|HTTP|None|None|None|False
+772|comcast.com|69.252.80.75|HTTPS|None|None|None|False|None|None|None|None|None|None
+773|ibm.com|129.42.38.1|HTTP|None|None|None|True
+773|ibm.com|129.42.38.1|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA|1F48CC5E54664DC4078C9C585C3670DA
+774|nikkei.com|138.101.8.100|HTTP|None|None|None|False
+774|nikkei.com|138.101.8.100|HTTPS|None|None|None|False|None|None|None|None|None|None
+775|digg.com|184.72.48.228|HTTP|None|None|None|True
+775|digg.com|184.72.48.228|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G3|CECD4CFAB348E956C1C5D7498D217AA3
+776|foodnetwork.com|204.78.50.45|HTTP|None|None|None|True
+776|foodnetwork.com|204.78.50.45|HTTPS|None|None|None|True| 21 (unable to verify the first certificate)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Organization Validation Secure Server CA|1C06647CC2283E09D5D203A7D79052FC
+777|delta.com|69.58.186.114|HTTP|None|None|None|False
+777|delta.com|69.58.186.114|HTTPS|None|None|None|False|None|None|None|None|None|None
+778|sfgate.com|174.143.228.153|HTTP|None|None|None|True
+778|sfgate.com|174.143.228.153|HTTPS|None|None|None|True| 10 (certificate has expired)|sha1WithRSAEncryption|rsaEncryption|1024|236135-pweb2.hearstnp.com|248DB3C10D2DEE16D15E244AA9B9F67A
+779|nate.com|211.234.241.205|HTTP|None|None|None|False
+779|nate.com|211.234.241.205|HTTPS|None|None|None|False|None|None|None|None|None|None
+780|webex.com|64.68.121.205|HTTP|None|None|None|False
+780|webex.com|64.68.121.205|HTTPS|None|None|None|False|None|None|None|None|None|None
+781|nhk.or.jp|None|HTTP|None|None|None|None
+781|nhk.or.jp|None|HTTPS|None|None|None|None|None|None|None|None|None|None
+782|nhl.com|8.20.73.150|HTTP|None|None|None|False
+782|nhl.com|8.20.73.150|HTTPS|None|None|None|False|None|None|None|None|None|None
+783|xbox.com|134.170.29.82|HTTP|None|None|None|False
+783|xbox.com|134.170.29.82|HTTPS|None|None|None|False|None|None|None|None|None|None
+784|momoshop.com.tw|61.222.124.136|HTTP|None|None|None|True
+784|momoshop.com.tw|61.222.124.136|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Extended Validation Secure Server CA|BEC320DFBCFA2A925673B84441365E40
+785|leagueoflegends.com|54.243.40.53|HTTP|None|None|None|True
+785|leagueoflegends.com|54.243.40.53|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|DigiCert High Assurance CA-3|7FD81C3B770C1A7528170C9D1F1EA3DD
+786|novinky.cz|77.75.77.93|HTTP|None|None|None|False
+786|novinky.cz|77.75.77.93|HTTPS|None|None|None|False|None|None|None|None|None|None
+787|marketwatch.com|205.203.139.53|HTTP|None|None|None|True
+787|marketwatch.com|205.203.139.53|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|726823CD40CB309A3CB6CE0795C20F58
+788|ruten.com.tw|60.199.202.65|HTTP|None|None|None|False
+788|ruten.com.tw|60.199.202.65|HTTPS|None|None|None|False|None|None|None|None|None|None
+789|pcmag.com|54.243.113.32|HTTP|None|None|None|False
+789|pcmag.com|54.243.113.32|HTTPS|None|None|None|False|None|None|None|None|None|None
+790|bookmyshow.com|54.231.241.149|HTTP|None|None|None|False
+790|bookmyshow.com|54.231.241.149|HTTPS|None|None|None|False|None|None|None|None|None|None
+791|commentcamarche.net|91.209.35.126|HTTP|None|None|None|False
+791|commentcamarche.net|91.209.35.126|HTTPS|None|None|None|False|None|None|None|None|None|None
+792|trovi.com|216.146.46.10|HTTP|None|None|None|False
+792|trovi.com|216.146.46.10|HTTPS|None|None|None|False|None|None|None|None|None|None
+793|sciencedirect.com|198.81.200.2|HTTP|None|None|None|True
+793|sciencedirect.com|198.81.200.2|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Trustwave Organization Validation SHA256 CA, Level 1|59398054A64274028EAC9CBE0F4E2C74
+794|rightmove.co.uk|80.64.55.7|HTTP|None|None|None|True
+794|rightmove.co.uk|80.64.55.7|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Extended Validation Server CA|E6B9E0A5776AD66D02099C2A5DBF741B
+795|ytimg.com|None|HTTP|None|None|None|None
+795|ytimg.com|None|HTTPS|None|None|None|None|None|None|None|None|None|None
+796|sh.st|78.140.188.188|HTTP|None|None|None|True
+796|sh.st|78.140.188.188|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|RapidSSL CA|A5A2056AA69CBD2256FE234715FEAB15
+797|weblio.jp|210.189.86.12|HTTP|None|None|None|True
+797|weblio.jp|210.189.86.12|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - SHA256 - G2|629F6EEB8F280DC03F189CD1D1BA76EA
+798|wav.tv|136.0.116.212|HTTP|None|None|None|False
+798|wav.tv|136.0.116.212|HTTPS|None|None|None|False|None|None|None|None|None|None
+799|sbnation.com|216.146.46.11|HTTP|None|None|None|False
+799|sbnation.com|216.146.46.11|HTTPS|None|None|None|False|None|None|None|None|None|None
+800|mit.edu|23.206.30.170|HTTP|None|None|None|True
+800|mit.edu|23.206.30.170|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G4|83F9C0E7028F6BC300C572D97CFE3D47
+801|mihanblog.com|5.144.133.146|HTTP|None|None|None|False
+801|mihanblog.com|5.144.133.146|HTTPS|None|None|None|False|None|None|None|None|None|None
+802|mynet.com|212.101.122.34|HTTP|None|None|None|True
+802|mynet.com|212.101.122.34|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|RapidSSL CA|7BF903D2BA47DA050E486CBF0B4804F9
+803|letv.com|115.182.94.238|HTTP|None|None|None|False
+803|letv.com|115.182.94.238|HTTPS|None|None|None|False|None|None|None|None|None|None
+804|126.com|123.125.50.22|HTTP|None|None|None|False
+804|126.com|123.125.50.22|HTTPS|None|None|None|False|None|None|None|None|None|None
+805|www.gov.uk|185.31.17.144|HTTP|None|None|None|False
+805|www.gov.uk|185.31.17.144|HTTPS|None|None|None|False|None|None|None|None|None|None
+806|atlassian.net|165.254.226.65|HTTP|None|None|None|True
+806|atlassian.net|165.254.226.65|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|6F4FE83AAB00F9A2A835C8BAC4CCA04F
+807|aa.com|92.123.205.41|HTTP|None|None|None|True
+807|aa.com|92.123.205.41|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Entrust Certification Authority - L1E|DE692B6525D8FE196BD3294E948096EC
+808|tagged.com|67.221.174.30|HTTP|None|None|None|True
+808|tagged.com|67.221.174.30|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|5437B4C30D04BE3735A65C559CEBA970
+809|tomshardware.com|54.187.115.34|HTTP|None|None|None|False
+809|tomshardware.com|54.187.115.34|HTTPS|None|None|None|False|None|None|None|None|None|None
+810|olx.com.br|187.84.96.209|HTTP|None|None|None|True
+810|olx.com.br|187.84.96.209|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|thawte SSL CA - G2|683BB05C920282614DF3A0A6591D69BE
+811|filehippo.com|108.168.208.206|HTTP|None|None|None|True
+811|filehippo.com|108.168.208.206|HTTPS|None|None|None|True| 10 (certificate has expired)|sha1WithRSAEncryption|rsaEncryption|1024|None|1F57B6D3043096C644160019A0B26D84
+812|huaban.com|115.231.100.109|HTTP|None|None|None|True
+812|huaban.com|115.231.100.109|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA|495D474C73D59077522DC695525C493
+813|porn.com|64.210.140.1|HTTP|None|None|None|False
+813|porn.com|64.210.140.1|HTTPS|None|None|None|False|None|None|None|None|None|None
+814|exblog.jp|180.235.96.29|HTTP|None|None|None|True
+814|exblog.jp|180.235.96.29|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|4E76F14D5B7A92C7C9DA3EEF74DBF9C3
+815|w3.org|128.30.52.45|HTTP|None|None|None|False
+815|w3.org|128.30.52.45|HTTPS|None|None|None|False|None|None|None|None|None|None
+816|mynavi.jp|210.154.149.63|HTTP|None|None|None|True
+816|mynavi.jp|210.154.149.63|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 Secure Server CA - G4|CCDAC38003A3FBA67C4931ED25F778E2
+817|pch.com|216.248.207.17|HTTP|None|None|None|True
+817|pch.com|216.248.207.17|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|4096|DigiCert High Assurance CA-3|DFEC2AFCB7D40BF9CE9771293F3D25D0
+818|gofundme.com|162.242.141.157|HTTP|None|None|None|True
+818|gofundme.com|162.242.141.157|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|RapidSSL SHA256 CA - G3|D3F2C8143839ADEF55FA84D496D5D308
+819|usaa.com|23.38.69.102|HTTP|None|None|None|True
+819|usaa.com|23.38.69.102|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 EV SSL CA - G3|A8E18B4A95DF17941DD7CA6E7E330C16
+820|superuser.com|190.93.246.58|HTTP|None|None|None|True
+820|superuser.com|190.93.246.58|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|70957880BC64750CC8A0585DB8C7F4FA
+821|shaadi.com|104.84.152.9|HTTP|None|None|None|True
+821|shaadi.com|104.84.152.9|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Cybertrust Public SureServer SV CA|8D4C4812D5D48B9EE1E926A87A3DEEAA
+822|web.tv|31.186.24.11|HTTP|None|None|None|True
+822|web.tv|31.186.24.11|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|RapidSSL SHA256 CA - G3|EEC26946AEEE5A885DBB58EAD83DD9CD
+823|scoop.it|5.39.230.2|HTTP|None|None|None|True
+823|scoop.it|5.39.230.2|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|StartCom Class 2 Primary Intermediate Server CA|E991926C4384BD5E3F8A6EFBDA89B557
+824|tnaflix.com|77.247.179.176|HTTP|None|None|None|False
+824|tnaflix.com|77.247.179.176|HTTPS|None|None|None|False|None|None|None|None|None|None
+825|lolwot.com|104.130.120.148|HTTP|None|None|None|False
+825|lolwot.com|104.130.120.148|HTTPS|None|None|None|False|None|None|None|None|None|None
+826|histats.com|174.36.232.136|HTTP|None|None|None|True
+826|histats.com|174.36.232.136|HTTPS|None|None|None|True| 10 (certificate has expired)|sha1WithRSAEncryption|rsaEncryption|1024|localhost.localdomain|ED060738F3AB4BA601368D749E22AB04
+827|blogspot.de|216.58.209.105|HTTP|None|None|None|True
+827|blogspot.de|216.58.209.105|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|2C6A1BDD40D86D39AB68A89705D440F9
+828|myfreecams.com|207.229.73.117|HTTP|None|None|None|True
+828|myfreecams.com|207.229.73.117|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|COMODO High-Assurance Secure Server CA|2CB754E399278F6EF1C77BC9D707E0BF
+829|reverso.net|89.107.171.183|HTTP|None|None|None|False
+829|reverso.net|89.107.171.183|HTTPS|None|None|None|False|None|None|None|None|None|None
+830|pchome.com.tw|210.59.230.60|HTTP|None|None|None|False
+830|pchome.com.tw|210.59.230.60|HTTPS|None|None|None|False|None|None|None|None|None|None
+831|ncaa.com|157.166.239.92|HTTP|None|None|None|False
+831|ncaa.com|157.166.239.92|HTTPS|None|None|None|False|None|None|None|None|None|None
+832|k618.cn|123.103.56.42|HTTP|None|None|None|False
+832|k618.cn|123.103.56.42|HTTPS|None|None|None|False|None|None|None|None|None|None
+833|farsnews.com|188.132.154.127|HTTP|None|None|None|False
+833|farsnews.com|188.132.154.127|HTTPS|None|None|None|False|None|None|None|None|None|None
+834|indianexpress.com|192.0.79.33|HTTP|None|None|None|True
+834|indianexpress.com|192.0.79.33|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|8632151B9634F613137D17C7BA37E640
+835|instructure.com|216.146.46.10|HTTP|None|None|None|False
+835|instructure.com|216.146.46.10|HTTPS|None|None|None|False|None|None|None|None|None|None
+836|all2lnk.com|89.184.84.3|HTTP|None|None|None|True
+836|all2lnk.com|89.184.84.3|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|RapidSSL SHA256 CA - G3|524A3649698928B2D8C791FF1D4941CC
+837|dreamstime.com|50.23.192.82|HTTP|None|None|None|True
+837|dreamstime.com|50.23.192.82|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G3|F9835FC61B3E99FE3A85C223E7D03A80
+838|livestrong.com|23.227.10.35|HTTP|None|None|None|False
+838|livestrong.com|23.227.10.35|HTTPS|None|None|None|False|None|None|None|None|None|None
+839|sulekha.com|198.104.130.1|HTTP|None|None|None|True
+839|sulekha.com|198.104.130.1|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - SHA256 - G2|87411597362D4D936E6F61C009C4E1EB
+840|104.com.tw|None|HTTP|None|None|None|None
+840|104.com.tw|None|HTTPS|None|None|None|None|None|None|None|None|None|None
+841|free-tv-video-online.info|104.27.143.24|HTTP|None|None|None|True
+841|free-tv-video-online.info|104.27.143.24|HTTPS|None|None|None|True|None|None|None|None|None|None
+842|ixxx.com|64.188.56.186|HTTP|None|None|None|False
+842|ixxx.com|64.188.56.186|HTTPS|None|None|None|False|None|None|None|None|None|None
+843|india.com|54.169.44.182|HTTP|None|None|None|False
+843|india.com|54.169.44.182|HTTPS|None|None|None|False|None|None|None|None|None|None
+844|ria.ru|178.248.233.32|HTTP|None|None|None|False
+844|ria.ru|178.248.233.32|HTTPS|None|None|None|False|None|None|None|None|None|None
+845|match.com|208.83.243.15|HTTP|None|None|None|True
+845|match.com|208.83.243.15|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 EV SSL CA - G3|3D5193E7BA8E3F13F94EC6239B5827B
+846|google.rs|216.58.209.99|HTTP|None|None|None|True
+846|google.rs|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+847|usmagazine.com|54.84.127.140|HTTP|None|None|None|True
+847|usmagazine.com|54.84.127.140|HTTPS|None|None|None|True| 21 (unable to verify the first certificate)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G3|E153B8803BE68A81C4BC5474D8EA331D
+848|investopedia.com|64.70.58.115|HTTP|None|None|None|False
+848|investopedia.com|64.70.58.115|HTTPS|None|None|None|False|None|None|None|None|None|None
+849|mackolik.com|77.223.136.136|HTTP|None|None|None|False
+849|mackolik.com|77.223.136.136|HTTPS|None|None|None|False|None|None|None|None|None|None
+850|williamhill.com|141.138.130.12|HTTP|None|None|None|True
+850|williamhill.com|141.138.130.12|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|thawte EV SSL CA - G3|D4CE8FF92FB9AE0F8C85C2D8007A275
+851|gismeteo.ru|212.24.42.230|HTTP|None|None|None|True
+851|gismeteo.ru|212.24.42.230|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Organization Validation Secure Server CA|9907CC5CA80CD86577448CE3D292B385
+852|stanford.edu|171.67.215.200|HTTP|None|None|None|True
+852|stanford.edu|171.67.215.200|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|InCommon RSA Server CA|9ABE7CC970AB184F2A9B3AD46E1C1BAE
+853|gamespot.com|64.30.228.81|HTTP|None|None|None|True
+853|gamespot.com|64.30.228.81|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|CEFC4D11B0259187BEAE713BF96512E0
+854|dangdang.com|119.255.240.88|HTTP|None|None|None|False
+854|dangdang.com|119.255.240.88|HTTPS|None|None|None|False|None|None|None|None|None|None
+855|sky.com|90.216.128.5|HTTP|None|None|None|True
+855|sky.com|90.216.128.5|HTTPS|None|None|None|True|None|None|None|None|None|None
+856|informer.com|174.37.54.162|HTTP|None|None|None|True
+856|informer.com|174.37.54.162|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Domain Validation Secure Server CA|7418C62E5274599F3F2F07755A3905C
+857|gemius.pl|91.221.127.61|HTTP|None|None|None|False
+857|gemius.pl|91.221.127.61|HTTPS|None|None|None|False|None|None|None|None|None|None
+858|yandex.com.tr|87.250.255.11|HTTP|None|None|None|True
+858|yandex.com.tr|87.250.255.11|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|CLASS 2 KEYNECTIS CA|51EFDC035E50DA33DE4F77B94158B15C
+859|altervista.org|144.76.174.167|HTTP|None|None|None|True
+859|altervista.org|144.76.174.167|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|RapidSSL CA|EE63331B784AFFBE56F898E3154E5E6B
+860|thehindu.com|121.241.247.61|HTTP|None|None|None|False
+860|thehindu.com|121.241.247.61|HTTPS|None|None|None|False|None|None|None|None|None|None
+861|adme.ru|5.9.146.59|HTTP|None|None|None|True
+861|adme.ru|5.9.146.59|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|5F51090FCFB38F398EB22F3B23FEAFBD
+862|vk.me|87.240.131.118|HTTP|None|None|None|True
+862|vk.me|87.240.131.118|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|5A41D75592D43FB0FBB9F7BF0B379EAA
+863|zhaopin.com|59.151.5.23|HTTP|None|None|None|False
+863|zhaopin.com|59.151.5.23|HTTPS|None|None|None|False|None|None|None|None|None|None
+864|cisco.com|72.163.4.161|HTTP|None|None|None|True
+864|cisco.com|72.163.4.161|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|EBB47162561BDE2D073D423DCC8557B
+865|lequipe.fr|160.92.108.178|HTTP|None|None|None|True
+865|lequipe.fr|160.92.108.178|HTTPS|None|None|None|True|None|None|None|None|None|None
+866|europa.eu|147.67.119.20|HTTP|None|None|None|True
+866|europa.eu|147.67.119.20|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - SHA256 - G2|2669B4712583BBDB6F34DF971C21788A
+867|blogspot.com.tr|216.58.209.105|HTTP|None|None|None|True
+867|blogspot.com.tr|216.58.209.105|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|2C6A1BDD40D86D39AB68A89705D440F9
+868|yodobashi.com|211.120.8.208|HTTP|None|None|None|True
+868|yodobashi.com|211.120.8.208|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 EV SSL SGC CA - G2|734A65A83AAA32E7FE7548068B7D451C
+869|pantip.com|203.151.13.166|HTTP|None|None|None|True
+869|pantip.com|203.151.13.166|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Domain Validation Secure Server CA|B2ECEC503A84DD95E57170A5801595A6
+870|mayoclinic.org|129.176.217.220|HTTP|None|None|None|True
+870|mayoclinic.org|129.176.217.220|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Organization Validation Secure Server CA|5E5B0B30A1BF5940B97BBFCC2DB3AD54
+871|bidvertiser.com|216.200.199.56|HTTP|None|None|None|False
+871|bidvertiser.com|216.200.199.56|HTTPS|None|None|None|False|None|None|None|None|None|None
+872|offpageads.com|184.168.221.61|HTTP|None|None|None|True
+872|offpageads.com|184.168.221.61|HTTPS|None|None|None|True|None|None|None|None|None|None
+873|ampclicks.com|108.60.149.204|HTTP|None|None|None|True
+873|ampclicks.com|108.60.149.204|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|AE4A7CF66FE541B0AA010316C06E3794
+874|coupons.com|204.76.212.147|HTTP|None|None|None|True
+874|coupons.com|204.76.212.147|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|69B72E9ACE931D796AB5F249CE17B6FF
+875|movie4k.to|104.18.55.64|HTTP|None|None|None|True
+875|movie4k.to|104.18.55.64|HTTPS|None|None|None|True|None|None|None|None|None|None
+876|sfr.fr|80.125.163.172|HTTP|None|None|None|False
+876|sfr.fr|80.125.163.172|HTTPS|None|None|None|False|None|None|None|None|None|None
+877|hilton.com|167.187.200.23|HTTP|None|None|None|True
+877|hilton.com|167.187.200.23|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|A348BF003A27FF0DEB05510A2B68C18
+878|safehomepage.com|50.22.218.160|HTTP|None|None|None|False
+878|safehomepage.com|50.22.218.160|HTTPS|None|None|None|False|None|None|None|None|None|None
+879|usbank.com|170.135.184.252|HTTP|None|None|None|True
+879|usbank.com|170.135.184.252|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Entrust Certification Authority - L1M|2CBEB23249BA193BFD92617F977B24E8
+880|cbsnews.com|170.20.0.19|HTTP|None|None|None|False
+880|cbsnews.com|170.20.0.19|HTTPS|None|None|None|False|None|None|None|None|None|None
+881|acfun.tv|58.96.178.159|HTTP|None|None|None|False
+881|acfun.tv|58.96.178.159|HTTPS|None|None|None|False|None|None|None|None|None|None
+882|themidnightmatulas.com|188.165.55.191|HTTP|None|None|None|True
+882|themidnightmatulas.com|188.165.55.191|HTTPS|None|None|None|True| 21 (unable to verify the first certificate)|sha256WithRSAEncryption|rsaEncryption|2048|thawte SSL CA - G2|A5451A6F12EA0E363AE1F34497F07B43
+883|monster.com|208.71.195.147|HTTP|None|None|None|False
+883|monster.com|208.71.195.147|HTTPS|None|None|None|False|None|None|None|None|None|None
+884|friv.com|192.96.200.8|HTTP|None|None|None|False
+884|friv.com|192.96.200.8|HTTPS|None|None|None|False|None|None|None|None|None|None
+885|gamepedia.com|190.93.244.101|HTTP|None|None|None|True
+885|gamepedia.com|190.93.244.101|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|4D0880B452EF9F9B20E577866B01B7F9
+886|ccb.com|124.127.108.106|HTTP|None|None|None|False
+886|ccb.com|124.127.108.106|HTTPS|None|None|None|False|None|None|None|None|None|None
+887|tribunnews.com|52.74.130.5|HTTP|None|None|None|False
+887|tribunnews.com|52.74.130.5|HTTPS|None|None|None|False|None|None|None|None|None|None
+888|filmon-ads.com|23.229.213.8|HTTP|None|None|None|True
+888|filmon-ads.com|23.229.213.8|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Starfield Secure Certification Authority|60D9B63DF86BA83CF885B8C4BF834021
+889|pagesjaunes.fr|193.252.242.125|HTTP|None|None|None|True
+889|pagesjaunes.fr|193.252.242.125|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GlobalSign Extended Validation CA - SHA256 - G2|8B455F941ECB13A010E8A92BE74AA65A
+890|xing.com|109.233.157.1|HTTP|None|None|None|True
+890|xing.com|109.233.157.1|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|RapidSSL SHA256 CA - G3|1A52B30D521106928F0D158ED6D70AB9
+891|cbslocal.com|192.0.79.33|HTTP|None|None|None|True
+891|cbslocal.com|192.0.79.33|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|8632151B9634F613137D17C7BA37E640
+892|drtuber.com|78.140.187.214|HTTP|None|None|None|False
+892|drtuber.com|78.140.187.214|HTTPS|None|None|None|False|None|None|None|None|None|None
+893|padsdel.com|None|HTTP|None|None|None|None
+893|padsdel.com|None|HTTPS|None|None|None|None|None|None|None|None|None|None
+894|t-mobile.com|206.29.177.10|HTTP|None|None|None|False
+894|t-mobile.com|206.29.177.10|HTTPS|None|None|None|False|None|None|None|None|None|None
+895|mercadolibre.com.mx|216.33.197.84|HTTP|None|None|None|True
+895|mercadolibre.com.mx|216.33.197.84|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 Secure Server CA - G4|5CBFD8FED8F639F83A22C5DDB56B219
+896|forever21.com|23.206.20.64|HTTP|None|None|None|True
+896|forever21.com|23.206.20.64|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA|7B484CBB8EFA6B4B05C9204B69194AE5
+897|tutorialspoint.com|66.135.33.172|HTTP|None|None|None|True
+897|tutorialspoint.com|66.135.33.172|HTTPS|None|None|None|True| 21 (unable to verify the first certificate)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|6BB9F099D765C4CC8F22741B713B6F23
+898|gumtree.com|91.195.49.243|HTTP|None|None|None|True
+898|gumtree.com|91.195.49.243|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 Secure Server CA - G4|69C70497B4E2EA5D08FBC497DAD3BF10
+899|cdiscount.com|217.109.56.160|HTTP|None|None|None|True
+899|cdiscount.com|217.109.56.160|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|RapidSSL CA|5DA557539FB28EDF744947E42AFA1B19
+900|google.hr|216.58.209.99|HTTP|None|None|None|True
+900|google.hr|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+901|blogspot.mx|216.58.209.105|HTTP|None|None|None|True
+901|blogspot.mx|216.58.209.105|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|2C6A1BDD40D86D39AB68A89705D440F9
+902|geocities.jp|None|HTTP|None|None|None|None
+902|geocities.jp|None|HTTPS|None|None|None|None|None|None|None|None|None|None
+903|techradar.com|89.167.143.47|HTTP|None|None|None|True
+903|techradar.com|89.167.143.47|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|871288C438FBB2F38899A93F6463FF27
+904|123rf.com|103.14.245.12|HTTP|None|None|None|True
+904|123rf.com|103.14.245.12|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|RapidSSL SHA256 CA - G3|E1B03518C702959C259019637A0F53AC
+905|abplive.in|96.45.82.142|HTTP|None|None|None|False
+905|abplive.in|96.45.82.142|HTTPS|None|None|None|False|None|None|None|None|None|None
+906|fitbit.com|108.168.254.169|HTTP|None|None|None|True
+906|fitbit.com|108.168.254.169|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Domain Validation Secure Server CA|201B22D454A699906083DF88B3819DF6
+907|dafont.com|87.98.168.164|HTTP|None|None|None|True
+907|dafont.com|87.98.168.164|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Gandi Standard SSL CA|5D494412601133719478C10C0476A2CB
+908|roblox.com|69.172.201.47|HTTP|None|None|None|True
+908|roblox.com|69.172.201.47|HTTPS|None|None|None|True| 21 (unable to verify the first certificate)|sha256WithRSAEncryption|rsaEncryption|2048|RapidSSL SHA256 CA - G3|10F363D041DF96A8F76FD5D408067DAF
+909|motherless.com|198.72.6.51|HTTP|None|None|None|True
+909|motherless.com|198.72.6.51|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|RapidSSL CA|AA5EDA661FF0141F48AFBF7BA5108E76
+910|almasryalyoum.com|190.93.241.102|HTTP|None|None|None|True
+910|almasryalyoum.com|190.93.241.102|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|DB038CE145BD850737DCA5830A86D2FC
+911|indiegogo.com|50.56.16.232|HTTP|None|None|None|True
+911|indiegogo.com|50.56.16.232|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|7E722EC790B894E70A02AE2F9E13C0C8
+912|sahadan.com|77.223.136.136|HTTP|None|None|None|False
+912|sahadan.com|77.223.136.136|HTTPS|None|None|None|False|None|None|None|None|None|None
+913|mercadolibre.com.ve|216.33.197.90|HTTP|None|None|None|True
+913|mercadolibre.com.ve|216.33.197.90|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 Secure Server CA - G4|750415A4CF1FB0BD8AC98C5FE164B847
+914|thedailybeast.com|23.21.198.53|HTTP|None|None|None|True
+914|thedailybeast.com|23.21.198.53|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G2|82828DF44AC7F262355660E389AA529E
+915|tabnak.ir|94.182.146.186|HTTP|None|None|None|True
+915|tabnak.ir|94.182.146.186|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|WoSign CA Free SSL Certificate G2|CBB49D06B7D1BAE919227B8344C9E12C
+916|e97527f0.se|80.252.188.229|HTTP|None|None|None|False
+916|e97527f0.se|80.252.188.229|HTTPS|None|None|None|False|None|None|None|None|None|None
+917|inc.com|8.26.65.18|HTTP|None|None|None|True
+917|inc.com|8.26.65.18|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Organization Validation Secure Server CA|A622758F9C9981E3B1328D0D72C38E5
+918|ew.com|216.146.46.11|HTTP|None|None|None|False
+918|ew.com|216.146.46.11|HTTPS|None|None|None|False|None|None|None|None|None|None
+919|google.bg|216.58.209.99|HTTP|None|None|None|True
+919|google.bg|216.58.209.99|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|3572944CD5281EE78EEB9D5147C927AA
+920|ad4game.com|108.168.160.69|HTTP|None|None|None|True
+920|ad4game.com|108.168.160.69|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|42A51600F886AC477636EF1F5871BD5A
+921|asahi.com|None|HTTP|None|None|None|None
+921|asahi.com|None|HTTPS|None|None|None|None|None|None|None|None|None|None
+922|zara.com|23.38.66.41|HTTP|None|None|None|True
+922|zara.com|23.38.66.41|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA|AC50C28E4CE8C3A5002F37993AD52662
+923|chexun.com|124.248.38.166|HTTP|None|None|None|False
+923|chexun.com|124.248.38.166|HTTPS|None|None|None|False|None|None|None|None|None|None
+924|rutor.org|186.2.161.82|HTTP|None|None|None|True
+924|rutor.org|186.2.161.82|HTTPS|None|None|None|True| 18 (self signed certificate)|sha1WithRSAEncryption|rsaEncryption|2048|ddos-guard.net|7C3DC5481FB8358209C0875D3ECE5263
+925|12306.cn|None|HTTP|None|None|None|None
+925|12306.cn|None|HTTPS|None|None|None|None|None|None|None|None|None|None
+926|sharepoint.com|65.55.39.10|HTTP|None|None|None|False
+926|sharepoint.com|65.55.39.10|HTTPS|None|None|None|False|None|None|None|None|None|None
+927|howtogeek.com|23.92.23.113|HTTP|None|None|None|True
+927|howtogeek.com|23.92.23.113|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|34FF4CE319C4FD4525BF5A5881B98EC7
+928|deadspin.com|23.235.33.64|HTTP|None|None|None|True
+928|deadspin.com|23.235.33.64|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|BD39564909E7A0E115907956376C6EA8
+929|suning.com|110.188.2.24|HTTP|None|None|None|True
+929|suning.com|110.188.2.24|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|WoSign SGC Server Authority|5BAC0B174C6B841D5322E4AE81480074
+930|sapo.pt|213.13.146.138|HTTP|None|None|None|False
+930|sapo.pt|213.13.146.138|HTTPS|None|None|None|False|None|None|None|None|None|None
+931|himado.in|50.112.152.18|HTTP|None|None|None|False
+931|himado.in|50.112.152.18|HTTPS|None|None|None|False|None|None|None|None|None|None
+932|oyunskor.com|91.191.172.242|HTTP|None|None|None|False
+932|oyunskor.com|91.191.172.242|HTTPS|None|None|None|False|None|None|None|None|None|None
+933|redfin.com|216.211.130.168|HTTP|None|None|None|True
+933|redfin.com|216.211.130.168|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|PositiveSSL CA 2|9C8B83E6386F0A38270A848041AC8BC7
+934|scoopwhoop.com|54.169.47.131|HTTP|None|None|None|False
+934|scoopwhoop.com|54.169.47.131|HTTPS|None|None|None|False|None|None|None|None|None|None
+935|4399.com|115.182.52.231|HTTP|None|None|None|False
+935|4399.com|115.182.52.231|HTTPS|None|None|None|False|None|None|None|None|None|None
+936|cbc.ca|80.150.2.137|HTTP|None|None|None|True
+936|cbc.ca|80.150.2.137|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Cybertrust Public SureServer SV CA|8D4C4812D5D48B9EE1E926A87A3DEEAA
+937|lapatilla.com|141.101.113.240|HTTP|None|None|None|True
+937|lapatilla.com|141.101.113.240|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust DV SSL CA - G4|62F016AA3A34A32F208C6CCC0EB2EBF2
+938|tsite.jp|210.170.110.129|HTTP|None|None|None|True
+938|tsite.jp|210.170.110.129|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Cybertrust Japan EV CA G2|AA1D795D8F4D1072A38B2DB9844AFF40
+939|popsugar.com|54.243.180.185|HTTP|None|None|None|True
+939|popsugar.com|54.243.180.185|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|C6C8373F16B55DCBD5E06B2FA84FFF15
+940|warriorforum.com|54.210.75.34|HTTP|None|None|None|True
+940|warriorforum.com|54.210.75.34|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|4096|RapidSSL CA|45F55C1E56CC3E01990634DD699F71CD
+941|nypost.com|192.0.79.32|HTTP|None|None|None|True
+941|nypost.com|192.0.79.32|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|8632151B9634F613137D17C7BA37E640
+942|elmogaz.com|104.28.19.120|HTTP|None|None|None|True
+942|elmogaz.com|104.28.19.120|HTTPS|None|None|None|True|None|None|None|None|None|None
+943|adultfriendfinder.com|208.88.180.72|HTTP|None|None|None|True
+943|adultfriendfinder.com|208.88.180.72|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certification Authority|1930079A8097E5F4CBCED47824D3688D
+944|hubpages.com|52.1.22.52|HTTP|None|None|None|True
+944|hubpages.com|52.1.22.52|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Network Solutions Certificate Authority|A4D3BF6CD527BFA2F10B69130AE5111F
+945|istockphoto.com|74.113.154.33|HTTP|None|None|None|True
+945|istockphoto.com|74.113.154.33|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G3|C5394835C77DC3A26EFD50308FDFDAE9
+946|immobilienscout24.de|62.116.130.8|HTTP|None|None|None|False
+946|immobilienscout24.de|62.116.130.8|HTTPS|None|None|None|False|None|None|None|None|None|None
+947|emol.com|200.12.20.60|HTTP|None|None|None|False
+947|emol.com|200.12.20.60|HTTPS|None|None|None|False|None|None|None|None|None|None
+948|researchgate.net|209.15.209.70|HTTP|None|None|None|True
+948|researchgate.net|209.15.209.70|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|4096|RapidSSL CA|CAB4F020A5DFC0A87617D0CF61EAC852
+949|linkwithin.com|174.36.244.132|HTTP|None|None|None|False
+949|linkwithin.com|174.36.244.132|HTTPS|None|None|None|False|None|None|None|None|None|None
+950|189.cn|118.85.207.65|HTTP|None|None|None|False
+950|189.cn|118.85.207.65|HTTPS|None|None|None|False|None|None|None|None|None|None
+951|intel.com|198.175.116.54|HTTP|None|None|None|False
+951|intel.com|198.175.116.54|HTTPS|None|None|None|False|None|None|None|None|None|None
+952|2345.com|42.62.30.180|HTTP|None|None|None|False
+952|2345.com|42.62.30.180|HTTPS|None|None|None|False|None|None|None|None|None|None
+953|indiamart.com|192.170.156.92|HTTP|None|None|None|False
+953|indiamart.com|192.170.156.92|HTTPS|None|None|None|False|None|None|None|None|None|None
+954|as.com|91.216.63.241|HTTP|None|None|None|False
+954|as.com|91.216.63.241|HTTPS|None|None|None|False|None|None|None|None|None|None
+955|foursquare.com|23.235.37.154|HTTP|None|None|None|True
+955|foursquare.com|23.235.37.154|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Extended Validation Server CA|7A50EAF758FB4A7FAAD4CD89370F22F9
+956|yellowpages.com|208.93.105.173|HTTP|None|None|None|True
+956|yellowpages.com|208.93.105.173|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 High Assurance Server CA|3EE7AB2C90EF480EB2E60EAEEAA7C33F
+957|elmawke3.com|162.159.244.111|HTTP|None|None|None|True
+957|elmawke3.com|162.159.244.111|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|2652323DA9EA732F5F7CC5FCC98F292E
+958|21cn.com|59.36.102.139|HTTP|None|None|None|False
+958|21cn.com|59.36.102.139|HTTPS|None|None|None|False|None|None|None|None|None|None
+959|click4stat.com|None|HTTP|None|None|None|None
+959|click4stat.com|None|HTTPS|None|None|None|None|None|None|None|None|None|None
+960|harvard.edu|54.236.202.112|HTTP|None|None|None|False
+960|harvard.edu|54.236.202.112|HTTPS|None|None|None|False|None|None|None|None|None|None
+961|smh.com.au|54.252.185.8|HTTP|None|None|None|False
+961|smh.com.au|54.252.185.8|HTTPS|None|None|None|False|None|None|None|None|None|None
+962|icc-cricket.com|75.101.129.228|HTTP|None|None|None|False
+962|icc-cricket.com|75.101.129.228|HTTPS|None|None|None|False|None|None|None|None|None|None
+963|cpasbien.pw|104.28.20.94|HTTP|None|None|None|True
+963|cpasbien.pw|104.28.20.94|HTTPS|None|None|None|True|None|None|None|None|None|None
+964|hh.ru|94.124.200.86|HTTP|None|None|None|True
+964|hh.ru|94.124.200.86|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G3|7D2A33ACBFED292A92D902BE5F3191FB
+965|am15.net|95.213.148.51|HTTP|None|None|None|True
+965|am15.net|95.213.148.51|HTTPS|None|None|None|True| 20 (unable to get local issuer certificate)|sha256WithRSAEncryption|rsaEncryption|2048|COMODO RSA Domain Validation Secure Server CA|C3E2E449959D91DED6D4872A2692758D
+966|androidcentral.com|199.83.129.30|HTTP|None|None|None|True
+966|androidcentral.com|199.83.129.30|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - SHA256 - G2|AF2870E4959F1CDB3844C6E668E5B0B3
+967|ringring.vn|123.30.233.160|HTTP|None|None|None|False
+967|ringring.vn|123.30.233.160|HTTPS|None|None|None|False|None|None|None|None|None|None
+968|distractify.com|54.243.223.181|HTTP|None|None|None|True
+968|distractify.com|54.243.223.181|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GeoTrust SSL CA - G2|80EAFDBF0F64593F04E61373D34BAC51
+969|rakuten.ne.jp|None|HTTP|None|None|None|None
+969|rakuten.ne.jp|None|HTTPS|None|None|None|None|None|None|None|None|None|None
+970|quizlet.com|104.16.13.24|HTTP|None|None|None|True
+970|quizlet.com|104.16.13.24|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|27E8FFC2D65E9B601FDD99523F529530
+971|apache.org|104.130.219.184|HTTP|None|None|None|True
+971|apache.org|104.130.219.184|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|DigiCert SHA2 Secure Server CA|5A6E98BD32D787B4B359E679E0E0A72F
+972|lanacion.com.ar|190.220.56.48|HTTP|None|None|None|False
+972|lanacion.com.ar|190.220.56.48|HTTPS|None|None|None|False|None|None|None|None|None|None
+973|allocine.fr|62.39.143.23|HTTP|None|None|None|False
+973|allocine.fr|62.39.143.23|HTTPS|None|None|None|False|None|None|None|None|None|None
+974|pixabay.com|176.9.158.26|HTTP|None|None|None|True
+974|pixabay.com|176.9.158.26|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|4096|StartCom Class 1 Primary Intermediate Server CA|2FC829503D08EE19DC50F62C0C6D80E2
+975|yts.to|185.90.61.50|HTTP|None|None|None|True
+975|yts.to|185.90.61.50|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|4096|COMODO RSA Domain Validation Secure Server CA|4FE839429AA7C2C11CD8A20D432CFD6C
+976|itmedia.co.jp|None|HTTP|None|None|None|None
+976|itmedia.co.jp|None|HTTPS|None|None|None|None|None|None|None|None|None|None
+977|gigacircle.com|104.16.29.35|HTTP|None|None|None|True
+977|gigacircle.com|104.16.29.35|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|413EDB6C4208766129903064AB532E3B
+978|imobile.com.cn|113.31.31.138|HTTP|None|None|None|False
+978|imobile.com.cn|113.31.31.138|HTTPS|None|None|None|False|None|None|None|None|None|None
+979|olx.ua|5.134.209.115|HTTP|None|None|None|True
+979|olx.ua|5.134.209.115|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|thawte EV SSL CA - G2|B31DA06DABF4A7315F97D86587CA826E
+980|ebay.ca|66.135.211.132|HTTP|None|None|None|True
+980|ebay.ca|66.135.211.132|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Symantec Class 3 Secure Server CA - G4|D1721CD6CBF883117F68C37984A79BD7
+981|typepad.com|190.93.245.9|HTTP|None|None|None|True
+981|typepad.com|190.93.245.9|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - G2|700DAD22F5BE0F4C213FCF22AC0368BE
+982|eenadu.net|209.133.7.14|HTTP|None|None|None|False
+982|eenadu.net|209.133.7.14|HTTPS|None|None|None|False|None|None|None|None|None|None
+983|yam.com|113.196.240.66|HTTP|None|None|None|True
+983|yam.com|113.196.240.66|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|COMODO High-Assurance Secure Server CA|C20C0E56AE83E60E7FD1911BE4436310
+984|getbootstrap.com|192.30.252.153|HTTP|None|None|None|False
+984|getbootstrap.com|192.30.252.153|HTTPS|None|None|None|False|None|None|None|None|None|None
+985|blogspot.ru|216.58.209.105|HTTP|None|None|None|True
+985|blogspot.ru|216.58.209.105|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|Google Internet Authority G2|2C6A1BDD40D86D39AB68A89705D440F9
+986|food.com|204.78.50.82|HTTP|None|None|None|True
+986|food.com|204.78.50.82|HTTPS|None|None|None|True| 18 (self signed certificate)|sha1WithRSAEncryption|rsaEncryption|2048|myscripps.scrippsnetworks.com|1D2074F05D6A3D7CFF6605B9256A3695
+987|clipconverter.cc|5.135.203.40|HTTP|None|None|None|False
+987|clipconverter.cc|5.135.203.40|HTTPS|None|None|None|False|None|None|None|None|None|None
+988|reduxmediia.com|78.140.181.184|HTTP|None|None|None|False
+988|reduxmediia.com|78.140.181.184|HTTPS|None|None|None|False|None|None|None|None|None|None
+989|masrawy.com|196.205.23.93|HTTP|None|None|None|False
+989|masrawy.com|196.205.23.93|HTTPS|None|None|None|False|None|None|None|None|None|None
+990|cbs.com|64.30.228.50|HTTP|None|None|None|True
+990|cbs.com|64.30.228.50|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|4096|DigiCert High Assurance CA-3|7A51608F00E8989090BEAB9AEA851C1E
+991|tripadvisor.co.uk|199.102.233.33|HTTP|None|None|None|True
+991|tripadvisor.co.uk|199.102.233.33|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|thawte SSL CA - G2|F66B26FDA882D72AB477ACCC00293DBB
+992|prothom-alo.com|199.83.135.155|HTTP|None|None|None|True
+992|prothom-alo.com|199.83.135.155|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|GlobalSign Organization Validation CA - SHA256 - G2|19CEB40FF9F37878DEB328F9EA7E1D7B
+993|qianlong.com|221.238.20.198|HTTP|None|None|None|False
+993|qianlong.com|221.238.20.198|HTTPS|None|None|None|False|None|None|None|None|None|None
+994|whitepages.com|64.124.61.10|HTTP|None|None|None|True
+994|whitepages.com|64.124.61.10|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|Go Daddy Secure Certificate Authority - G2|9CC24E89A969627F84799909EC1FAD95
+995|focus.cn|123.126.104.8|HTTP|None|None|None|True
+995|focus.cn|123.126.104.8|HTTPS|None|None|None|True| 0 (ok)|sha1WithRSAEncryption|rsaEncryption|2048|VeriSign Class 3 Secure Server CA - G3|A084FB3855E9266A76E9C1F89A7691FB
+996|indianrail.gov.in|203.176.113.78|HTTP|None|None|None|False
+996|indianrail.gov.in|203.176.113.78|HTTPS|None|None|None|False|None|None|None|None|None|None
+997|rakuten.com|209.67.181.70|HTTP|None|None|None|False
+997|rakuten.com|209.67.181.70|HTTPS|None|None|None|False|None|None|None|None|None|None
+998|wiley.com|208.215.179.146|HTTP|None|None|None|False
+998|wiley.com|208.215.179.146|HTTPS|None|None|None|False|None|None|None|None|None|None
+999|gigazine.net|219.75.253.44|HTTP|None|None|None|True
+999|gigazine.net|219.75.253.44|HTTPS|None|None|None|True| 21 (unable to verify the first certificate)|sha256WithRSAEncryption|rsaEncryption|2048|wbgsv01|DF4C06CA488144D0B29EFED8CA44A8BC
+1000|who.is|174.36.202.235|HTTP|None|None|None|True
+1000|who.is|174.36.202.235|HTTPS|None|None|None|True| 0 (ok)|sha256WithRSAEncryption|rsaEncryption|2048|RapidSSL SHA256 CA - G3|FA256B3A51E82F1032254F4F4C77254A

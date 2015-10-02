@@ -1,0 +1,2907 @@
+
+Starting Nmap 6.47 ( http://nmap.org ) at 2015-07-22 16:11 CEST
+Nmap scan report for charon.cs.binghamton.edu (128.226.103.67)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for pl1.bit.uoit.ca (205.211.183.2)
+Host is up (0.12s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for node1.planetlab.etl.luc.edu (147.126.66.17)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for deimos.cecalc.ula.ve (150.189.2.102)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlabnode-2.docomolabs-usa.com (216.98.102.30)
+Host is up.
+rDNS record for 216.98.102.30: 30.102.98.216.sta.iij-america.net
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.iitr.ernet.in (103.37.200.181)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.cs.duke.edu (152.3.138.2)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab02.cs.washington.edu (128.208.4.198)
+Host is up (0.19s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab0.ias.csusb.edu (139.182.137.140)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab5.cs.duke.edu (152.3.138.5)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-04.naist.jp (163.221.11.74)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for pl1.cewit.stonybrook.edu (130.245.191.59)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.iii.u-tokyo.ac.jp (133.11.240.57)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.ece.ucdavis.edu (169.237.79.210)
+Host is up.
+rDNS record for 169.237.79.210: planetlab1
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for pluto.cs.binghamton.edu (128.226.103.66)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for pl2.cewit.stonybrook.edu (130.245.191.60)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.cs.wayne.edu (141.217.48.50)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.olsztyn.rd.tp.pl (195.116.60.34)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.uc.edu (129.137.253.252)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab3.csail.mit.edu (128.31.1.13)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-03.naist.jp (163.221.11.73)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-1.vuse.vanderbilt.edu (129.59.88.179)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-2.vuse.vanderbilt.edu (129.59.88.180)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-3.ics.uci.edu (128.195.54.212)
+Host is up (0.18s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for lefthand.eecs.harvard.edu (140.247.60.123)
+Host is up (0.11s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab1.n.info.eng.osaka-cu.ac.jp (160.193.163.101)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab3.n.info.eng.osaka-cu.ac.jp (160.193.163.105)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for pn1-planetlab.huawei.com (58.60.106.66)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for pn2-planetlab.huawei.com (58.60.106.70)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for node0.planetlab.etl.luc.edu (147.126.66.15)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.keldysh.ru (217.9.80.144)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.keldysh.ru (217.9.80.145)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.simula.no (128.39.36.26)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for itchy.cs.uga.edu (128.192.101.217)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.cse.msu.edu (35.9.27.26)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlabnode-1.docomolabs-usa.com (216.98.102.29)
+Host is up.
+rDNS record for 216.98.102.29: 29.102.98.216.sta.iij-america.net
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.iitr.ernet.in (103.37.200.182)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for fobos.cecalc.ula.ve (150.189.2.101)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab3.cesnet.cz (195.113.161.84)
+Host is up (0.041s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.eecs.ucf.edu (132.170.3.33)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.cs.unc.edu (204.85.191.11)
+Host is up (0.13s latency).
+rDNS record for 204.85.191.11: planetlab2.telenet.unc.edu
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planet2.ku.edu.tr (88.255.99.251)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-1.calpoly-netlab.net (208.94.63.193)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.cs.ucla.edu (131.179.150.72)
+Host is up (0.19s latency).
+rDNS record for 131.179.150.72: Planetlab2.CS.UCLA.EDU
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab4.canterbury.ac.nz (132.181.10.57)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.s3.kth.se (130.237.50.125)
+Host is up (0.013s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for pl2.pku.edu.cn (162.105.205.22)
+Host is up (0.38s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab4.bupt.edu.cn (211.68.70.42)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.rutgers.edu (165.230.49.115)
+Host is up (0.12s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-js1.cert.org.cn (218.94.106.112)
+Host is up (0.46s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab4.mini.pw.edu.pl (194.29.178.14)
+Host is up (0.054s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planet1.jaist.ac.jp (150.65.32.68)
+Host is up (0.34s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab15.millennium.berkeley.edu (169.229.50.17)
+Host is up.
+rDNS record for 169.229.50.17: planetlab15.Millennium.Berkeley.EDU
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.unr.edu (134.197.113.4)
+Host is up (0.19s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab3.rutgers.edu (165.230.49.118)
+Host is up (0.11s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for pl2.cs.unm.edu (198.83.85.45)
+Host is up (0.19s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.emich.edu (198.108.101.60)
+Host is up (0.13s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.tsuniv.edu (206.23.240.29)
+Host is up (0.14s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for ple1.hpca.ual.es (150.214.150.185)
+Host is up (0.092s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for lim-planetlab-1.univ-reunion.fr (194.199.68.165)
+Host is up (0.27s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.citadel.edu (155.225.2.72)
+Host is up (0.14s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab4.warsaw.rd.tp.pl (195.116.53.14)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for jupiter.cs.brown.edu (192.91.235.232)
+Host is up (2.3s latency).
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planet-lab-node1.netgroup.uniroma2.it (160.80.221.37)
+Host is up (0.063s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.utt.fr (194.254.215.11)
+Host is up (0.053s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.xeno.cl.cam.ac.uk (128.232.103.201)
+Host is up (0.049s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab3.xeno.cl.cam.ac.uk (128.232.103.203)
+Host is up (0.051s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.cs.stevens-tech.edu (155.246.12.164)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for lim-planetlab-2.univ-reunion.fr (194.199.68.166)
+Host is up (0.27s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.xeno.cl.cam.ac.uk (128.232.103.202)
+Host is up (0.059s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for pl2.bell-labs.fr (159.217.144.112)
+Host is up (0.049s latency).
+rDNS record for 159.217.144.112: unk.alcatel.fr
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.di.unito.it (130.192.157.132)
+Host is up (0.059s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for host1.planetlab.informatik.tu-darmstadt.de (130.83.166.243)
+Host is up (0.030s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.ics.forth.gr (139.91.90.239)
+Host is up (0.090s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.fct.ualg.pt (193.136.227.164)
+Host is up (0.090s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for righthand.eecs.harvard.edu (140.247.60.126)
+Host is up (0.12s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for onelab2.info.ucl.ac.be (130.104.72.201)
+Host is up (0.053s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.fit.vutbr.cz (147.229.8.26)
+Host is up (0.059s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for jupiter.planetlab.carleton.ca (134.117.226.181)
+Host is up (0.13s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.csie.nuk.edu.tw (140.127.208.238)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-02.vt.nodes.planet-lab.org (198.82.160.239)
+Host is up (0.14s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.comp.nus.edu.sg (137.132.80.106)
+Host is up (0.37s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-4.cs.ucy.ac.cy (194.42.17.124)
+Host is up (0.11s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.hust.edu.cn (115.156.163.246)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.u-strasbg.fr (130.79.48.55)
+Host is up (0.085s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.hust.edu.cn (115.156.163.244)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.ci.pwr.wroc.pl (156.17.10.52)
+Host is up (0.064s latency).
+rDNS record for 156.17.10.52: planetlab2.ii.pwr.wroc.pl
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.ifi.uio.no (193.157.115.250)
+Host is up (0.038s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.urv.cat (193.144.21.130)
+Host is up (0.11s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-1.research.netlab.hut.fi (195.148.124.73)
+Host is up (0.041s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-2.tagus.ist.utl.pt (193.136.166.68)
+Host is up (0.10s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for prata.mimuw.edu.pl (193.0.109.25)
+Host is up (0.076s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for host3.planetlab.informatik.tu-darmstadt.de (130.83.166.247)
+Host is up (0.058s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab02.tkn.tu-berlin.de (130.149.49.137)
+Host is up (0.071s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.dit.upm.es (138.4.0.120)
+Host is up (0.100s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab3.di.unito.it (130.192.157.138)
+Host is up (0.088s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.um.es (155.54.239.65)
+Host is up (0.12s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.iii.u-tokyo.ac.jp (133.11.240.56)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for csplanetlab4.kaist.ac.kr (143.248.55.129)
+Host is up (0.40s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.emich.edu (198.108.101.61)
+Host is up (0.13s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab5.cs.cornell.edu (128.84.154.44)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab3.mini.pw.edu.pl (194.29.178.13)
+Host is up (0.072s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.diku.dk (192.38.109.143)
+Host is up (0.050s latency).
+rDNS record for 192.38.109.143: amigos13.distlab.ekstranet.diku.dk
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-13.e5.ijs.si (193.138.2.13)
+Host is up (0.080s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for ple1.dmcs.p.lodz.pl (212.51.218.235)
+Host is up (0.077s latency).
+rDNS record for 212.51.218.235: pc-212-51-218-235.p.lodz.pl
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab3.inf.ethz.ch (192.33.90.68)
+Host is up (0.080s latency).
+rDNS record for 192.33.90.68: planetlab3.ethz.ch
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab4.inf.ethz.ch (192.33.90.69)
+Host is up (0.045s latency).
+rDNS record for 192.33.90.69: planetlab4.ethz.ch
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab02.dis.unina.it (143.225.229.238)
+Host is up (0.064s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.eecs.ucf.edu (132.170.3.32)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.informatik.uni-erlangen.de (131.188.44.100)
+Host is up (0.072s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.tlm.unavarra.es (130.206.158.140)
+Host is up (0.11s latency).
+rDNS record for 130.206.158.140: s158m140.unavarra.es
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-3.imperial.ac.uk (193.63.75.20)
+Host is up (0.077s latency).
+rDNS record for 193.63.75.20: planetlab-3.ic.ac.uk
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.cs.uoi.gr (195.130.121.205)
+Host is up (0.081s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-1.fhi-fokus.de (193.175.135.58)
+Host is up (0.043s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for plnode02.cs.mu.oz.au (220.245.140.197)
+Host is up.
+rDNS record for 220.245.140.197: 220-245-140-197.static.tpgi.com.au
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planet0.jaist.ac.jp (150.65.32.66)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.cs.umb.edu (158.121.252.20)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.c3sl.ufpr.br (200.17.202.195)
+Host is up (0.65s latency).
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.inf.ethz.ch (192.33.90.66)
+Host is up (0.082s latency).
+rDNS record for 192.33.90.66: planetlab1.ethz.ch
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab2.inf.ethz.ch (192.33.90.67)
+Host is up (0.051s latency).
+rDNS record for 192.33.90.67: planetlab2.ethz.ch
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.utdallas.edu (129.110.125.52)
+Host is up (0.15s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab3.williams.edu (137.165.1.113)
+Host is up (0.13s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab02.sys.virginia.edu (128.143.6.130)
+Host is up (0.15s latency).
+rDNS record for 128.143.6.130: planetlab02.sys.Virginia.EDU
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planet1.ku.edu.tr (88.255.99.250)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab4.csee.usf.edu (131.247.2.245)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab6.cs.duke.edu (152.3.138.6)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab5.eecs.umich.edu (141.212.113.180)
+Host is up (0.13s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab12.millennium.berkeley.edu (169.229.50.14)
+Host is up.
+rDNS record for 169.229.50.14: planetlab12.Millennium.Berkeley.EDU
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planet12.csc.ncsu.edu (152.14.93.139)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for plnode-04.gpolab.bbn.com (192.1.249.138)
+Host is up.
+rDNS record for 192.1.249.138: hoth.gpolab.bbn.com
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab0.ucsc.cmb.ac.lk (192.248.16.111)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-js2.cert.org.cn (218.94.106.114)
+Host is up (0.50s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.poly.edu (128.238.88.64)
+Host is up (0.13s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab2.eecs.umich.edu (141.213.4.202)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab5.csail.mit.edu (128.31.1.15)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for plato.di.uoa.gr (88.197.53.228)
+Host is up (0.10s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.cs.uiuc.edu (72.36.112.71)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-1.cmcl.cs.cmu.edu (128.2.211.113)
+Host is up (0.12s latency).
+rDNS record for 128.2.211.113: PLANETLAB-1.CMCL.CS.CMU.EDU
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for plnode01.cs.mu.oz.au (220.245.140.196)
+Host is up.
+rDNS record for 220.245.140.196: 220-245-140-196.static.tpgi.com.au
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.mta.ac.il (212.199.61.203)
+Host is up (0.14s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planet-lab1.cs.ucr.edu (169.235.24.133)
+Host is up (0.20s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.pop-mg.rnp.br (200.19.159.34)
+Host is up (0.25s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-02.kusa.ac.jp (202.244.160.252)
+Host is up (0.34s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for node2.planetlab.uni-luebeck.de (141.83.148.102)
+Host is up (0.044s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for onelab1.pl.sophia.inria.fr (138.96.112.60)
+Host is up (0.060s latency).
+rDNS record for 138.96.112.60: velvet.pl.sophia.inria.fr
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for iason.inf.uth.gr (83.212.32.131)
+Host is up (0.10s latency).
+rDNS record for 83.212.32.131: 83-212-32-131.uth.gr
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.informatik.uni-goettingen.de (134.76.249.229)
+Host is up (0.043s latency).
+rDNS record for 134.76.249.229: planetlab1.extra.informatik.uni-goettingen.de
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.jcp-consult.net (80.65.237.10)
+Host is up (0.075s latency).
+rDNS record for 80.65.237.10: jcpnrm-237-10.pck.nerim.net
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab5.williams.edu (137.165.1.115)
+Host is up (0.13s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.utdallas.edu (129.110.125.51)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.cs.stevens-tech.edu (155.246.12.163)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab3.cs.uoregon.edu (128.223.8.113)
+Host is up (0.19s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab4.rutgers.edu (165.230.49.119)
+Host is up (0.14s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.jhu.edu (128.220.251.52)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-coffee.ait.ie (193.1.13.12)
+Host is up (0.051s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-2.sysu.edu.cn (202.116.81.195)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.cqupt.edu.cn (202.202.43.199)
+Host is up (0.40s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.iitkgp.ac.in (203.110.240.190)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1-santiago.lan.redclara.net (200.0.206.202)
+Host is up (0.16s latency).
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.mnlab.cti.depaul.edu (140.192.249.203)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planet-plc-4.mpi-sws.org (141.39.221.231)
+Host is up.
+rDNS record for 141.39.221.231: srv-40-119.mpi-sws.org
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.cs.umass.edu (128.119.247.250)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-12.e5.ijs.si (193.138.2.12)
+Host is up (0.072s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.postel.org (206.117.37.4)
+Host is up (0.19s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.cs.du.edu (130.253.21.123)
+Host is up (0.14s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for pl1.yonsei.ac.kr (222.99.146.81)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for pl2.yonsei.ac.kr (222.99.146.83)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.ie.cuhk.edu.hk (137.189.98.213)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for ricepl-1.cs.rice.edu (128.42.142.41)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for pl2.eecs.utk.edu (160.36.57.173)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.cs.ubc.ca (142.103.2.2)
+Host is up (0.18s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.netlab.uky.edu (128.163.142.21)
+Host is up (0.15s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab3.hiit.fi (193.167.187.185)
+Host is up (0.046s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for kupl1.ittc.ku.edu (129.237.161.193)
+Host is up (0.17s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for orbpl1.rutgers.edu (128.6.192.158)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for sybaris.ipv6.lip6.fr (132.227.62.99)
+Host is up (0.078s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planet1.cc.gt.atl.ga.us (143.215.131.206)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab01.dis.unina.it (143.225.229.236)
+Host is up (0.078s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.cs.columbia.edu (128.59.20.226)
+Host is up (0.14s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.koganei.itrc.net (133.69.32.131)
+Host is up (0.31s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for kupl2.ittc.ku.edu (129.237.161.194)
+Host is up (0.17s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab2.u-strasbg.fr (130.79.48.57)
+Host is up (0.062s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.pop-ce.rnp.br (200.129.0.161)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.jcp-consult.net (80.65.237.11)
+Host is up (0.11s latency).
+rDNS record for 80.65.237.11: jcpnrm-237-11.pck.nerim.net
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.pop-ce.rnp.br (200.129.0.162)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab4.georgetown.edu (209.148.46.136)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.csee.usf.edu (131.247.2.242)
+Host is up (0.16s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.iis.sinica.edu.tw (140.109.17.181)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-1.cs.colostate.edu (129.82.12.189)
+Host is up.
+Other addresses for planetlab-1.cs.colostate.edu (not scanned): 129.82.12.187
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for chronos.disy.inf.uni-konstanz.de (134.34.246.5)
+Host is up (0.037s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for orbpl2.rutgers.edu (128.6.192.156)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab3.cs.st-andrews.ac.uk (138.251.214.77)
+Host is up (0.056s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for plutarch.di.uoa.gr (88.197.53.226)
+Host is up (0.075s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-2.usask.ca (128.233.252.12)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for kc-sce-plab2.umkc.edu (204.56.0.138)
+Host is up (0.13s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for pl1.prakinf.tu-ilmenau.de (141.24.249.129)
+Host is up (0.040s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab4.csres.utexas.edu (128.83.122.161)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab3.netmedia.gist.ac.kr (210.125.84.43)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.ucsd.edu (132.239.17.224)
+Host is up (0.19s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for csplanetlab3.kaist.ac.kr (143.248.55.128)
+Host is up (0.32s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for plab1.engr.sjsu.edu (130.65.6.225)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab3.ucsd.edu (132.239.17.226)
+Host is up (0.20s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab4.cs.st-andrews.ac.uk (138.251.214.78)
+Host is up (0.054s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.csg.uzh.ch (192.41.136.219)
+Host is up (0.048s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.upc.es (147.83.30.167)
+Host is up (0.080s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-1.di.fc.ul.pt (194.117.20.214)
+Host is up (0.075s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-2.ida.liu.se (192.36.94.3)
+Host is up (0.012s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for plab2.engr.sjsu.edu (130.65.6.227)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planet2.cc.gt.atl.ga.us (143.215.131.197)
+Host is up (0.12s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab0.otemachi.wide.ad.jp (203.178.133.2)
+Host is up (0.30s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for pl2.6test.edu.cn (219.243.208.62)
+Host is up (0.37s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-2.di.fc.ul.pt (194.117.20.215)
+Host is up (0.076s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.dojima.wide.ad.jp (203.178.133.11)
+Host is up (0.32s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab3.upc.es (147.83.30.164)
+Host is up (0.083s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.upc.es (147.83.30.166)
+Host is up (0.077s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for ple2.hpca.ual.es (150.214.150.187)
+Host is up (0.088s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.singaren.net.sg (203.30.39.240)
+Host is up.
+rDNS record for 203.30.39.240: Planetlab1.singaren.net.sg
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.um.es (155.54.239.64)
+Host is up (0.098s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.cs.ubc.ca (142.103.2.1)
+Host is up (0.18s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab4.csail.mit.edu (128.31.1.14)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab01.tkn.tu-berlin.de (130.149.49.136)
+Host is up (0.043s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-01.kusa.ac.jp (202.244.160.251)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.net.in.tum.de (138.246.253.1)
+Host is up (0.044s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for peeramidion.irisa.fr (131.254.208.11)
+Host is up (0.052s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for pl1.uni-rostock.de (139.30.240.191)
+Host is up (0.049s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.arizona-gigapop.net (206.207.248.34)
+Host is up (0.19s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2-tijuana.lan.redclara.net (200.0.206.13)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.cs.aueb.gr (195.251.248.181)
+Host is up (0.077s latency).
+rDNS record for 195.251.248.181: cslab181.cs.aueb.gr
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.csie.nuk.edu.tw (140.127.208.239)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.unl.edu (129.93.229.138)
+Host is up (0.15s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetslug4.cse.ucsc.edu (128.114.63.63)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab7.flux.utah.edu (155.98.35.8)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.singaren.net.sg (203.30.39.241)
+Host is up.
+rDNS record for 203.30.39.241: Planetlab2.singaren.net.sg
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-01.vt.nodes.planet-lab.org (198.82.160.238)
+Host is up (0.13s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for dplanet1.uoc.edu (213.73.40.105)
+Host is up (0.087s latency).
+rDNS record for 213.73.40.105: dplanet1.uoc.es
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for ple2.det.uvigo.es (193.146.210.245)
+Host is up (0.089s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planet-lab2.ufabc.edu.br (200.133.215.142)
+Host is up (0.30s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab1.extern.kuleuven.be (193.190.168.49)
+Host is up (0.039s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-1.pdl.nudt.edu.cn (202.197.15.1)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for plgmu3.ite.gmu.edu (199.26.254.67)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab3.net.in.tum.de (138.246.253.3)
+Host is up (0.043s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.tlm.unavarra.es (130.206.158.138)
+Host is up (0.083s latency).
+rDNS record for 130.206.158.138: s158m138.unavarra.es
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for pl3.cs.unm.edu (198.83.85.46)
+Host is up (0.20s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab01.alucloud.com (135.109.221.103)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planet-plc-1.mpi-sws.org (141.39.221.225)
+Host is up (0.039s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-2.man.poznan.pl (150.254.212.148)
+Host is up (0.043s latency).
+rDNS record for 150.254.212.148: cercis.man.poznan.pl
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for icnalplabs2.epfl.ch (192.33.193.18)
+Host is up (0.052s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planet-plc-2.mpi-sws.org (141.39.221.227)
+Host is up.
+rDNS record for 141.39.221.227: srv-40-117.mpi-sws.org
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planet-plc-3.mpi-sws.org (141.39.221.229)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planet-lab3.uba.ar (157.92.44.103)
+Host is up (0.26s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.engr.uconn.edu (137.99.11.86)
+Host is up (0.12s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.urv.cat (193.144.21.131)
+Host is up (0.082s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab3.cslab.ece.ntua.gr (147.102.3.113)
+Host is up (0.076s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planet1.scs.cs.nyu.edu (216.165.109.81)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planet1.scs.stanford.edu (171.66.3.181)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.cs.uit.no (129.242.19.197)
+Host is up (0.030s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.informatik.uni-kl.de (131.246.19.202)
+Host is up (0.040s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for pl1.csl.utoronto.ca (142.150.238.12)
+Host is up (0.13s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planet2.elte.hu (157.181.175.248)
+Host is up (0.047s latency).
+rDNS record for 157.181.175.248: planet2.onelab.elte.hu
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.cs.cornell.edu (128.84.154.40)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.informatik.uni-erlangen.de (131.188.44.102)
+Host is up (0.036s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.cis.upenn.edu (158.130.6.254)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for ricepl-2.cs.rice.edu (128.42.142.42)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab3.cs.columbia.edu (128.59.20.228)
+Host is up (0.12s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for dannan.disy.inf.uni-konstanz.de (134.34.246.4)
+Host is up (0.037s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.cs.uiuc.edu (72.36.112.72)
+Host is up (0.13s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.fct.ualg.pt (193.136.227.163)
+Host is up (0.078s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-2.scie.uestc.edu.cn (222.197.180.139)
+Host is up (0.43s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.koganei.itrc.net (133.69.32.133)
+Host is up (0.28s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.eecs.umich.edu (141.213.4.201)
+Host is up (0.13s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-1.cse.ohio-state.edu (164.107.127.12)
+Host is up (0.14s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.cs.purdue.edu (128.10.18.52)
+Host is up (0.14s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2-santiago.lan.redclara.net (200.0.206.203)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.cnds.jhu.edu (128.220.231.2)
+Host is up (0.12s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-2.cs.colostate.edu (129.82.12.190)
+Host is up.
+Other addresses for planetlab-2.cs.colostate.edu (not scanned): 129.82.12.188
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for pl1.cs.unm.edu (198.83.85.44)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for pl2-higashi.ics.es.osaka-u.ac.jp (133.1.17.73)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-01.ece.uprm.edu (136.145.115.194)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-02.ece.uprm.edu (136.145.115.196)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab4.cs.uiuc.edu (72.36.112.74)
+Host is up (0.13s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for ple1.det.uvigo.es (193.146.210.244)
+Host is up (0.080s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.eee.hku.hk (202.189.126.86)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.eecs.wsu.edu (134.121.64.7)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-2.cmcl.cs.cmu.edu (128.2.211.114)
+Host is up (0.11s latency).
+rDNS record for 128.2.211.114: PLANETLAB-2.CMCL.CS.CMU.EDU
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab1.sfc.wide.ad.jp (203.178.143.10)
+Host is up (0.32s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.sfc.wide.ad.jp (203.178.143.28)
+Host is up (0.31s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.uta.edu (129.107.35.131)
+Host is up (0.16s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.cesnet.cz (195.113.161.82)
+Host is up (0.039s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab04.cs.washington.edu (128.208.4.99)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.virtues.fi (85.23.168.76)
+Host is up (0.069s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planet3.cc.gt.atl.ga.us (143.215.131.198)
+Host is up (0.13s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planet4.cc.gt.atl.ga.us (143.215.131.199)
+Host is up (0.12s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for mercury.silicon-valley.ru (82.179.176.42)
+Host is up (0.030s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for venus.silicon-valley.ru (82.179.176.44)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for plab-1.sinp.msu.ru (213.131.1.101)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.otemachi.wide.ad.jp (203.178.133.3)
+Host is up (0.29s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab6.csail.mit.edu (128.31.1.16)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.netmedia.gist.ac.kr (210.125.84.41)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab4.cs.duke.edu (152.3.138.4)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab6.cs.cornell.edu (128.84.154.45)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab4.ie.cuhk.edu.hk (137.189.98.209)
+Host is up (0.27s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.netlab.uky.edu (128.163.142.20)
+Host is up (0.16s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab4.flux.utah.edu (155.98.35.5)
+Host is up (0.16s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab2.eas.asu.edu (149.169.227.131)
+Host is up (8.5s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab1.eas.asu.edu (149.169.227.129)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for pub1-s.ane.cmc.osaka-u.ac.jp (133.1.74.162)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for pub2-s.ane.cmc.osaka-u.ac.jp (133.1.74.163)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for plab4.ple.silweb.pl (83.230.127.124)
+Host is up (0.050s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab5.flux.utah.edu (155.98.35.6)
+Host is up (0.16s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab2.utt.fr (194.254.215.12)
+Host is up (0.054s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.citadel.edu (155.225.2.71)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1-buenosaires.lan.redclara.net (200.0.206.168)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2-buenosaires.lan.redclara.net (200.0.206.169)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-01.bu.edu (204.8.155.226)
+Host is up (0.12s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-02.bu.edu (204.8.155.227)
+Host is up (0.12s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for pl2.ucs.indiana.edu (156.56.250.227)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for pl1snu.koren.kr (116.89.165.133)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for plab-2.sinp.msu.ru (213.131.1.102)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-1.usask.ca (128.233.252.11)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1-tijuana.lan.redclara.net (200.0.206.12)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.williams.edu (137.165.1.112)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.byu.edu (128.187.223.211)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.byu.edu (128.187.223.212)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for earth.cs.brown.edu (192.91.235.229)
+Host is up (1.8s latency).
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlabone.ccs.neu.edu (129.10.120.193)
+Host is up (0.11s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.engr.uconn.edu (137.99.11.87)
+Host is up (0.12s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planet-lab1.ufabc.edu.br (200.133.215.141)
+Host is up (0.30s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for mtuplanetlab1.cs.mtu.edu (141.219.252.132)
+Host is up (0.15s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for plab1.cs.ust.hk (143.89.49.73)
+Host is up.
+rDNS record for 143.89.49.73: eek083.ust.hk
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetx.scs.cs.nyu.edu (216.165.109.79)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab3.postel.org (206.117.37.6)
+Host is up (1.2s latency).
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for plab3.eece.ksu.edu (129.130.252.140)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.di.unito.it (130.192.157.131)
+Host is up (0.062s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planet-lab1.uba.ar (157.92.44.101)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for plab4.eece.ksu.edu (129.130.252.141)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for pl1.ucs.indiana.edu (156.56.250.226)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for vn4.cse.wustl.edu (128.252.19.19)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.buaa.edu.cn (202.112.128.10)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for cs-planetlab4.cs.surrey.sfu.ca (206.12.16.155)
+Host is up (0.20s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab5.csres.utexas.edu (128.83.122.162)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.cs.umass.edu (128.119.247.251)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for plgmu2.ite.gmu.edu (199.26.254.66)
+Host is up (0.12s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab2.cs.umb.edu (158.121.252.21)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab4.williams.edu (137.165.1.114)
+Host is up (0.12s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab3.eecs.northwestern.edu (129.105.15.38)
+Host is up (0.12s latency).
+rDNS record for 129.105.15.38: planetlab3.ece.northwestern.edu
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab2.arizona-gigapop.net (206.207.248.35)
+Host is up (0.20s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab3.wail.wisc.edu (198.133.224.147)
+Host is up (0.15s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for node2.planetlab.mathcs.emory.edu (170.140.119.70)
+Host is up (0.14s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab6.flux.utah.edu (155.98.35.7)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-um00.di.uminho.pt (193.136.19.13)
+Host is up (0.077s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.cs.cornell.edu (128.84.154.41)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planet2.scs.stanford.edu (171.66.3.182)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab3.cse.nd.edu (129.74.74.20)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planet-lab2.cs.ucr.edu (169.235.24.232)
+Host is up (0.21s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab4.postel.org (206.117.37.7)
+Host is up (1.7s latency).
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.iis.sinica.edu.tw (140.109.17.180)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.bgu.ac.il (132.72.23.10)
+Host is up (0.10s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-03.cs.princeton.edu (128.112.139.97)
+Host is up (0.11s latency).
+rDNS record for 128.112.139.97: planetlab-03.CS.Princeton.EDU
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-04.cs.princeton.edu (128.112.139.18)
+Host is up.
+rDNS record for 128.112.139.18: planetlab-04.CS.Princeton.EDU
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.csee.usf.edu (131.247.2.241)
+Host is up (0.14s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for pl2.eng.monash.edu.au (130.194.252.9)
+Host is up (0.35s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab4.n.info.eng.osaka-cu.ac.jp (160.193.163.106)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-1.sjtu.edu.cn (202.112.28.98)
+Host is up (0.42s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for plonk.cs.uwaterloo.ca (129.97.74.14)
+Host is up (0.13s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.cs.otago.ac.nz (139.80.206.132)
+Host is up (0.34s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.cs.otago.ac.nz (139.80.206.133)
+Host is up (0.34s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for plab2.cs.ust.hk (143.89.49.74)
+Host is up.
+rDNS record for 143.89.49.74: eek084.ust.hk
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for node2.planetlab.albany.edu (169.226.40.4)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for roam1.cs.ou.edu (129.15.78.30)
+Host is up (0.15s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab3.singaren.net.sg (203.30.39.242)
+Host is up.
+rDNS record for 203.30.39.242: Planetlab3.singaren.net.sg
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab3.eecs.umich.edu (141.212.113.178)
+Host is up (0.13s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.cs.ucl.ac.uk (193.63.58.71)
+Host is up (0.047s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for node1.planetlab.albany.edu (169.226.40.2)
+Host is up (0.12s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-2.cse.ohio-state.edu (164.107.127.13)
+Host is up (0.13s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for osiris.planetlab.cs.umd.edu (128.8.126.78)
+Host is up (3.0s latency).
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for whitefall.planetlab.cs.umd.edu (128.8.126.79)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for pl2.rcc.uottawa.ca (216.48.80.14)
+Host is up (0.12s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.pop-rs.rnp.br (200.132.1.6)
+Host is up (0.32s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for pl3.planet.cs.kent.edu (131.123.34.37)
+Host is up (3.5s latency).
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.cs.purdue.edu (128.10.18.53)
+Host is up (0.14s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-01.cs.princeton.edu (128.112.139.42)
+Host is up (0.11s latency).
+rDNS record for 128.112.139.42: planetlab-01.CS.Princeton.EDU
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.poly.edu (128.238.88.65)
+Host is up (0.10s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planet-lab2.uba.ar (157.92.44.102)
+Host is up (0.26s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab2.unl.edu (129.93.229.139)
+Host is up (0.14s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.ntu.nodes.planet-lab.org (140.112.107.80)
+Host is up.
+rDNS record for 140.112.107.80: planetlab1.im.ntu.edu.tw
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab01.cs.washington.edu (128.208.4.197)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-1.cs.auckland.ac.nz (130.216.1.22)
+Host is up (0.32s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab-2.cs.auckland.ac.nz (130.216.1.23)
+Host is up (0.31s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for pl1.rcc.uottawa.ca (216.48.80.12)
+Host is up (0.12s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab4.singaren.net.sg (203.30.39.243)
+Host is up.
+rDNS record for 203.30.39.243: Planetlab4.singaren.net.sg
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab3.cs.uiuc.edu (72.36.112.73)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for salt.planetlab.cs.umd.edu (128.8.126.111)
+Host is up (0.11s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.cs.uoregon.edu (128.223.8.112)
+Host is up (0.20s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.cs.uoregon.edu (128.223.8.111)
+Host is up (0.19s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.cs.ucla.edu (131.179.150.70)
+Host is up (0.19s latency).
+rDNS record for 131.179.150.70: Planetlab1.CS.UCLA.EDU
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab5.millennium.berkeley.edu (169.229.50.7)
+Host is up.
+rDNS record for 169.229.50.7: planetlab5.Millennium.Berkeley.EDU
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.pop-pa.rnp.br (200.129.132.18)
+Host is up (0.23s latency).
+rDNS record for 200.129.132.18: h-200-129-132-18.pop-pa.rnp.br
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab2.cs.uml.edu (129.63.159.102)
+Host is up (0.11s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for plewifi.ipv6.lip6.fr (132.227.62.118)
+Host is up (0.045s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab13.millennium.berkeley.edu (169.229.50.15)
+Host is up.
+rDNS record for 169.229.50.15: planetlab13.Millennium.Berkeley.EDU
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.eecs.wsu.edu (134.121.64.4)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-2.sjtu.edu.cn (202.112.28.100)
+Host is up (0.42s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab8.millennium.berkeley.edu (169.229.50.10)
+Host is up.
+rDNS record for 169.229.50.10: planetlab8.Millennium.Berkeley.EDU
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.clemson.edu (130.127.39.152)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.jhu.edu (128.220.251.50)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-2.cs.uic.edu (131.193.34.38)
+Host is up (0.13s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for flow.colgate.edu (149.43.80.22)
+Host is up (0.12s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for metis.mcs.suffolk.edu (192.138.213.238)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for adrastea.mcs.suffolk.edu (192.138.213.236)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab4.cs.uoregon.edu (128.223.8.114)
+Host is up (0.19s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.ntu.nodes.planet-lab.org (140.112.107.82)
+Host is up.
+rDNS record for 140.112.107.82: planetlab2.im.ntu.edu.tw
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab7.cs.duke.edu (152.3.138.7)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab5.cs.uiuc.edu (72.36.112.78)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab6.cs.uiuc.edu (72.36.112.79)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab4.tamu.edu (165.91.55.11)
+Host is up (0.15s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab6.csee.usf.edu (131.247.2.248)
+Host is up (0.15s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for plgmu4.ite.gmu.edu (199.26.254.68)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for saturn.planetlab.carleton.ca (134.117.226.180)
+Host is up (0.13s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-04.vt.nodes.planet-lab.org (198.82.160.221)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab7.millennium.berkeley.edu (169.229.50.9)
+Host is up.
+rDNS record for 169.229.50.9: planetlab7.Millennium.Berkeley.EDU
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab10.millennium.berkeley.edu (169.229.50.12)
+Host is up.
+rDNS record for 169.229.50.12: planetlab10.Millennium.Berkeley.EDU
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab11.millennium.berkeley.edu (169.229.50.13)
+Host is up.
+rDNS record for 169.229.50.13: planetlab11.Millennium.Berkeley.EDU
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab9.millennium.berkeley.edu (169.229.50.11)
+Host is up.
+rDNS record for 169.229.50.11: planetlab9.Millennium.Berkeley.EDU
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for kc-sce-plab1.umkc.edu (204.56.0.137)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.cqupt.edu.cn (202.202.43.198)
+Host is up (0.40s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for plab1.cs.msu.ru (188.44.50.106)
+Host is up (0.029s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for pl2.zju.edu.cn (210.32.181.184)
+Host is up (0.42s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.cs.okstate.edu (139.78.141.245)
+Host is up (0.16s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.warsaw.rd.tp.pl (195.116.53.11)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for nodeb.howard.edu (138.238.250.157)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for pl2.cs.montana.edu (153.90.1.35)
+Host is up (0.23s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab02.alucloud.com (135.109.221.104)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for pl4.cs.unm.edu (198.83.85.47)
+Host is up (0.19s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab01.sys.virginia.edu (128.143.6.134)
+Host is up (0.13s latency).
+rDNS record for 128.143.6.134: planetlab01.sys.Virginia.EDU
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for pluto.cs.brown.edu (192.91.235.230)
+Host is up (0.11s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab4.cse.nd.edu (129.74.74.19)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planet3.cs.ucsb.edu (128.111.52.63)
+Host is up (0.19s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetslug5.cse.ucsc.edu (128.114.63.64)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for vn5.cse.wustl.edu (128.252.19.18)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for plab2.larc.usp.br (143.107.111.235)
+Host is up (0.27s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab5.csee.usf.edu (131.247.2.246)
+Host is up (0.15s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-4.eecs.cwru.edu (129.22.150.29)
+Host is up (0.14s latency).
+rDNS record for 129.22.150.29: planetlab-4.eecs.CWRU.Edu
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab3.cnds.jhu.edu (128.220.231.4)
+Host is up (0.12s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for pl1.planet.cs.kent.edu (131.123.34.35)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for miranda.planetlab.cs.umd.edu (128.8.126.98)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1-saopaulo.lan.redclara.net (200.0.206.136)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for pnode1.pdcc-ntu.singaren.net.sg (203.30.39.238)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for nodea.howard.edu (138.238.250.155)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.cs.unc.edu (204.85.191.10)
+Host is up (0.13s latency).
+rDNS record for 204.85.191.10: planetlab1.telenet.unc.edu
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planet4.cs.ucsb.edu (128.111.52.64)
+Host is up (0.18s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab-5.eecs.cwru.edu (129.22.150.78)
+Host is up (0.14s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab3.arizona-gigapop.net (206.207.248.38)
+Host is up (0.20s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.pop-pa.rnp.br (200.129.132.19)
+Host is up (0.23s latency).
+rDNS record for 200.129.132.19: h-200-129-132-19.pop-pa.rnp.br
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab3.canterbury.ac.nz (132.181.10.56)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.ie.cuhk.edu.hk (137.189.98.208)
+Host is up (0.27s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planet-lab4.uba.ar (157.92.44.104)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.uta.edu (129.107.35.132)
+Host is up (0.15s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab7.csres.utexas.edu (128.83.122.152)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for ricepl-4.cs.rice.edu (128.42.142.44)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab6.csres.utexas.edu (128.83.122.143)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlabtwo.ccs.neu.edu (129.10.120.194)
+Host is up (0.12s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-2.ssvl.kth.se (192.16.125.12)
+Host is up (0.0091s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for ricepl-5.cs.rice.edu (128.42.142.45)
+Host is up (0.16s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for pnode2.pdcc-ntu.singaren.net.sg (203.30.39.239)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.cs.colorado.edu (128.138.207.44)
+Host is up (2.5s latency).
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for plnode-03.gpolab.bbn.com (192.1.249.137)
+Host is up.
+rDNS record for 192.1.249.137: endor.gpolab.bbn.com
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab02.just.edu.jo (87.236.232.174)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.ecs.vuw.ac.nz (130.195.4.68)
+Host is up (0.32s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planet6.cs.ucsb.edu (128.111.52.59)
+Host is up (0.19s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planet5.cs.ucsb.edu (128.111.52.58)
+Host is up (0.18s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab1.millennium.berkeley.edu (169.229.50.3)
+Host is up.
+rDNS record for 169.229.50.3: planetlab1.Millennium.Berkeley.EDU
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-1.elisa.cpsc.ucalgary.ca (136.159.220.40)
+Host is up (0.17s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for ttu2-1.nodes.planet-lab.org (66.140.111.7)
+Host is up (0.16s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for pl2.sos.info.hiroshima-cu.ac.jp (165.242.90.129)
+Host is up (0.33s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-n1.wand.net.nz (130.217.77.2)
+Host is up (0.33s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for recall.snu.ac.kr (147.46.240.165)
+Host is up (0.31s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.tsuniv.edu (206.23.240.28)
+Host is up (0.15s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.buaa.edu.cn (202.112.128.11)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.cs.uml.edu (129.63.159.101)
+Host is up (0.12s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.umassd.edu (134.88.5.251)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.umassd.edu (134.88.5.253)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.cs.pitt.edu (192.52.240.214)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-1.scie.uestc.edu.cn (222.197.180.137)
+Host is up (0.42s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for mtuplanetlab2.cs.mtu.edu (141.219.252.133)
+Host is up (0.14s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planet-lab1.itba.edu.ar (190.227.163.142)
+Host is up (0.28s latency).
+rDNS record for 190.227.163.142: host142.190-227-163.telecom.net.ar
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.iitkgp.ac.in (203.110.240.191)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for plink.cs.uwaterloo.ca (129.97.74.12)
+Host is up (0.13s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planet11.csc.ncsu.edu (152.14.93.140)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.plab.ege.edu.tr (155.223.52.1)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-03.vt.nodes.planet-lab.org (198.82.160.220)
+Host is up (0.13s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.c3sl.ufpr.br (200.17.202.194)
+Host is up (0.30s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.eee.hku.hk (202.189.126.85)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planet1.pnl.nitech.ac.jp (133.68.253.242)
+Host is up (0.30s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planet2.pnl.nitech.ac.jp (133.68.253.243)
+Host is up (0.30s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planet1.dsp.ac.cn (210.75.225.60)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.cs.ucl.ac.uk (193.63.58.70)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planet2.dsp.ac.cn (210.75.225.62)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.aut.ac.nz (156.62.231.242)
+Host is up (0.32s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.aut.ac.nz (156.62.231.244)
+Host is up (0.31s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for pl2.cs.yale.edu (128.36.233.154)
+Host is up (0.11s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for pl1.cs.yale.edu (128.36.233.153)
+Host is up (0.12s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for roam2.cs.ou.edu (129.15.78.31)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for pl1.cis.uab.edu (138.26.66.4)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planet2.cs.rochester.edu (128.151.65.102)
+Host is up (0.11s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for pl2.cis.uab.edu (138.26.66.5)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.cnis.nyit.edu (108.58.13.205)
+Host is up (0.12s latency).
+rDNS record for 108.58.13.205: ool-6c3a0dcd.static.optonline.net
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.cnis.nyit.edu (108.58.13.206)
+Host is up (0.11s latency).
+rDNS record for 108.58.13.206: ool-6c3a0dce.static.optonline.net
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for arari.snu.ac.kr (147.46.240.166)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.unr.edu (134.197.113.3)
+Host is up (0.19s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planet-plc-5.mpi-sws.org (141.39.221.233)
+Host is up.
+rDNS record for 141.39.221.233: srv-40-120.mpi-sws.org
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planet-plc-6.mpi-sws.org (141.39.221.235)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planet1.cs.rochester.edu (128.151.65.101)
+Host is up (0.11s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab1.cs.du.edu (130.253.21.121)
+Host is up (0.15s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for ple3.ipv6.lip6.fr (132.227.62.121)
+Host is up (0.044s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for stella.planetlab.ntua.gr (147.102.224.228)
+Host is up (0.076s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for pl1-higashi.ics.es.osaka-u.ac.jp (133.1.17.72)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.cti.espol.edu.ec (200.10.150.252)
+Host is up (0.19s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for 75-130-96-12.static.oxfr.ma.charter.com (75.130.96.12)
+Host is up (0.12s latency).
+rDNS record for 75.130.96.12: PL-TOP.RESEARCH.WPI.NET
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for 75-130-96-13.static.oxfr.ma.charter.com (75.130.96.13)
+Host is up (0.12s latency).
+rDNS record for 75.130.96.13: PL-BOTTOM.RESEARCH.WPI.NET
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for pln.zju.edu.cn (210.32.133.7)
+Host is up (0.42s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab2.nakao-lab.org (202.237.248.222)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for plab3.cs.msu.ru (93.180.19.232)
+Host is up (0.032s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for plgmu1.ite.gmu.edu (199.26.254.69)
+Host is up (0.12s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab2.mnlab.cti.depaul.edu (140.192.249.204)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for pl2.tailab.eu (194.79.147.165)
+Host is up (0.058s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.cs.okstate.edu (139.78.141.243)
+Host is up (0.15s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.temple.edu (129.32.84.160)
+Host is up (0.12s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.temple.edu (129.32.84.161)
+Host is up (0.12s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab3.bupt.edu.cn (211.68.70.40)
+Host is up (0.38s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for plab2.nec-labs.com (138.15.10.56)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-1.ssvl.kth.se (192.16.125.11)
+Host is up (0.0094s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.ewi.tudelft.nl (130.161.40.153)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetvs2.informatik.uni-stuttgart.de (129.69.210.97)
+Host is up (0.036s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for pl-dccd-01.cua.uam.mx (148.206.185.33)
+Host is up (0.18s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.mini.pw.edu.pl (194.29.178.5)
+Host is up (0.049s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-1.ida.liu.se (192.36.94.2)
+Host is up (0.012s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for plab2.ple.silweb.pl (83.230.127.122)
+Host is up (0.045s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.acis.ufl.edu (128.227.150.11)
+Host is up (0.16s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.acis.ufl.edu (128.227.150.12)
+Host is up (0.16s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.cs.pitt.edu (192.52.240.213)
+Host is up (0.12s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.plab.ege.edu.tr (155.223.52.3)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab05.cs.washington.edu (128.208.3.180)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetslug7.cse.ucsc.edu (128.114.63.15)
+Host is up.
+rDNS record for 128.114.63.15: planetslug7.soe.ucsc.edu
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.cs.colorado.edu (128.138.207.45)
+Host is up (0.15s latency).
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab2.millennium.berkeley.edu (169.229.50.4)
+Host is up.
+rDNS record for 169.229.50.4: planetlab2.Millennium.Berkeley.EDU
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planet1.zib.de (130.73.241.33)
+Host is up (0.041s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.extern.kuleuven.be (193.190.168.51)
+Host is up (0.037s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.cs.vu.nl (130.37.193.141)
+Host is up (0.035s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-tea.ait.ie (193.1.13.14)
+Host is up (0.052s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for ple6.ipv6.lip6.fr (132.227.62.124)
+Host is up (0.044s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.pop-rs.rnp.br (200.132.1.4)
+Host is up (0.32s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab3.georgetown.edu (209.148.46.135)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for pl2.csl.utoronto.ca (142.150.238.13)
+Host is up (0.12s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab-3.cmcl.cs.cmu.edu (128.2.211.115)
+Host is up (0.11s latency).
+rDNS record for 128.2.211.115: PLANETLAB-3.CMCL.CS.CMU.EDU
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab7.csail.mit.edu (128.31.1.17)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab-2.calpoly-netlab.net (208.94.63.194)
+Host is up.
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap scan report for planetlab1.csuohio.edu (137.148.16.10)
+Host is up (0.14s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab-1.cs.uic.edu (131.193.34.21)
+Host is up (0.13s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for pl-node-0.csl.sri.com (192.12.33.100)
+Host is up (0.18s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for pl-node-1.csl.sri.com (192.12.33.102)
+Host is up (0.18s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for ttu1-1.nodes.planet-lab.org (66.140.111.5)
+Host is up (0.17s latency).
+PORT   STATE  SERVICE
+22/tcp closed ssh
+
+Nmap scan report for planetlab1.ustc.edu.cn (202.141.161.43)
+Host is up (0.34s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.rutgers.edu (165.230.49.114)
+Host is up (0.12s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.research.nicta.com.au (221.199.217.144)
+Host is up (0.33s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab1.cs.uit.no (129.242.19.196)
+Host is up (0.031s latency).
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for planetlab2.diku.dk (192.38.109.144)
+Host is up (0.019s latency).
+rDNS record for 192.38.109.144: amigos14.distlab.ekstranet.diku.dk
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap done: 566 IP addresses (566 hosts up) scanned in 200.77 seconds
